@@ -1,0 +1,143 @@
+---
+I18nSwitch.en: EN
+I18nSwitch.it: IT
+Untranslated.title: Coming soon
+Untranslated.subtitle: Sorry, this content has not been translated in English yet
+Untranslated.text: Available in
+Untranslated.textLang_en: English
+Untranslated.textLang_it: Italian
+siteTitle: LaSchola
+siteDescription: Multi-purpose center for the formation of the self
+cat.activities: Activities
+cat.blog: Blog
+cat.news: News
+cat.events: Events
+cat.projects: Projects
+nav.home: Home
+nav.about: About us
+nav.activities: Activities
+nav.blog: Blog
+nav.calendar: Calendar
+nav.contacts: Contacts
+nav.where: Where we are
+nav.events: Events
+nav.gallery: Gallery
+nav.news: News
+nav.partners: Partners and friends
+nav.projects: Projects
+nav.halls: Halls
+nav.spaces: Spaces
+nav.spacesCamere: Rooms
+nav.spacesLaboratori: Labs
+nav.maps: Maps
+nav.stream: What's on
+nav.cookie: Cookie
+nav.privacy: Privacy
+nav.donate: Donate
+nav.tags: Tags
+Footer.address: Address
+Footer.email: Email
+Footer.copy: Copyleft 2018 - {year} LaSchola
+404.title: 404
+404.subtitle: Page not found
+404.cfSubtitle: Can not find what you were looking for? Tell us, we might help you
+TplActivitiesSingle.partners: Organised by
+TplActivitiesSingle.upcomingEventsSub: Calendar
+TplActivitiesSingle.upcomingEvents: Upcoming events
+TplActivitiesSingle.upcomingEventsId: upcoming
+TplPartnersSingle.relatedContentTitle: content related to its involvement
+TplPartnersSingle.relatedContentSubtitle: >-
+  {name} at LaSchola
+PagesActivities.cfSubtitle: Scrivici per sapere di più su una singola attività o per proporne
+  una!
+PagesNews.cfSubtitle: Scrivici se vuoi pubblicare una comunicazione relativa alle attività
+  de LaSchola, o contattaci per maggiori informazioni e aggiornamenti
+PagesPartners.cfTitle: Get in touch with us
+PagesPartners.cfSubtitle: Scrivici per possibili collaborazioni, partnership, progetti
+  di rete o solo per conoscerci meglio
+PagesProjects.cfSubtitle: Scrivici se vuoi presentarci un progetto, collaborare a realizzarne
+  uno o partecipare a un bando
+TplProjectsSingle.partners: Partners and project's supporters
+SpacesLabs.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli laboratori
+  o per parlarci di un progetto!
+PagesSpaces.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli spazi o per
+  la pianificazione di un progetto
+Stream.cfSubtitle: Scrivici per sapere di più su cosa succede qui a LaSchola, su come
+  partecipare o contribuire al progetto
+PagesTags.searchPlaceholder: Filter tags
+PagesTags.noTagsFor: No tags found for {tag}
+TplTagsSingle.navTitle: Tags
+TplTagsSingle.subtitle: Content that talks about “{tag}”
+PagesHome.featuredTitle: Highlights
+PagesHome.featuredSubtitle: Find out what is happening at LaSchola, the latest news
+  and the ongoing activities
+PagesHome.featuredCta: Know more
+PagesHome.cfSubtitle: Write us to organise a meeting, if you have proposals or ideas
+  or if you just want to know more
+PagesCalendar.cfSubtitle: Scrivici per maggiori informazioni sul programma, per segnalare
+  un cambiamento o proporre un evento
+PagesCalendar.bBarLabel1main: LaSchola
+PagesCalendar.bBarLabel1sub: In Morosolo/Casciago
+PagesCalendar.bBarLabel2main: Centro Coscienza
+PagesCalendar.bBarLabel2sub: In Milan
+PagesCalendar.calVivendaViewMoreUrl: https://www.facebook.com/associazionevivenda/
+PagesCalendar.calVivendaViewMoreText: Find more on facebook
+PagesCalendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
+PagesCalendar.calCeCoViewMoreText: Find more on centrocoscienza.it
+PagesWhere.where.title: Dove siamo
+PagesWhere.where.subtitle: Ci trovate a Morosolo, frazione di Casciago in provincia
+  di Varese
+EntryDate.published: Published
+EntryTimeSpan.label: Period
+EntryTimeSpan.fromDate: From
+EntryTimeSpan.toDate: to
+EntryTimeSpan.fromTime: from
+EntryTimeSpan.toTime: to
+EntryTimeSpan.begins: Begins
+EntryTimeSpan.ends: Ends
+EntryTags.label: Topics
+EntryLocation.where: Where
+EntryCalendar.calendar: Calendar
+EntryCalendar.viewCalendar: See calendar
+EntryCalendar.viewUpcoming: See upcoming events
+EntryWebsite.visit: View
+EntryMeta.addDate: Add to
+EntryMeta.googleCalendar: Google calendar
+EntryMeta.addToGoogleCalendar: Add to your Google Calendar
+EntryInfo.frequency: Frequency
+EntryInfo.duration: Duration
+EntryInfo.target: Addressed to
+EntryInfo.price: Price
+EntryInfo.participants: Participants
+EntryInfo.teacher: Held by
+EntryInfo.web: Website
+EntryInfo.location: Where
+noContent: No content here yet
+room.name: Room {name}
+room.beds: Beds
+room.balcony: Balcon
+room.outdoorAccess: Outdoor access
+ContactForm.name: Name
+ContactForm.organization: Organisation, association, company
+ContactForm.email: Email
+ContactForm.phone: Phone number
+ContactForm.message: Message
+ContactForm.send: Send
+ContactForm.thanksTitle: Thanks,
+ContactForm.thanksText: we will reply you soon
+ContactForm.title: Contact us
+ContactForm.subtitle: Drop us a line to know more, organise a meeting or anything
+  else
+ContactForm.ctaEmail: otherwise send an email to {email}
+ContactForm.ctaPhone: or call or text {phone}
+NoContent.text: There is no published content here yet
+CarouselFooterCount: "{current} of {howMany}"
+EventDialog.noDesc: No details available at the moment
+EventDialog.ctaContact: Contact us to learn more
+EventDialog.ctaViewMore: Learn more
+EventDialog.ctaViewMoreOn: Learn more at
+EventDialog.close: Close
+CalendarGoogleLoadable.loading: Refreshing calendar data...
+EventsList.loading: Searching the calendar...
+ReadMore.expand: Read more
+ReadMore.collapse: Collapse

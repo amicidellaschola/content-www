@@ -1,0 +1,55 @@
+---
+template: events-single
+slug: /eventi/sabato-letterario-pia-pera
+priority: 0
+date: 2019-12-14T00:00:00.000Z
+title: Al giardino ancora non l’ho detto
+subtitle: Il sabato letterario del 14 dicembre 2019
+cover:
+  image: ./cover.jpg
+  caption: Pia Pera, Al giardino ancora non l’ho detto
+cardLabel: 14 Dic 2019
+googleCalendarEventRegex: /Sabato letterario, Pia Pera/
+categories:
+  - events
+partners:
+  - associazione-vivenda
+---
+
+import { Upcoming } from "src/components/Calendar";
+
+<EntryInfo variant="frequency" label="14 dicembre 2019" value="dalle 16:00 alle 18:00"/>
+<EntryInfo variant="teacher" label="A cura di" value="Patrizia Leotta, docente di lettere e socia di Associazione Vivenda"/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" bottom={6}/>
+
+<Row bottom={3}>
+<Col columned>
+
+Con il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.
+
+Quando riceve in eredità un podere in stato di abbandono nella Lucchesia, Pia Pera decide di lasciare Milano, città in cui ormai da tempo viveva, e di abitare in pianta stabile nel podere, anche per riportarlo alla vita. Così, da “cittadina cresciuta sui libri”, scopre la passione per la natura e comincia a seguire l’insegnamento del filosofo e botanico giapponese Masanobu Fukuoka, di cui è nota la regola “non contrastare ma assecondare la natura”. Vivere nel podere alle pendici del Monte Pisano, rappresenta una svolta anche per la scrittura di Pia Pera.
+
+Dopo alcune traduzioni di autori russi e l’esordio nella narrativa con libri di successo, ecco che Pia Pera scopre la sua nuova via leggendo *Il giardino segreto* di Frances H.Burnett “un libro dimenticato, divenuto inconscio”, come lei stessa dirà. Da questa originale  vena ispiratrice deriva il primo titolo della nuova via, *L’orto di un perdigiorno. Confessioni di un apprendista ortolano*, del 2003, in cui, indagando sulla sua scelta di vita, arriva alla conclusione che _sì, la felicità è possibile, e sì, anche la beatitudine_.
+
+Poi sarà il turno di *Il giardino che vorrei* (2006), *Contro il giardino. Dalla parte delle piante* (2007), *Giardini & Ortoterapia. Coltivando la terra si coltiva anche la felicità* (2010) e *Le vie dell’orto. Coltivare verdura e frutta sul balcone, sul davanzale o in piena terra e difendere il proprio diritto alla semplicità* (2011), fino alla collaborazione con la rivista  “Gardenia” e con  “Il Sole 24 ore”. Le conoscenze botaniche, sempre più approfondite, il contatto, sempre più intimo, con il mondo delle piante e degli animali, portano Pia Pera a  riconoscersi  come parte di esso e ad  elaborare una  filosofia della vita di cui *Al giardino ancora non l’ho detto* costituisce una sorta di testamento.
+
+![pia-pera-al-giardino-ancora-non-l-ho-detto](./pia-pera-al-giardino-ancora-non-l-ho-detto.jpg)
+
+<QuoteAuthor>
+
+*Al giardino ancora non l’ho detto*<br />
+ed. Ponte alle Grazie, Milano 2016
+
+</QuoteAuthor>
+
+
+Essendo il racconto autobiografico della sua malattia, la scrittrice-giardiniera, come è stata definita,  pensava che questo libro risultasse triste ai suoi lettori, abituati a una scrittura “scoppiettante, mordace, dissacrante”, l’esito, invece, è quello di un libro “bellissimo, raffinato, lucido, intelligente ma soprattutto pieno di speranza” (cit. Cristina Palomba, editor di Pia Pera).
+
+*Al giardino ancora non l’ho detto* è uno di quei libri che definiamo “splendidi” perché “ci insegnano un modo di pensare” (Nicola Gardini).
+
+Sabato 14 dicembre, alle ore 17.00, ci incontreremo alla Schola di Morosolo per discutere e scambiarci impressioni ed emozioni portate alla luce dalla lettura  del libro di una raffinata scrittrice, Pia Pera.
+
+</Col>
+</Row>
+
+<Upcoming subtitle="Prossimi eventi" title="del Sabato letterario" contains="Sabato letterario"></Upcoming>
