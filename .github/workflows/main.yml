@@ -6,10 +6,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-  steps:
-    - name: checkout
-      uses: actions/checkout@v1
-    - name: create paths.json
-      uses: knitkode/action-content-paths@v1
-    - name: commit
-      uses: stefanzweifel/git-auto-commit-action@v4
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: create paths.json
+        uses: knitkode/action-content-paths@v1
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
