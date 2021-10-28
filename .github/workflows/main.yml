@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        # with:
-        #   ref: ${{ github.head_ref }}
+        with:
+          ref: ${{ github.head_ref }}
       - uses: knitkode/action-content-paths@v0.0.5
       - uses: stefanzweifel/git-auto-commit-action@v2.3.0
         with:
