@@ -1,6 +1,6 @@
 ---
 template: news-single
-slug: /novità/nuovo-sito-de-laschola
+slug: /nuovo-sito-de-laschola
 priority: 0
 seo:
   description: Un unico posto online dove seguire le nostre attività
