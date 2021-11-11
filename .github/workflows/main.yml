@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: knitkode/kms-action@55b5752c2c40112beaf92a17b6201ee7c6bee7e1
+      - uses: knitkode/kms-action@0.0.1
