@@ -1,0 +1,19 @@
+{
+  "dir": "pages/tags",
+  "parentDirs": "pages",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-tags",
+    "slug": "/tags",
+    "title": "Tags",
+    "subtitle": "Search content by tag"
+  },
+  "routeId": "tags",
+  "slug": "/tags",
+  "templateSlug": "tags"
+}

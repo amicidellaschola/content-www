@@ -1,0 +1,18 @@
+{
+  "dir": "pages/spaces",
+  "parentDirs": "pages",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-spaces",
+    "slug": "/spazi",
+    "title": "Spazi"
+  },
+  "routeId": "spaces",
+  "slug": "/spazi",
+  "templateSlug": "spaces"
+}

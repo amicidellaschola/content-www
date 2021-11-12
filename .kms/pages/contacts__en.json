@@ -1,0 +1,19 @@
+{
+  "dir": "pages/contacts",
+  "parentDirs": "pages",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "\n<ContactForm id=\"contact-us\" emailable=\"info@laschola.it\" title=\"\" subtitle=\"\"></ContactForm>\n",
+  "excerpt": "",
+  "data": {
+    "template": "pages-contacts",
+    "slug": "/contacts",
+    "title": "Contacts",
+    "subtitle": "Write us to know more or anything else"
+  },
+  "routeId": "contacts",
+  "slug": "/contacts",
+  "templateSlug": "contacts"
+}

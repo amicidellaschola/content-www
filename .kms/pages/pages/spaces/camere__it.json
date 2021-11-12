@@ -1,0 +1,23 @@
+{
+  "dir": "pages/spaces/camere",
+  "parentDirs": "pages/spaces",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\nA LaSchola abbiamo 6 stanze per un totale di circa 20 posti letto pronti ad ospitarvi durante i vostri seminari, corsi e workshop. Ogni camera ha da uno a tre/quattro posti letto, un bagno privato e un balcone. In ogni stanza troverete un arredo semplice e funzionale.\n",
+  "excerpt": "",
+  "data": {
+    "template": "pages-spaces-rooms",
+    "slug": "/spazi/camere",
+    "title": "Camere",
+    "subtitle": "Dormire a LaSchola",
+    "cover": {
+      "image": "./photos/SAM_8494.jpg"
+    },
+    "order": 5
+  },
+  "routeId": "spaces/camere",
+  "slug": "/spazi/camere",
+  "templateSlug": "pages/spaces/camere"
+}

@@ -1,0 +1,38 @@
+{
+  "dir": "projects/2020--bihospitalis/stagno/piantumazione-prime-ossigenanti",
+  "parentDirs": "projects/2020--bihospitalis/stagno",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "block": {
+      "id": "piantumazione-prime-ossigenanti",
+      "section": "stagno",
+      "order": 4
+    },
+    "title": "Piantumazione delle prime ossigenanti",
+    "subtitle": "Preparando la vita dello stagno",
+    "gallery": {
+      "items": [
+        {
+          "image": "./media/IMG_20201027_160446.jpg"
+        },
+        {
+          "image": "./media/IMG_20201027_160515.jpg"
+        },
+        {
+          "image": "./media/IMG_20201027_160621.jpg"
+        },
+        {
+          "image": "./media/IMG-20201028-WA0001.jpg"
+        }
+      ]
+    }
+  },
+  "routeId": "projects/2020--bihospitalis/stagno/piantumazione-prime-ossigenanti",
+  "slug": "projects/2020--bihospitalis/stagno/piantumazione-prime-ossigenanti",
+  "templateSlug": "projects/2020--bihospitalis/stagno/piantumazione-prime-ossigenanti"
+}

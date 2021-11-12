@@ -1,0 +1,79 @@
+{
+  "dir": "spaces/sala-cremisi",
+  "parentDirs": "spaces",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "spaces-single",
+    "slug": "/spaces/cremisi-hall",
+    "order": 7,
+    "spaceId": "Ed1-A--2",
+    "map": {
+      "building": 2,
+      "floor": "A",
+      "color": "#fff",
+      "svgPath": ""
+    },
+    "title": "Cremisi",
+    "subtitle": "Welcome to building 1",
+    "cover": {
+      "image": "./photos/SAM_8560.jpg"
+    },
+    "capacity": "40 people",
+    "gallery": {
+      "items": [
+        {
+          "image": "./photos/SAM_8549.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8550.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8551.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8552.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8553.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8554.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8555.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8556.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8557.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8558.jpg",
+          "alt": ""
+        },
+        {
+          "image": "./photos/SAM_8560.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  },
+  "routeId": "spaces/sala-cremisi",
+  "slug": "/spaces/cremisi-hall",
+  "templateSlug": "spaces/cremisi-hall"
+}
