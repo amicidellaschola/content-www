@@ -1,0 +1,19 @@
+{
+  "dir": "pages/stream",
+  "parentDirs": "pages",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-stream",
+    "slug": "/cosa-succede",
+    "title": "Cosa succede",
+    "subtitle": "Segui cosa succede a LaSchola"
+  },
+  "routeId": "stream",
+  "slug": "/cosa-succede",
+  "templateSlug": "stream"
+}

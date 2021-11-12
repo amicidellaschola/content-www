@@ -1,0 +1,62 @@
+{
+  "dir": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-progetti",
+  "parentDirs": "projects/2020--bihospitalis/aiuola-impollinatori",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\n",
+  "excerpt": "",
+  "data": {
+    "block": {
+      "id": "progetti",
+      "section": "aiuola-impollinatori",
+      "order": 2
+    },
+    "title": "I progetti dei ragazzi",
+    "subtitle": "Collage e disegni preparatori",
+    "gallery": {
+      "items": [
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (1).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (2).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (3).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (4).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (5).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (6).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (7).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (8).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (9).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (10).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (11).jpg"
+        },
+        {
+          "image": "./media/24 feb2021  cl 3^ schola (12).jpg"
+        }
+      ]
+    }
+  },
+  "routeId": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-progetti",
+  "slug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-progetti",
+  "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-progetti"
+}

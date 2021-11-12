@@ -1,0 +1,47 @@
+{
+  "dir": "projects/2020--bihospitalis/stagno/preparazione-impermeabilizzazione",
+  "parentDirs": "projects/2020--bihospitalis/stagno",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\n- Acqua è vita\n- Crea nuovi microclimi\n",
+  "excerpt": "",
+  "data": {
+    "block": {
+      "id": "preparazione-impermeabilizzazione",
+      "section": "stagno",
+      "order": 2
+    },
+    "title": "Impermeabilizzazione",
+    "subtitle": "Preparando lo stagno",
+    "gallery": {
+      "items": [
+        {
+          "image": "./media/IMG_20200920_185235.jpg"
+        },
+        {
+          "image": "./media/IMG_20200920_190221.jpg"
+        },
+        {
+          "image": "./media/IMG_20200920_190514.jpg"
+        },
+        {
+          "image": "./media/IMG_20200925_150645.jpg"
+        },
+        {
+          "image": "./media/IMG_20201010_170755.jpg"
+        },
+        {
+          "image": "./media/IMG_20201010_180836.jpg"
+        },
+        {
+          "image": "./media/IMG_20201010_180845.jpg"
+        }
+      ]
+    }
+  },
+  "routeId": "projects/2020--bihospitalis/stagno/preparazione-impermeabilizzazione",
+  "slug": "projects/2020--bihospitalis/stagno/preparazione-impermeabilizzazione",
+  "templateSlug": "projects/2020--bihospitalis/stagno/preparazione-impermeabilizzazione"
+}
