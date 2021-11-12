@@ -20,6 +20,18 @@
       "locale": false
     },
     {
+      "source": "/it/events",
+      "destination": "/eventi",
+      "permanent": false,
+      "locale": false
+    },
+    {
+      "source": "/it/events/:slug*",
+      "destination": "/eventi/:slug*",
+      "permanent": false,
+      "locale": false
+    },
+    {
       "source": "/it/galleries",
       "destination": "/galleria",
       "permanent": false,
@@ -52,18 +64,6 @@
     {
       "source": "/it/news/:slug*",
       "destination": "/novit%C3%A0/:slug*",
-      "permanent": false,
-      "locale": false
-    },
-    {
-      "source": "/it/events",
-      "destination": "/eventi",
-      "permanent": false,
-      "locale": false
-    },
-    {
-      "source": "/it/events/:slug*",
-      "destination": "/eventi/:slug*",
       "permanent": false,
       "locale": false
     },
@@ -198,6 +198,14 @@
       "destination": "/activities/:path*"
     },
     {
+      "source": "/eventi",
+      "destination": "/events"
+    },
+    {
+      "source": "/eventi/:path*",
+      "destination": "/events/:path*"
+    },
+    {
       "source": "/galleria",
       "destination": "/galleries"
     },
@@ -220,14 +228,6 @@
     {
       "source": "/novit%C3%A0/:path*",
       "destination": "/news/:path*"
-    },
-    {
-      "source": "/eventi",
-      "destination": "/events"
-    },
-    {
-      "source": "/eventi/:path*",
-      "destination": "/events/:path*"
     },
     {
       "source": "/progetti",
