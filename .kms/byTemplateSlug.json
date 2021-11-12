@@ -942,6 +942,49 @@
       "templateSlug": "activities/dall-equilibrio-alla-caduta"
     }
   },
+  "activities/fucina-creativa-popolare": {
+    "it": {
+      "dir": "activities/fucina-creativa-popolare",
+      "parentDirs": "activities",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n>Ogni settimana i laboratori de LaSchola saranno aperti a chiunque abbia voglia di sperimentare e provare a realizzare le proprie idee ed esprimere la propria creatività.\n\n<Col initial columned>\n\nLa formula del laboratorio aperto senza maestro vuole favorire lo sviluppo di rapporti sociali orizzontali basati sulla solidarietà, l’aiuto reciproco e la cooperazione. La **fucina creativa popolare** vuole essere uno spazio accessibile alla comunità, un punto di ritrovo per favorire la socializzazione. Un momento di aggregazione che stimoli persone di qualsiasi età a provenienza a stare insieme in una dimensione di confronto e arricchimento reciproco, scoprendo o affinando le proprie abilità manuali e rafforzando la fiducia nelle proprie capacità.\n\n</Col>\n\n<Row top={6} bottom={3} alignItems=\"center\">\n<Col md={7}>\n<EntryInfo variant=\"upcoming\" label=\"Ogni venerdì\" value=\"dalle 16:00 alle 19:00\"/>\n<EntryInfo variant=\"target\" label=\"Partecipazione\" value=\"aperta a tutti, intergenerazionale\"/>\n<EntryInfo variant=\"price\" label=\"Gratuito\" value=\"con tessera associativa annuale di 30 €\"/>\n</Col>\n<Col md={5}>\n<Alert bottom={3} color=\"red\">\n\n**Entrata libera!** La fucina apre il ***15 Novembre 2019***\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/).\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per associarti e partecipare</BtnLink>\n\n<Col initial columned>\n\nNon sono previste nè una programmazione di attività prestabilite nè gerarchie o suddivisione tra la figura dell'insegnante e dell'allievo. La fucina popolare funzionerà come uno luogo dove sperimentare collettivamente degli aspetti o delle abilità pratiche avendo a disposizione gli spazi e gli strumenti utili agli scopi in divenire del gruppo che man mano verrà formandosi. Sarà responsabilità di ciascun partecipante scambiare i propri saperi e portare spunti, idee o desideri che possano coinvolgere gli altri in attività che favoriscano la crescita collettiva e individuale. La volontà è di ribaltare il proverbio che recita impara l’arte per “metterla da parte”, al contrario impararla per diffonderla, evitando l’accumulo solipsistico di competenze che porta a dinamiche non paritarie di competizione e specializzazione identitarie. La fucina popolare si ispira infatti alla figura del maestro ignorante di Rancière, proponendo una modalità di insegnamento orizzontale tra pari di ciò che ancora non si conosce appieno e che, una volta condiviso, getta nuovi semi di crescita condivisa.\n\n</Col>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Fucina creativa popolare\" phoneable=\"333 684 1599\" subtitle=\"Contattaci\" title=\"per associarsi o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo alla vostra Fucina creativa popolare.\"></ContactForm>\n",
+      "excerpt": "",
+      "data": {
+        "template": "activities-single",
+        "slug": "/attività/fucina-creativa-popolare",
+        "priority": 12,
+        "homepage": true,
+        "title": "Fucina creativa popolare",
+        "subtitle": "Spazio dove condividere idee, creare e sperimentare insieme",
+        "startYear": 2019,
+        "cover": {
+          "image": "./cover.jpg",
+          "caption": "Farbenstudien, Lena Meyer-Bergner (German, 1906 - 1981)"
+        },
+        "googleCalendarEventRegex": "/Fucina creativa popolare/",
+        "cardLabel": "Entrata libera!",
+        "categories": [
+          "activities"
+        ],
+        "partners": [
+          "amici-de-laschola"
+        ],
+        "tags": [
+          "arte",
+          "creatività",
+          "popolare",
+          "espressione"
+        ],
+        "showUpcomingEvents": true
+      },
+      "routeId": "activities/fucina-creativa-popolare",
+      "slug": "/attività/fucina-creativa-popolare",
+      "templateSlug": "activities/fucina-creativa-popolare"
+    }
+  },
   "activities/gruppo-territorio": {
     "it": {
       "dir": "activities/gruppo-territorio",
@@ -1058,47 +1101,47 @@
       "templateSlug": "activities/introduzione-alla-programmazione-web"
     }
   },
-  "activities/fucina-creativa-popolare": {
+  "activities/laboratorio-artistico-di-arteterapia": {
     "it": {
-      "dir": "activities/fucina-creativa-popolare",
+      "dir": "activities/laboratorio-artistico-di-arteterapia",
       "parentDirs": "activities",
       "filename": "index.it.md",
       "basename": "index.it",
       "ext": "md",
       "locale": "it",
-      "body": "\n>Ogni settimana i laboratori de LaSchola saranno aperti a chiunque abbia voglia di sperimentare e provare a realizzare le proprie idee ed esprimere la propria creatività.\n\n<Col initial columned>\n\nLa formula del laboratorio aperto senza maestro vuole favorire lo sviluppo di rapporti sociali orizzontali basati sulla solidarietà, l’aiuto reciproco e la cooperazione. La **fucina creativa popolare** vuole essere uno spazio accessibile alla comunità, un punto di ritrovo per favorire la socializzazione. Un momento di aggregazione che stimoli persone di qualsiasi età a provenienza a stare insieme in una dimensione di confronto e arricchimento reciproco, scoprendo o affinando le proprie abilità manuali e rafforzando la fiducia nelle proprie capacità.\n\n</Col>\n\n<Row top={6} bottom={3} alignItems=\"center\">\n<Col md={7}>\n<EntryInfo variant=\"upcoming\" label=\"Ogni venerdì\" value=\"dalle 16:00 alle 19:00\"/>\n<EntryInfo variant=\"target\" label=\"Partecipazione\" value=\"aperta a tutti, intergenerazionale\"/>\n<EntryInfo variant=\"price\" label=\"Gratuito\" value=\"con tessera associativa annuale di 30 €\"/>\n</Col>\n<Col md={5}>\n<Alert bottom={3} color=\"red\">\n\n**Entrata libera!** La fucina apre il ***15 Novembre 2019***\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/).\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per associarti e partecipare</BtnLink>\n\n<Col initial columned>\n\nNon sono previste nè una programmazione di attività prestabilite nè gerarchie o suddivisione tra la figura dell'insegnante e dell'allievo. La fucina popolare funzionerà come uno luogo dove sperimentare collettivamente degli aspetti o delle abilità pratiche avendo a disposizione gli spazi e gli strumenti utili agli scopi in divenire del gruppo che man mano verrà formandosi. Sarà responsabilità di ciascun partecipante scambiare i propri saperi e portare spunti, idee o desideri che possano coinvolgere gli altri in attività che favoriscano la crescita collettiva e individuale. La volontà è di ribaltare il proverbio che recita impara l’arte per “metterla da parte”, al contrario impararla per diffonderla, evitando l’accumulo solipsistico di competenze che porta a dinamiche non paritarie di competizione e specializzazione identitarie. La fucina popolare si ispira infatti alla figura del maestro ignorante di Rancière, proponendo una modalità di insegnamento orizzontale tra pari di ciò che ancora non si conosce appieno e che, una volta condiviso, getta nuovi semi di crescita condivisa.\n\n</Col>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Fucina creativa popolare\" phoneable=\"333 684 1599\" subtitle=\"Contattaci\" title=\"per associarsi o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo alla vostra Fucina creativa popolare.\"></ContactForm>\n",
+      "body": "\n<Row top={3} bottom={3} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"upcoming\" value=\"[giovedì dalle 10:00 alle 11:30](#prossimamente)\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"target\" value=\"terza età\"/>\n<EntryInfo variant=\"price\" value=\"150 € per 5 incontri\"/>\n<EntryInfo variant=\"participants\" value=\"minimo 3\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3} color=\"lilla\">\n\n**Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per info e iscrizioni</BtnLink>\n\n### I materiali artistici\n\nLavoreremo con vari materiali, dalle matite alla ceramica, creta, gessetti, tempere, pastelli ad olio, pastelli a cera, forbici, colla, scotch. L'interazione con i materiali favorisce un'ampia gamma di possibili sperimentazoini sensoriali ed emotive.\n\n### Cos'è l'arteterapia\n\nL'arteterapia include un insieme di tecniche e di metodologie che utilizzano le attività artistiche come mezzi facilitanti l'espressione delle emozioni e delle potenzialità individuali. È un percorso che privilegia il canale non verbale, la cui caratteristica principale è l'offerta di materiali artistici che divengono il mezzo per esprimere ed elaborare le percezioni, i vissuti e i sentimenti personali.\nIn questo contesto l'atelier si trasforma in uno spazio protetto in cui potersi esprimere attraverso la libera scelta dei materiali artistici, in un clima di non giudizio e accettazione incondizionata degli elaborati.\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Laboratorio artistico di arteterapia\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Laboratorio artistico di arteterapia.\"></ContactForm>\n",
       "excerpt": "",
       "data": {
         "template": "activities-single",
-        "slug": "/attività/fucina-creativa-popolare",
-        "priority": 12,
+        "slug": "/attività/laboratorio-artistico-di-arteterapia",
+        "priority": 5,
         "homepage": true,
-        "title": "Fucina creativa popolare",
-        "subtitle": "Spazio dove condividere idee, creare e sperimentare insieme",
+        "title": "Laboratorio artistico di arteterapia",
+        "subtitle": "Sperimentazioni espressive con materiali artistici, condotto da Sonia Ranza",
         "startYear": 2019,
         "cover": {
-          "image": "./cover.jpg",
-          "caption": "Farbenstudien, Lena Meyer-Bergner (German, 1906 - 1981)"
+          "image": "./cover.jpg"
         },
-        "googleCalendarEventRegex": "/Fucina creativa popolare/",
-        "cardLabel": "Entrata libera!",
-        "categories": [
-          "activities"
-        ],
+        "googleCalendarEventRegex": "/Laboratorio artistico di arteterapia/",
+        "cardLabel": "Iscrizioni aperte",
         "partners": [
           "amici-de-laschola"
         ],
+        "categories": [
+          "activities"
+        ],
         "tags": [
           "arte",
-          "creatività",
-          "popolare",
-          "espressione"
+          "arteterapia",
+          "espressioni",
+          "emozioni",
+          "terza età"
         ],
         "showUpcomingEvents": true
       },
-      "routeId": "activities/fucina-creativa-popolare",
-      "slug": "/attività/fucina-creativa-popolare",
-      "templateSlug": "activities/fucina-creativa-popolare"
+      "routeId": "activities/laboratorio-artistico-di-arteterapia",
+      "slug": "/attività/laboratorio-artistico-di-arteterapia",
+      "templateSlug": "activities/laboratorio-artistico-di-arteterapia"
     }
   },
   "activities/laboratorio-di-autoproduzione-calzature": {
@@ -1141,49 +1184,6 @@
       "routeId": "activities/laboratorio-di-autoproduzione-calzature",
       "slug": "/attività/laboratorio-di-autoproduzione-calzature",
       "templateSlug": "activities/laboratorio-di-autoproduzione-calzature"
-    }
-  },
-  "activities/laboratorio-artistico-di-arteterapia": {
-    "it": {
-      "dir": "activities/laboratorio-artistico-di-arteterapia",
-      "parentDirs": "activities",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<Row top={3} bottom={3} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"upcoming\" value=\"[giovedì dalle 10:00 alle 11:30](#prossimamente)\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"target\" value=\"terza età\"/>\n<EntryInfo variant=\"price\" value=\"150 € per 5 incontri\"/>\n<EntryInfo variant=\"participants\" value=\"minimo 3\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3} color=\"lilla\">\n\n**Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per info e iscrizioni</BtnLink>\n\n### I materiali artistici\n\nLavoreremo con vari materiali, dalle matite alla ceramica, creta, gessetti, tempere, pastelli ad olio, pastelli a cera, forbici, colla, scotch. L'interazione con i materiali favorisce un'ampia gamma di possibili sperimentazoini sensoriali ed emotive.\n\n### Cos'è l'arteterapia\n\nL'arteterapia include un insieme di tecniche e di metodologie che utilizzano le attività artistiche come mezzi facilitanti l'espressione delle emozioni e delle potenzialità individuali. È un percorso che privilegia il canale non verbale, la cui caratteristica principale è l'offerta di materiali artistici che divengono il mezzo per esprimere ed elaborare le percezioni, i vissuti e i sentimenti personali.\nIn questo contesto l'atelier si trasforma in uno spazio protetto in cui potersi esprimere attraverso la libera scelta dei materiali artistici, in un clima di non giudizio e accettazione incondizionata degli elaborati.\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Laboratorio artistico di arteterapia\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Laboratorio artistico di arteterapia.\"></ContactForm>\n",
-      "excerpt": "",
-      "data": {
-        "template": "activities-single",
-        "slug": "/attività/laboratorio-artistico-di-arteterapia",
-        "priority": 5,
-        "homepage": true,
-        "title": "Laboratorio artistico di arteterapia",
-        "subtitle": "Sperimentazioni espressive con materiali artistici, condotto da Sonia Ranza",
-        "startYear": 2019,
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "googleCalendarEventRegex": "/Laboratorio artistico di arteterapia/",
-        "cardLabel": "Iscrizioni aperte",
-        "partners": [
-          "amici-de-laschola"
-        ],
-        "categories": [
-          "activities"
-        ],
-        "tags": [
-          "arte",
-          "arteterapia",
-          "espressioni",
-          "emozioni",
-          "terza età"
-        ],
-        "showUpcomingEvents": true
-      },
-      "routeId": "activities/laboratorio-artistico-di-arteterapia",
-      "slug": "/attività/laboratorio-artistico-di-arteterapia",
-      "templateSlug": "activities/laboratorio-artistico-di-arteterapia"
     }
   },
   "activities/laboratorio-di-ruralcesteria": {
@@ -1261,6 +1261,50 @@
       "routeId": "activities/mindfulness-per-bambini",
       "slug": "/attività/mindfulness-per-bambini",
       "templateSlug": "activities/mindfulness-per-bambini"
+    }
+  },
+  "activities/percorso-di-arteterapia": {
+    "it": {
+      "dir": "activities/percorso-di-arteterapia",
+      "parentDirs": "activities",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n### Cos'è l'arteterapia\n\n<Col initial columned top={2}>\n\nL'arteterapia include un insieme di tecniche e di metodologie che utilizzano le attività artistiche come mezzi facilitanti l'espressione delle emozioni e delle potenzialità individuali. È un percorso che privilegia il canale non verbale, la cui caratteristica principale è l'offerta di materiali artistici che divengono il mezzo per esprimere ed elaborare le percezioni, i vissuti e i sentimenti personali.\nIn questo contesto l'atelier si trasforma in uno spazio protetto in cui potersi esprimere attraverso la libera scelta dei materiali artistici, in un clima di non giudizio e accettazione incondizionata degli elaborati.\n\n</Col>\n\n<SectionTitle>Esperienza collettiva</SectionTitle>\n<SectionSubtitle>Percorso di gruppo di arteterapia</SectionSubtitle>\n\n<Row top={6} bottom={3} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"upcoming\" value=\"lunedì dalle 14:45 alle 16:15\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"target\" value=\"ragazzi e ragazze\"/>\n<EntryInfo variant=\"price\" value=\"300 € per 10 incontri\"/>\n<EntryInfo variant=\"teacher\" value=\"Sonia Ranza\"/>\n<EntryInfo variant=\"participants\" value=\"minimo 4, massimo 6\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3} color=\"lilla\">\n\n**Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per info e iscrizioni</BtnLink>\n\n<SectionTitle>Esperienza singolare</SectionTitle>\n<SectionSubtitle>Lezioni individuali di arteterapia</SectionSubtitle>\n\n<EntryInfo variant=\"frequency\" label=\"Su appuntamento\" value=\"dal lunedì al venerdì mattina\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"price\" value=\"35 € a incontro\"/>\n<EntryInfo variant=\"teacher\" label=\"Con\" value=\"Sonia Ranza\"/>\n\n<BtnLink anchor=\"contattaci\">Contattaci per maggiori informazioni</BtnLink>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Percorsi di arteterapia\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Percorso di arteterapia / Lezioni individuali di arteterapia.\"></ContactForm>\n",
+      "excerpt": "",
+      "data": {
+        "template": "activities-single",
+        "slug": "/attività/percorso-di-arteterapia",
+        "priority": 13,
+        "homepage": true,
+        "title": "Percorso di arteterapia",
+        "subtitle": "Condotto da Sonia Ranza",
+        "startYear": 2019,
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "googleCalendarEventRegex": "/Percorso di arteterapia/",
+        "cardLabel": "Iscrizioni aperte",
+        "categories": [
+          "activities"
+        ],
+        "partners": [
+          "amici-de-laschola"
+        ],
+        "showTags": false,
+        "tags": [
+          "arte",
+          "arteterapia",
+          "espressioni",
+          "emozioni",
+          "adolescenti"
+        ],
+        "showUpcomingEvents": true
+      },
+      "routeId": "activities/percorso-di-arteterapia",
+      "slug": "/attività/percorso-di-arteterapia",
+      "templateSlug": "activities/percorso-di-arteterapia"
     }
   },
   "activities/corso-permacultura-come-progettare-creativamente-il-cambiamento": {
@@ -1344,50 +1388,6 @@
       "routeId": "activities/pilates",
       "slug": "/attività/pilates",
       "templateSlug": "activities/pilates"
-    }
-  },
-  "activities/percorso-di-arteterapia": {
-    "it": {
-      "dir": "activities/percorso-di-arteterapia",
-      "parentDirs": "activities",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n### Cos'è l'arteterapia\n\n<Col initial columned top={2}>\n\nL'arteterapia include un insieme di tecniche e di metodologie che utilizzano le attività artistiche come mezzi facilitanti l'espressione delle emozioni e delle potenzialità individuali. È un percorso che privilegia il canale non verbale, la cui caratteristica principale è l'offerta di materiali artistici che divengono il mezzo per esprimere ed elaborare le percezioni, i vissuti e i sentimenti personali.\nIn questo contesto l'atelier si trasforma in uno spazio protetto in cui potersi esprimere attraverso la libera scelta dei materiali artistici, in un clima di non giudizio e accettazione incondizionata degli elaborati.\n\n</Col>\n\n<SectionTitle>Esperienza collettiva</SectionTitle>\n<SectionSubtitle>Percorso di gruppo di arteterapia</SectionSubtitle>\n\n<Row top={6} bottom={3} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"upcoming\" value=\"lunedì dalle 14:45 alle 16:15\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"target\" value=\"ragazzi e ragazze\"/>\n<EntryInfo variant=\"price\" value=\"300 € per 10 incontri\"/>\n<EntryInfo variant=\"teacher\" value=\"Sonia Ranza\"/>\n<EntryInfo variant=\"participants\" value=\"minimo 4, massimo 6\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3} color=\"lilla\">\n\n**Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<BtnLink anchor=\"contattaci\">Contattaci per info e iscrizioni</BtnLink>\n\n<SectionTitle>Esperienza singolare</SectionTitle>\n<SectionSubtitle>Lezioni individuali di arteterapia</SectionSubtitle>\n\n<EntryInfo variant=\"frequency\" label=\"Su appuntamento\" value=\"dal lunedì al venerdì mattina\"/>\n<EntryInfo variant=\"duration\" value=\"1h 30m\"/>\n<EntryInfo variant=\"price\" value=\"35 € a incontro\"/>\n<EntryInfo variant=\"teacher\" label=\"Con\" value=\"Sonia Ranza\"/>\n\n<BtnLink anchor=\"contattaci\">Contattaci per maggiori informazioni</BtnLink>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Percorsi di arteterapia\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Percorso di arteterapia / Lezioni individuali di arteterapia.\"></ContactForm>\n",
-      "excerpt": "",
-      "data": {
-        "template": "activities-single",
-        "slug": "/attività/percorso-di-arteterapia",
-        "priority": 13,
-        "homepage": true,
-        "title": "Percorso di arteterapia",
-        "subtitle": "Condotto da Sonia Ranza",
-        "startYear": 2019,
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "googleCalendarEventRegex": "/Percorso di arteterapia/",
-        "cardLabel": "Iscrizioni aperte",
-        "categories": [
-          "activities"
-        ],
-        "partners": [
-          "amici-de-laschola"
-        ],
-        "showTags": false,
-        "tags": [
-          "arte",
-          "arteterapia",
-          "espressioni",
-          "emozioni",
-          "adolescenti"
-        ],
-        "showUpcomingEvents": true
-      },
-      "routeId": "activities/percorso-di-arteterapia",
-      "slug": "/attività/percorso-di-arteterapia",
-      "templateSlug": "activities/percorso-di-arteterapia"
     }
   },
   "activities/sabato-letterario": {
@@ -1495,6 +1495,220 @@
       "routeId": "activities/yoga-schola",
       "slug": "/attività/yoga-schola",
       "templateSlug": "activities/yoga-schola"
+    }
+  },
+  "events/inaugurazione-associazione-vivenda": {
+    "it": {
+      "dir": "events/2019-11-17--inaugurazione-associazione-vivenda",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"frequency\" label=\"17 novembre 2019\" value=\"dalle 15:30 alle 18:30\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\" bottom={6}/>\n\n### Programma\n\n**15:30**: Accoglienza e presentazione<br />\n**16:00**: Campane tibetane con Max Ielmini<br />\n**16:00**: Pilates con Irina Lojnikova<br />\n**16:00**: Laboratorio Ricicli-amo<br />\n**17:00**: Presentazione Vicenda<br />\n**17:30**: Merenda come una volta<br />\n\nL'associazione nasce allo scopo di creare un luogo d'incontro e un ponte d'uniome intergenerazionale, offre per orsi culturali e olistici utili a  individuare in se stessi gli strumenti per vivere in armonia.\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/inaugurazione-associazione-vivenda",
+        "priority": 0,
+        "date": "2019-11-17T00:00:00.000Z",
+        "title": "Inaugurazione Associazione Vivenda",
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "cardLabel": "17 Nov 2019",
+        "categories": [
+          "events",
+          "news"
+        ],
+        "tags": [
+          "festa"
+        ]
+      },
+      "routeId": "events/2019-11-17--inaugurazione-associazione-vivenda",
+      "slug": "/eventi/inaugurazione-associazione-vivenda",
+      "templateSlug": "events/inaugurazione-associazione-vivenda"
+    }
+  },
+  "events/mercatino-di-natale-a-sant-eusebio": {
+    "it": {
+      "dir": "events/2019-12-01--mercatino-di-natale-a-sant-eusebio",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"frequency\" label=\"1 dicembre 2019\" value=\"dalle 10 alle 18\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/441590786500996)\"/>\n<EntryInfo variant=\"location\" label=\"Ci trovate\" value=\"alla [Chiesa di Sant'Eusebio di Casciago](https://goo.gl/maps/qx5urf1eLAYHPJNWA)\" bottom={6}/>\n\n<Row alignItems=\"center\">\n<Col md={6} initial>\n\nSaremo presenti con un piccolo stand insieme all'[Associazione Vivenda](/partners/associazione-vivenda/) per presentare le attività nascenti qui a LaSchola.\n\n<Footnote top={3}>\n\nGrazie dell'invito a Mario e alla [ProLoco di Casciago](https://www.facebook.com/ProlocoCasciago/)!\n\n</Footnote>\n\nScopri di più sul sito della\n\n<BtnLink href=\"http://www.prolococasciago.it/eventi.html\">ProLoco di Casciago</BtnLink>\n</Col>\n<Col md={6}>\n\n![Sant'Eusebio](./chiesa-di-sant-eusebio-a-casciago.jpg)\n\n</Col>\n</Row>\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/mercatino-di-natale-a-sant-eusebio",
+        "priority": 0,
+        "date": "2019-12-01T00:00:00.000Z",
+        "title": "Mercatino di Natale a Sant'Eusebio",
+        "subtitle": "Parteciperemo insieme a [Vivenda](/partners/associazione-vivenda) e le altre associazioni di Casciago",
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "cardLabel": "1 Dic 2019",
+        "categories": [
+          "events",
+          "news"
+        ],
+        "tags": [
+          "Casciago"
+        ],
+        "showTags": false
+      },
+      "routeId": "events/2019-12-01--mercatino-di-natale-a-sant-eusebio",
+      "slug": "/eventi/mercatino-di-natale-a-sant-eusebio",
+      "templateSlug": "events/mercatino-di-natale-a-sant-eusebio"
+    }
+  },
+  "events/sabato-letterario-pia-pera": {
+    "it": {
+      "dir": "events/2019-12-14--sabato-letterario-pia-pera",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\nimport { Upcoming } from \"src/components/Calendar\";\n\n<EntryInfo variant=\"frequency\" label=\"14 dicembre 2019\" value=\"dalle 16:00 alle 18:00\"/>\n<EntryInfo variant=\"teacher\" label=\"A cura di\" value=\"Patrizia Leotta, docente di lettere e socia di Associazione Vivenda\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\" bottom={6}/>\n\n<Row bottom={3}>\n<Col columned>\n\nCon il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.\n\nQuando riceve in eredità un podere in stato di abbandono nella Lucchesia, Pia Pera decide di lasciare Milano, città in cui ormai da tempo viveva, e di abitare in pianta stabile nel podere, anche per riportarlo alla vita. Così, da “cittadina cresciuta sui libri”, scopre la passione per la natura e comincia a seguire l’insegnamento del filosofo e botanico giapponese Masanobu Fukuoka, di cui è nota la regola “non contrastare ma assecondare la natura”. Vivere nel podere alle pendici del Monte Pisano, rappresenta una svolta anche per la scrittura di Pia Pera.\n\nDopo alcune traduzioni di autori russi e l’esordio nella narrativa con libri di successo, ecco che Pia Pera scopre la sua nuova via leggendo *Il giardino segreto* di Frances H.Burnett “un libro dimenticato, divenuto inconscio”, come lei stessa dirà. Da questa originale  vena ispiratrice deriva il primo titolo della nuova via, *L’orto di un perdigiorno. Confessioni di un apprendista ortolano*, del 2003, in cui, indagando sulla sua scelta di vita, arriva alla conclusione che _sì, la felicità è possibile, e sì, anche la beatitudine_.\n\nPoi sarà il turno di *Il giardino che vorrei* (2006), *Contro il giardino. Dalla parte delle piante* (2007), *Giardini & Ortoterapia. Coltivando la terra si coltiva anche la felicità* (2010) e *Le vie dell’orto. Coltivare verdura e frutta sul balcone, sul davanzale o in piena terra e difendere il proprio diritto alla semplicità* (2011), fino alla collaborazione con la rivista  “Gardenia” e con  “Il Sole 24 ore”. Le conoscenze botaniche, sempre più approfondite, il contatto, sempre più intimo, con il mondo delle piante e degli animali, portano Pia Pera a  riconoscersi  come parte di esso e ad  elaborare una  filosofia della vita di cui *Al giardino ancora non l’ho detto* costituisce una sorta di testamento.\n\n![pia-pera-al-giardino-ancora-non-l-ho-detto](./pia-pera-al-giardino-ancora-non-l-ho-detto.jpg)\n\n<QuoteAuthor>\n\n*Al giardino ancora non l’ho detto*<br />\ned. Ponte alle Grazie, Milano 2016\n\n</QuoteAuthor>\n\n\nEssendo il racconto autobiografico della sua malattia, la scrittrice-giardiniera, come è stata definita,  pensava che questo libro risultasse triste ai suoi lettori, abituati a una scrittura “scoppiettante, mordace, dissacrante”, l’esito, invece, è quello di un libro “bellissimo, raffinato, lucido, intelligente ma soprattutto pieno di speranza” (cit. Cristina Palomba, editor di Pia Pera).\n\n*Al giardino ancora non l’ho detto* è uno di quei libri che definiamo “splendidi” perché “ci insegnano un modo di pensare” (Nicola Gardini).\n\nSabato 14 dicembre, alle ore 17.00, ci incontreremo alla Schola di Morosolo per discutere e scambiarci impressioni ed emozioni portate alla luce dalla lettura  del libro di una raffinata scrittrice, Pia Pera.\n\n</Col>\n</Row>\n\n<Upcoming subtitle=\"Prossimi eventi\" title=\"del Sabato letterario\" contains=\"Sabato letterario\"></Upcoming>\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/sabato-letterario-pia-pera",
+        "priority": 0,
+        "date": "2019-12-14T00:00:00.000Z",
+        "title": "Al giardino ancora non l’ho detto",
+        "subtitle": "Il sabato letterario del 14 dicembre 2019",
+        "cover": {
+          "image": "./cover.jpg",
+          "caption": "Pia Pera, Al giardino ancora non l’ho detto"
+        },
+        "cardLabel": "14 Dic 2019",
+        "googleCalendarEventRegex": "/Sabato letterario, Pia Pera/",
+        "categories": [
+          "events"
+        ],
+        "partners": [
+          "associazione-vivenda"
+        ]
+      },
+      "routeId": "events/2019-12-14--sabato-letterario-pia-pera",
+      "slug": "/eventi/sabato-letterario-pia-pera",
+      "templateSlug": "events/sabato-letterario-pia-pera"
+    }
+  },
+  "events/carte-sinestetiche-inaugurazione-opera-condivisa": {
+    "it": {
+      "dir": "events/2019-12-22--carte-sinestetiche-inaugurazione-opera-condivisa",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"frequency\" label=\"Quando\" value=\"Domenica 22 dicembre 2019\"/>\n<EntryInfo variant=\"price\" label=\"Ingresso gratuito\" value=\"dalle 15:00 alle 18:00\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/3241209085954310/)\" bottom={6}/>\n\n>L'arte non ripoduce ciò che è visibile, ma rende visibile ciò che non sempre lo è _(Paul Klee)_\n\n<Col initial narrow>\n\n[Francesca M. Croci](https://www.facebook.com/francesca.croci.505) espone gli elaborati del progetto di Terapeutica Artistica \"*Carte Sinestetiche*\". Le opere in mostra sono il risultato artistico del laboratorio sensoriale realizzato insieme ai bambini della [scuola primaria A. Manzoni di Morosolo](/partners/scuola-primaria-a-manzoni) (VA).\n\nCon la collaborazione di Maddalena Colombo, Lucia Soldati, Valentina Moreale e Stefano Dodorico.\n\n</Col>\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/carte-sinestetiche-inaugurazione-opera-condivisa",
+        "priority": 0,
+        "homepage": false,
+        "date": "2019-12-22T00:00:00.000Z",
+        "title": "Carte Sinestetiche",
+        "subtitle": "Inaugurazione Opera Condivisa",
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "googleCalendarEventRegex": "/Carte Sinestetiche - Inaugurazione Opera Condivisa/",
+        "cardLabel": "22 Dic 2019",
+        "categories": [
+          "events"
+        ],
+        "partners": [
+          "scuola-primaria-a-manzoni"
+        ],
+        "tags": [
+          "mostra",
+          "arte"
+        ]
+      },
+      "routeId": "events/2019-12-22--carte-sinestetiche-inaugurazione-opera-condivisa",
+      "slug": "/eventi/carte-sinestetiche-inaugurazione-opera-condivisa",
+      "templateSlug": "events/carte-sinestetiche-inaugurazione-opera-condivisa"
+    }
+  },
+  "events/solstizio-d-inverno-2019": {
+    "it": {
+      "dir": "events/2019-12-22--solstizio-d-inverno-2019",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"frequency\" label=\"Domenica 22 dicembre 2019\" value=\"dalle 18:00 alle 19:30\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/1463034257197595/)\" bottom={6}/>\n\n<Row bottom={3}>\n<Col md={6} initial>\n\nRiportiamo in vita le tradizioni dei nostri antenati che vivevano i passaggi stagionali in connessione con Madre Terra in uno scambio simbiotico funzionale al benessere di Tutti.\n\n</Col>\n<Col md={6}>\n\n*Perché celebrare il Solstizio d’Inverno nel 2019?*\n\nPer ri-scoprire che siamo interconnessi ai cicli di Madre Terra e che ogni suo passaggio è anche un movimento interiore per l’essere umano, viverlo consapevolmente riporta l’attenzione al presente e ai suoi doni.\n\n</Col>\n</Row>\n\n### Programma\n\n- Creazione del cerchio che offrirà un momento di raccoglimento;\n- Introduzione dell’ospite Laura Bottagisio esperta di quel prezioso strumento che studia il divenire della vita: la Ruota dello Zodiaco. Laura ci parlerà di come i movimenti cosmici trasformino l’invisibile in visibile;\n- Piccola meditazione per riportarci all’interconnessione con i cicli naturali in atto, formulazione intenzione da offrire al Fuoco;\n- Piantiamo un albero, un atto sacro per ricordare che gli alberi sono il polmone della Terra;\n- Rituale del Fuoco;\n- Scambio di auguri.\n\nIl tutto accompagnato dai suoni armonici di Silvia e dalla chitarra di Cristiana\n\n<Footnote>  \n\nEvento riservato ai soci di [Associazione Vivenda](/partners/associazione-vivenda/) con possibilita' di tesseramento in loco.\n\n</Footnote>\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/solstizio-d-inverno-2019",
+        "priority": 0,
+        "date": "2019-12-22T00:00:00.000Z",
+        "title": "Solstizio d’inverno",
+        "subtitle": "per celebrare la nascita della luce",
+        "googleCalendarEventRegex": "/Solstizio d’inverno/",
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "cardLabel": "22 Dic 2019",
+        "categories": [
+          "events"
+        ],
+        "partners": [
+          "associazione-vivenda"
+        ],
+        "tags": [
+          "festa"
+        ]
+      },
+      "routeId": "events/2019-12-22--solstizio-d-inverno-2019",
+      "slug": "/eventi/solstizio-d-inverno-2019",
+      "templateSlug": "events/solstizio-d-inverno-2019"
+    }
+  },
+  "events/cerchio-della-vita": {
+    "it": {
+      "dir": "events/2021-09-11--cerchio-della-vita",
+      "parentDirs": "events",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"upcoming\" label=\"settembre 2021\"/>\n<EntryInfo variant=\"duration\" label=\"da sabato 11\" value=\"dalle 10:30\"/>\n<EntryInfo variant=\"duration\" label=\"a domenica 12\" value=\"alle 16:00\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n\n<Row top={6} bottom={3}>\n<Col md={6}>\n\n<var>U</var>n fine settimana dedicato alla condivisione e alla celebrazione della vita. Organizzato da Cerchio della Vita, un gruppo spontaneo di incontro nato a seguito dell'esperienza di tante donne nel Cerchio Planetario delle Donne (attivo dal 2013 al 2018 a livello internazionale), per aprire la partecipazione anche maschile agli incontri di condivisione, in quanto tutti siamo portatori sia di energia yin che yang.\n\n<Footnote top={3} bottom={3}>  \n\nQuesto incontro è aperto a tutti.\n\n</Footnote>\n\n</Col>\n<Col md={6}>\n\n<Alert>\n\n**All'aperto**\n\nPernottamento sul posto e uso condiviso della cucina.\n\n*Prenotazione obbligatoria e info*:\n\n</Alert>\n\n<BtnLink href=\"mailto:cerchiodellavita1@gmail.com\">cerchiodellavita1@gmail.com</BtnLink>\n\n</Col>\n</Row>\n",
+      "excerpt": "",
+      "data": {
+        "template": "events-single",
+        "slug": "/eventi/cerchio-della-vita",
+        "priority": 30,
+        "homepage": true,
+        "date": "2021-09-11T00:00:00.000Z",
+        "title": "Cerchio della vita",
+        "subtitle": "Condivisione e celebrazione della vita",
+        "googleCalendarEventRegex": "/Cerchio della vita/",
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "cardLabel": "11-12 Set 2021",
+        "categories": [
+          "events"
+        ],
+        "tags": [
+          "celebrazioni"
+        ]
+      },
+      "routeId": "events/2021-09-11--cerchio-della-vita",
+      "slug": "/eventi/cerchio-della-vita",
+      "templateSlug": "events/cerchio-della-vita"
     }
   },
   "galleries/archive": {
@@ -3220,220 +3434,6 @@
       "templateSlug": "news/seminario-di-musicoterapia-canticorpi"
     }
   },
-  "events/inaugurazione-associazione-vivenda": {
-    "it": {
-      "dir": "events/2019-11-17--inaugurazione-associazione-vivenda",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"frequency\" label=\"17 novembre 2019\" value=\"dalle 15:30 alle 18:30\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\" bottom={6}/>\n\n### Programma\n\n**15:30**: Accoglienza e presentazione<br />\n**16:00**: Campane tibetane con Max Ielmini<br />\n**16:00**: Pilates con Irina Lojnikova<br />\n**16:00**: Laboratorio Ricicli-amo<br />\n**17:00**: Presentazione Vicenda<br />\n**17:30**: Merenda come una volta<br />\n\nL'associazione nasce allo scopo di creare un luogo d'incontro e un ponte d'uniome intergenerazionale, offre per orsi culturali e olistici utili a  individuare in se stessi gli strumenti per vivere in armonia.\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/inaugurazione-associazione-vivenda",
-        "priority": 0,
-        "date": "2019-11-17T00:00:00.000Z",
-        "title": "Inaugurazione Associazione Vivenda",
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "cardLabel": "17 Nov 2019",
-        "categories": [
-          "events",
-          "news"
-        ],
-        "tags": [
-          "festa"
-        ]
-      },
-      "routeId": "events/2019-11-17--inaugurazione-associazione-vivenda",
-      "slug": "/eventi/inaugurazione-associazione-vivenda",
-      "templateSlug": "events/inaugurazione-associazione-vivenda"
-    }
-  },
-  "events/mercatino-di-natale-a-sant-eusebio": {
-    "it": {
-      "dir": "events/2019-12-01--mercatino-di-natale-a-sant-eusebio",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"frequency\" label=\"1 dicembre 2019\" value=\"dalle 10 alle 18\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/441590786500996)\"/>\n<EntryInfo variant=\"location\" label=\"Ci trovate\" value=\"alla [Chiesa di Sant'Eusebio di Casciago](https://goo.gl/maps/qx5urf1eLAYHPJNWA)\" bottom={6}/>\n\n<Row alignItems=\"center\">\n<Col md={6} initial>\n\nSaremo presenti con un piccolo stand insieme all'[Associazione Vivenda](/partners/associazione-vivenda/) per presentare le attività nascenti qui a LaSchola.\n\n<Footnote top={3}>\n\nGrazie dell'invito a Mario e alla [ProLoco di Casciago](https://www.facebook.com/ProlocoCasciago/)!\n\n</Footnote>\n\nScopri di più sul sito della\n\n<BtnLink href=\"http://www.prolococasciago.it/eventi.html\">ProLoco di Casciago</BtnLink>\n</Col>\n<Col md={6}>\n\n![Sant'Eusebio](./chiesa-di-sant-eusebio-a-casciago.jpg)\n\n</Col>\n</Row>\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/mercatino-di-natale-a-sant-eusebio",
-        "priority": 0,
-        "date": "2019-12-01T00:00:00.000Z",
-        "title": "Mercatino di Natale a Sant'Eusebio",
-        "subtitle": "Parteciperemo insieme a [Vivenda](/partners/associazione-vivenda) e le altre associazioni di Casciago",
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "cardLabel": "1 Dic 2019",
-        "categories": [
-          "events",
-          "news"
-        ],
-        "tags": [
-          "Casciago"
-        ],
-        "showTags": false
-      },
-      "routeId": "events/2019-12-01--mercatino-di-natale-a-sant-eusebio",
-      "slug": "/eventi/mercatino-di-natale-a-sant-eusebio",
-      "templateSlug": "events/mercatino-di-natale-a-sant-eusebio"
-    }
-  },
-  "events/sabato-letterario-pia-pera": {
-    "it": {
-      "dir": "events/2019-12-14--sabato-letterario-pia-pera",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\nimport { Upcoming } from \"src/components/Calendar\";\n\n<EntryInfo variant=\"frequency\" label=\"14 dicembre 2019\" value=\"dalle 16:00 alle 18:00\"/>\n<EntryInfo variant=\"teacher\" label=\"A cura di\" value=\"Patrizia Leotta, docente di lettere e socia di Associazione Vivenda\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\" bottom={6}/>\n\n<Row bottom={3}>\n<Col columned>\n\nCon il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.\n\nQuando riceve in eredità un podere in stato di abbandono nella Lucchesia, Pia Pera decide di lasciare Milano, città in cui ormai da tempo viveva, e di abitare in pianta stabile nel podere, anche per riportarlo alla vita. Così, da “cittadina cresciuta sui libri”, scopre la passione per la natura e comincia a seguire l’insegnamento del filosofo e botanico giapponese Masanobu Fukuoka, di cui è nota la regola “non contrastare ma assecondare la natura”. Vivere nel podere alle pendici del Monte Pisano, rappresenta una svolta anche per la scrittura di Pia Pera.\n\nDopo alcune traduzioni di autori russi e l’esordio nella narrativa con libri di successo, ecco che Pia Pera scopre la sua nuova via leggendo *Il giardino segreto* di Frances H.Burnett “un libro dimenticato, divenuto inconscio”, come lei stessa dirà. Da questa originale  vena ispiratrice deriva il primo titolo della nuova via, *L’orto di un perdigiorno. Confessioni di un apprendista ortolano*, del 2003, in cui, indagando sulla sua scelta di vita, arriva alla conclusione che _sì, la felicità è possibile, e sì, anche la beatitudine_.\n\nPoi sarà il turno di *Il giardino che vorrei* (2006), *Contro il giardino. Dalla parte delle piante* (2007), *Giardini & Ortoterapia. Coltivando la terra si coltiva anche la felicità* (2010) e *Le vie dell’orto. Coltivare verdura e frutta sul balcone, sul davanzale o in piena terra e difendere il proprio diritto alla semplicità* (2011), fino alla collaborazione con la rivista  “Gardenia” e con  “Il Sole 24 ore”. Le conoscenze botaniche, sempre più approfondite, il contatto, sempre più intimo, con il mondo delle piante e degli animali, portano Pia Pera a  riconoscersi  come parte di esso e ad  elaborare una  filosofia della vita di cui *Al giardino ancora non l’ho detto* costituisce una sorta di testamento.\n\n![pia-pera-al-giardino-ancora-non-l-ho-detto](./pia-pera-al-giardino-ancora-non-l-ho-detto.jpg)\n\n<QuoteAuthor>\n\n*Al giardino ancora non l’ho detto*<br />\ned. Ponte alle Grazie, Milano 2016\n\n</QuoteAuthor>\n\n\nEssendo il racconto autobiografico della sua malattia, la scrittrice-giardiniera, come è stata definita,  pensava che questo libro risultasse triste ai suoi lettori, abituati a una scrittura “scoppiettante, mordace, dissacrante”, l’esito, invece, è quello di un libro “bellissimo, raffinato, lucido, intelligente ma soprattutto pieno di speranza” (cit. Cristina Palomba, editor di Pia Pera).\n\n*Al giardino ancora non l’ho detto* è uno di quei libri che definiamo “splendidi” perché “ci insegnano un modo di pensare” (Nicola Gardini).\n\nSabato 14 dicembre, alle ore 17.00, ci incontreremo alla Schola di Morosolo per discutere e scambiarci impressioni ed emozioni portate alla luce dalla lettura  del libro di una raffinata scrittrice, Pia Pera.\n\n</Col>\n</Row>\n\n<Upcoming subtitle=\"Prossimi eventi\" title=\"del Sabato letterario\" contains=\"Sabato letterario\"></Upcoming>\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/sabato-letterario-pia-pera",
-        "priority": 0,
-        "date": "2019-12-14T00:00:00.000Z",
-        "title": "Al giardino ancora non l’ho detto",
-        "subtitle": "Il sabato letterario del 14 dicembre 2019",
-        "cover": {
-          "image": "./cover.jpg",
-          "caption": "Pia Pera, Al giardino ancora non l’ho detto"
-        },
-        "cardLabel": "14 Dic 2019",
-        "googleCalendarEventRegex": "/Sabato letterario, Pia Pera/",
-        "categories": [
-          "events"
-        ],
-        "partners": [
-          "associazione-vivenda"
-        ]
-      },
-      "routeId": "events/2019-12-14--sabato-letterario-pia-pera",
-      "slug": "/eventi/sabato-letterario-pia-pera",
-      "templateSlug": "events/sabato-letterario-pia-pera"
-    }
-  },
-  "events/carte-sinestetiche-inaugurazione-opera-condivisa": {
-    "it": {
-      "dir": "events/2019-12-22--carte-sinestetiche-inaugurazione-opera-condivisa",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"frequency\" label=\"Quando\" value=\"Domenica 22 dicembre 2019\"/>\n<EntryInfo variant=\"price\" label=\"Ingresso gratuito\" value=\"dalle 15:00 alle 18:00\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/3241209085954310/)\" bottom={6}/>\n\n>L'arte non ripoduce ciò che è visibile, ma rende visibile ciò che non sempre lo è _(Paul Klee)_\n\n<Col initial narrow>\n\n[Francesca M. Croci](https://www.facebook.com/francesca.croci.505) espone gli elaborati del progetto di Terapeutica Artistica \"*Carte Sinestetiche*\". Le opere in mostra sono il risultato artistico del laboratorio sensoriale realizzato insieme ai bambini della [scuola primaria A. Manzoni di Morosolo](/partners/scuola-primaria-a-manzoni) (VA).\n\nCon la collaborazione di Maddalena Colombo, Lucia Soldati, Valentina Moreale e Stefano Dodorico.\n\n</Col>\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/carte-sinestetiche-inaugurazione-opera-condivisa",
-        "priority": 0,
-        "homepage": false,
-        "date": "2019-12-22T00:00:00.000Z",
-        "title": "Carte Sinestetiche",
-        "subtitle": "Inaugurazione Opera Condivisa",
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "googleCalendarEventRegex": "/Carte Sinestetiche - Inaugurazione Opera Condivisa/",
-        "cardLabel": "22 Dic 2019",
-        "categories": [
-          "events"
-        ],
-        "partners": [
-          "scuola-primaria-a-manzoni"
-        ],
-        "tags": [
-          "mostra",
-          "arte"
-        ]
-      },
-      "routeId": "events/2019-12-22--carte-sinestetiche-inaugurazione-opera-condivisa",
-      "slug": "/eventi/carte-sinestetiche-inaugurazione-opera-condivisa",
-      "templateSlug": "events/carte-sinestetiche-inaugurazione-opera-condivisa"
-    }
-  },
-  "events/solstizio-d-inverno-2019": {
-    "it": {
-      "dir": "events/2019-12-22--solstizio-d-inverno-2019",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"frequency\" label=\"Domenica 22 dicembre 2019\" value=\"dalle 18:00 alle 19:30\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n<EntryInfo variant=\"facebook\" label=\"Segui l'evento\" value=\"su [facebook](https://www.facebook.com/events/1463034257197595/)\" bottom={6}/>\n\n<Row bottom={3}>\n<Col md={6} initial>\n\nRiportiamo in vita le tradizioni dei nostri antenati che vivevano i passaggi stagionali in connessione con Madre Terra in uno scambio simbiotico funzionale al benessere di Tutti.\n\n</Col>\n<Col md={6}>\n\n*Perché celebrare il Solstizio d’Inverno nel 2019?*\n\nPer ri-scoprire che siamo interconnessi ai cicli di Madre Terra e che ogni suo passaggio è anche un movimento interiore per l’essere umano, viverlo consapevolmente riporta l’attenzione al presente e ai suoi doni.\n\n</Col>\n</Row>\n\n### Programma\n\n- Creazione del cerchio che offrirà un momento di raccoglimento;\n- Introduzione dell’ospite Laura Bottagisio esperta di quel prezioso strumento che studia il divenire della vita: la Ruota dello Zodiaco. Laura ci parlerà di come i movimenti cosmici trasformino l’invisibile in visibile;\n- Piccola meditazione per riportarci all’interconnessione con i cicli naturali in atto, formulazione intenzione da offrire al Fuoco;\n- Piantiamo un albero, un atto sacro per ricordare che gli alberi sono il polmone della Terra;\n- Rituale del Fuoco;\n- Scambio di auguri.\n\nIl tutto accompagnato dai suoni armonici di Silvia e dalla chitarra di Cristiana\n\n<Footnote>  \n\nEvento riservato ai soci di [Associazione Vivenda](/partners/associazione-vivenda/) con possibilita' di tesseramento in loco.\n\n</Footnote>\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/solstizio-d-inverno-2019",
-        "priority": 0,
-        "date": "2019-12-22T00:00:00.000Z",
-        "title": "Solstizio d’inverno",
-        "subtitle": "per celebrare la nascita della luce",
-        "googleCalendarEventRegex": "/Solstizio d’inverno/",
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "cardLabel": "22 Dic 2019",
-        "categories": [
-          "events"
-        ],
-        "partners": [
-          "associazione-vivenda"
-        ],
-        "tags": [
-          "festa"
-        ]
-      },
-      "routeId": "events/2019-12-22--solstizio-d-inverno-2019",
-      "slug": "/eventi/solstizio-d-inverno-2019",
-      "templateSlug": "events/solstizio-d-inverno-2019"
-    }
-  },
-  "events/cerchio-della-vita": {
-    "it": {
-      "dir": "events/2021-09-11--cerchio-della-vita",
-      "parentDirs": "events",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"upcoming\" label=\"settembre 2021\"/>\n<EntryInfo variant=\"duration\" label=\"da sabato 11\" value=\"dalle 10:30\"/>\n<EntryInfo variant=\"duration\" label=\"a domenica 12\" value=\"alle 16:00\"/>\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n\n<Row top={6} bottom={3}>\n<Col md={6}>\n\n<var>U</var>n fine settimana dedicato alla condivisione e alla celebrazione della vita. Organizzato da Cerchio della Vita, un gruppo spontaneo di incontro nato a seguito dell'esperienza di tante donne nel Cerchio Planetario delle Donne (attivo dal 2013 al 2018 a livello internazionale), per aprire la partecipazione anche maschile agli incontri di condivisione, in quanto tutti siamo portatori sia di energia yin che yang.\n\n<Footnote top={3} bottom={3}>  \n\nQuesto incontro è aperto a tutti.\n\n</Footnote>\n\n</Col>\n<Col md={6}>\n\n<Alert>\n\n**All'aperto**\n\nPernottamento sul posto e uso condiviso della cucina.\n\n*Prenotazione obbligatoria e info*:\n\n</Alert>\n\n<BtnLink href=\"mailto:cerchiodellavita1@gmail.com\">cerchiodellavita1@gmail.com</BtnLink>\n\n</Col>\n</Row>\n",
-      "excerpt": "",
-      "data": {
-        "template": "events-single",
-        "slug": "/eventi/cerchio-della-vita",
-        "priority": 30,
-        "homepage": true,
-        "date": "2021-09-11T00:00:00.000Z",
-        "title": "Cerchio della vita",
-        "subtitle": "Condivisione e celebrazione della vita",
-        "googleCalendarEventRegex": "/Cerchio della vita/",
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "cardLabel": "11-12 Set 2021",
-        "categories": [
-          "events"
-        ],
-        "tags": [
-          "celebrazioni"
-        ]
-      },
-      "routeId": "events/2021-09-11--cerchio-della-vita",
-      "slug": "/eventi/cerchio-della-vita",
-      "templateSlug": "events/cerchio-della-vita"
-    }
-  },
   "about": {
     "it": {
       "dir": "pages/about",
@@ -3660,6 +3660,46 @@
       "templateSlug": "events"
     }
   },
+  "galleries": {
+    "en": {
+      "dir": "pages/galleries",
+      "parentDirs": "pages",
+      "filename": "index.en.md",
+      "basename": "index.en",
+      "ext": "md",
+      "locale": "en",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-galleries",
+        "slug": "/gallery",
+        "title": "Gallery",
+        "subtitle": "Photographies collection from LaSchola"
+      },
+      "routeId": "galleries",
+      "slug": "/gallery",
+      "templateSlug": "galleries"
+    },
+    "it": {
+      "dir": "pages/galleries",
+      "parentDirs": "pages",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-galleries",
+        "slug": "/galleria",
+        "title": "Galleria",
+        "subtitle": "Raccolta di varie fotografie de LaSchola"
+      },
+      "routeId": "galleries",
+      "slug": "/galleria",
+      "templateSlug": "galleries"
+    }
+  },
   "": {
     "en": {
       "dir": "pages/home",
@@ -3704,46 +3744,6 @@
       "routeId": "home",
       "slug": "/",
       "templateSlug": ""
-    }
-  },
-  "galleries": {
-    "en": {
-      "dir": "pages/galleries",
-      "parentDirs": "pages",
-      "filename": "index.en.md",
-      "basename": "index.en",
-      "ext": "md",
-      "locale": "en",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-galleries",
-        "slug": "/gallery",
-        "title": "Gallery",
-        "subtitle": "Photographies collection from LaSchola"
-      },
-      "routeId": "galleries",
-      "slug": "/gallery",
-      "templateSlug": "galleries"
-    },
-    "it": {
-      "dir": "pages/galleries",
-      "parentDirs": "pages",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-galleries",
-        "slug": "/galleria",
-        "title": "Galleria",
-        "subtitle": "Raccolta di varie fotografie de LaSchola"
-      },
-      "routeId": "galleries",
-      "slug": "/galleria",
-      "templateSlug": "galleries"
     }
   },
   "maps": {
@@ -4042,46 +4042,6 @@
       "templateSlug": "spaces"
     }
   },
-  "tags": {
-    "en": {
-      "dir": "pages/tags",
-      "parentDirs": "pages",
-      "filename": "index.en.md",
-      "basename": "index.en",
-      "ext": "md",
-      "locale": "en",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-tags",
-        "slug": "/tags",
-        "title": "Tags",
-        "subtitle": "Search content by tag"
-      },
-      "routeId": "tags",
-      "slug": "/tags",
-      "templateSlug": "tags"
-    },
-    "it": {
-      "dir": "pages/tags",
-      "parentDirs": "pages",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-tags",
-        "slug": "/tags",
-        "title": "Tags",
-        "subtitle": "Cerca contenuti per argomento"
-      },
-      "routeId": "tags",
-      "slug": "/tags",
-      "templateSlug": "tags"
-    }
-  },
   "stream": {
     "en": {
       "dir": "pages/stream",
@@ -4120,6 +4080,46 @@
       "routeId": "stream",
       "slug": "/cosa-succede",
       "templateSlug": "stream"
+    }
+  },
+  "tags": {
+    "en": {
+      "dir": "pages/tags",
+      "parentDirs": "pages",
+      "filename": "index.en.md",
+      "basename": "index.en",
+      "ext": "md",
+      "locale": "en",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-tags",
+        "slug": "/tags",
+        "title": "Tags",
+        "subtitle": "Search content by tag"
+      },
+      "routeId": "tags",
+      "slug": "/tags",
+      "templateSlug": "tags"
+    },
+    "it": {
+      "dir": "pages/tags",
+      "parentDirs": "pages",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-tags",
+        "slug": "/tags",
+        "title": "Tags",
+        "subtitle": "Cerca contenuti per argomento"
+      },
+      "routeId": "tags",
+      "slug": "/tags",
+      "templateSlug": "tags"
     }
   },
   "where": {
@@ -5500,34 +5500,6 @@
       "templateSlug": "projects/2020--bihospitalis/preparazione-teorica-con-lipu"
     }
   },
-  "projects/2020--bihospitalis/specie-immaginarie": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/specie-immaginarie",
-      "parentDirs": "projects/2020--bihospitalis",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\nDopo aver studiato le specie che si insedieranno nei nuovi habitat, i bambini inventano nuove specie che potrebbero abitare nel parco de LaSchola. Raccogliamo i disegni, schizzi e testi e li tramutano in modelli 3D. Registriamo le voci, suoni e versi delle creature inventate caratterizzandone le personalità. In seguito, armati di dispositivo mobile, percorriamo il parco de LaSchola scegliendo le coordinate GPS dove collocarle e la loro dimensione. Infine le nuove specie vengono inserite nel percorso con la tecnica della realtà aumentata.\n",
-      "excerpt": "",
-      "data": {
-        "section": {
-          "id": "specie-immaginarie",
-          "order": 5
-        },
-        "title": "Specie immaginarie",
-        "subtitle": "Elaborazione creativa di specie fantastiche",
-        "participants": "Classe quinta",
-        "period": "inverno / primavera 2021",
-        "cover": {
-          "image": "./cover.png"
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/specie-immaginarie",
-      "slug": "projects/2020--bihospitalis/specie-immaginarie",
-      "templateSlug": "projects/2020--bihospitalis/specie-immaginarie"
-    }
-  },
   "projects/2020--bihospitalis/riconoscimenti": {
     "it": {
       "dir": "projects/2020--bihospitalis/riconoscimenti",
@@ -5571,6 +5543,34 @@
       "routeId": "projects/2020--bihospitalis/riconoscimenti",
       "slug": "projects/2020--bihospitalis/riconoscimenti",
       "templateSlug": "projects/2020--bihospitalis/riconoscimenti"
+    }
+  },
+  "projects/2020--bihospitalis/specie-immaginarie": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/specie-immaginarie",
+      "parentDirs": "projects/2020--bihospitalis",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\nDopo aver studiato le specie che si insedieranno nei nuovi habitat, i bambini inventano nuove specie che potrebbero abitare nel parco de LaSchola. Raccogliamo i disegni, schizzi e testi e li tramutano in modelli 3D. Registriamo le voci, suoni e versi delle creature inventate caratterizzandone le personalità. In seguito, armati di dispositivo mobile, percorriamo il parco de LaSchola scegliendo le coordinate GPS dove collocarle e la loro dimensione. Infine le nuove specie vengono inserite nel percorso con la tecnica della realtà aumentata.\n",
+      "excerpt": "",
+      "data": {
+        "section": {
+          "id": "specie-immaginarie",
+          "order": 5
+        },
+        "title": "Specie immaginarie",
+        "subtitle": "Elaborazione creativa di specie fantastiche",
+        "participants": "Classe quinta",
+        "period": "inverno / primavera 2021",
+        "cover": {
+          "image": "./cover.png"
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/specie-immaginarie",
+      "slug": "projects/2020--bihospitalis/specie-immaginarie",
+      "templateSlug": "projects/2020--bihospitalis/specie-immaginarie"
     }
   },
   "projects/2020--bihospitalis/stagno": {
@@ -6551,6 +6551,71 @@
       "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/crescita-piante"
     }
   },
+  "projects/2020--bihospitalis/aiuola-impollinatori/preparazione": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
+      "parentDirs": "projects/2020--bihospitalis/aiuola-impollinatori",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\nIn seguito ai progetti dei ragazzi...",
+      "excerpt": "",
+      "data": {
+        "block": {
+          "id": "preparazione",
+          "section": "aiuola-impollinatori",
+          "order": 3
+        },
+        "title": "Sintesi progettazione e preparativi",
+        "subtitle": "Disegno, scavo e delineamento aiuola",
+        "videos": {
+          "items": [
+            {
+              "youtube": "RP6oSFt_HIs"
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "image": "./media/IMG_20210328_121109.jpg"
+            },
+            {
+              "image": "./media/IMG_20210328_114744.jpg"
+            },
+            {
+              "image": "./media/IMG_20210328_120514.jpg"
+            },
+            {
+              "image": "./media/IMG_20210328_112728.jpg"
+            },
+            {
+              "image": "./media/IMG_20210328_105401.jpg"
+            },
+            {
+              "image": "./media/IMG_0011.jpg"
+            },
+            {
+              "image": "./media/IMG_0002.jpg"
+            },
+            {
+              "image": "./media/IMG_0035.jpg"
+            },
+            {
+              "image": "./media/IMG_0012.jpg"
+            },
+            {
+              "image": "./media/IMG_0046.jpg"
+            }
+          ]
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
+      "slug": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
+      "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione"
+    }
+  },
   "projects/2020--bihospitalis/bug-hotels/classe-prima-laboratorio": {
     "it": {
       "dir": "projects/2020--bihospitalis/bug-hotels/classe-prima-laboratorio",
@@ -6716,71 +6781,6 @@
       "templateSlug": "projects/2020--bihospitalis/bug-hotels/classe-prima-laboratorio"
     }
   },
-  "projects/2020--bihospitalis/aiuola-impollinatori/preparazione": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
-      "parentDirs": "projects/2020--bihospitalis/aiuola-impollinatori",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\nIn seguito ai progetti dei ragazzi...",
-      "excerpt": "",
-      "data": {
-        "block": {
-          "id": "preparazione",
-          "section": "aiuola-impollinatori",
-          "order": 3
-        },
-        "title": "Sintesi progettazione e preparativi",
-        "subtitle": "Disegno, scavo e delineamento aiuola",
-        "videos": {
-          "items": [
-            {
-              "youtube": "RP6oSFt_HIs"
-            }
-          ]
-        },
-        "gallery": {
-          "items": [
-            {
-              "image": "./media/IMG_20210328_121109.jpg"
-            },
-            {
-              "image": "./media/IMG_20210328_114744.jpg"
-            },
-            {
-              "image": "./media/IMG_20210328_120514.jpg"
-            },
-            {
-              "image": "./media/IMG_20210328_112728.jpg"
-            },
-            {
-              "image": "./media/IMG_20210328_105401.jpg"
-            },
-            {
-              "image": "./media/IMG_0011.jpg"
-            },
-            {
-              "image": "./media/IMG_0002.jpg"
-            },
-            {
-              "image": "./media/IMG_0035.jpg"
-            },
-            {
-              "image": "./media/IMG_0012.jpg"
-            },
-            {
-              "image": "./media/IMG_0046.jpg"
-            }
-          ]
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
-      "slug": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione",
-      "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/preparazione"
-    }
-  },
   "projects/2020--bihospitalis/bug-hotels/classe-prima-progettazione-in-classe": {
     "it": {
       "dir": "projects/2020--bihospitalis/bug-hotels/classe-prima-progettazione-in-classe",
@@ -6936,85 +6936,6 @@
       "templateSlug": "projects/2020--bihospitalis/bug-hotels/classe-prima-rielaborazione-in-classe"
     }
   },
-  "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
-      "parentDirs": "projects/2020--bihospitalis/bug-hotels",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "block": {
-          "id": "classe-seconda-progettazione",
-          "section": "bug-hotels",
-          "order": 5
-        },
-        "title": "Progettazione a scuola",
-        "subtitle": "Disegni preparatori della classe seconda",
-        "gallery": {
-          "items": [
-            {
-              "image": "./media/01.jpg"
-            },
-            {
-              "image": "./media/02.jpg"
-            },
-            {
-              "image": "./media/03.jpg"
-            },
-            {
-              "image": "./media/05.jpg"
-            },
-            {
-              "image": "./media/06.jpg"
-            },
-            {
-              "image": "./media/07.jpg"
-            },
-            {
-              "image": "./media/08.jpg"
-            },
-            {
-              "image": "./media/09.jpg"
-            },
-            {
-              "image": "./media/10.jpg"
-            },
-            {
-              "image": "./media/11.jpg"
-            },
-            {
-              "image": "./media/12.jpg"
-            },
-            {
-              "image": "./media/13.jpg"
-            },
-            {
-              "image": "./media/14.jpg"
-            },
-            {
-              "image": "./media/15.jpg"
-            },
-            {
-              "image": "./media/16.jpg"
-            },
-            {
-              "image": "./media/17.jpg"
-            },
-            {
-              "image": "./media/18.jpg"
-            }
-          ]
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
-      "slug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
-      "templateSlug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe"
-    }
-  },
   "projects/2020--bihospitalis/bug-hotels/classe-seconda-laboratorio": {
     "it": {
       "dir": "projects/2020--bihospitalis/bug-hotels/classe-seconda-laboratorio",
@@ -7101,6 +7022,140 @@
       "routeId": "projects/2020--bihospitalis/bug-hotels/classe-seconda-laboratorio",
       "slug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-laboratorio",
       "templateSlug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-laboratorio"
+    }
+  },
+  "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
+      "parentDirs": "projects/2020--bihospitalis/bug-hotels",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "block": {
+          "id": "classe-seconda-progettazione",
+          "section": "bug-hotels",
+          "order": 5
+        },
+        "title": "Progettazione a scuola",
+        "subtitle": "Disegni preparatori della classe seconda",
+        "gallery": {
+          "items": [
+            {
+              "image": "./media/01.jpg"
+            },
+            {
+              "image": "./media/02.jpg"
+            },
+            {
+              "image": "./media/03.jpg"
+            },
+            {
+              "image": "./media/05.jpg"
+            },
+            {
+              "image": "./media/06.jpg"
+            },
+            {
+              "image": "./media/07.jpg"
+            },
+            {
+              "image": "./media/08.jpg"
+            },
+            {
+              "image": "./media/09.jpg"
+            },
+            {
+              "image": "./media/10.jpg"
+            },
+            {
+              "image": "./media/11.jpg"
+            },
+            {
+              "image": "./media/12.jpg"
+            },
+            {
+              "image": "./media/13.jpg"
+            },
+            {
+              "image": "./media/14.jpg"
+            },
+            {
+              "image": "./media/15.jpg"
+            },
+            {
+              "image": "./media/16.jpg"
+            },
+            {
+              "image": "./media/17.jpg"
+            },
+            {
+              "image": "./media/18.jpg"
+            }
+          ]
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
+      "slug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe",
+      "templateSlug": "projects/2020--bihospitalis/bug-hotels/classe-seconda-progettazione-in-classe"
+    }
+  },
+  "projects/2020--bihospitalis/bug-hotels/installazione": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/bug-hotels/installazione",
+      "parentDirs": "projects/2020--bihospitalis/bug-hotels",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "block": {
+          "id": "installazione",
+          "section": "bug-hotels",
+          "order": 7
+        },
+        "title": "Installazione delle casette",
+        "subtitle": "I rifugi per gli insetti sono pronti",
+        "gallery": {
+          "items": [
+            {
+              "image": "./media/IMG_20210607_114857.jpg"
+            },
+            {
+              "image": "./media/IMG_20210607_115809.jpg"
+            },
+            {
+              "image": "./media/IMG_20210607_115925.jpg"
+            },
+            {
+              "image": "./media/IMG_20210607_120045.jpg"
+            },
+            {
+              "image": "./media/IMG_20210607_121903.jpg"
+            },
+            {
+              "image": "./media/IMG_20210607_202618.jpg"
+            },
+            {
+              "image": "./media/IMG_20210608_160416.jpg"
+            },
+            {
+              "image": "./media/IMG_20210608_160432.jpg"
+            },
+            {
+              "image": "./media/IMG_20210610_100215.jpg"
+            }
+          ]
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/bug-hotels/installazione",
+      "slug": "projects/2020--bihospitalis/bug-hotels/installazione",
+      "templateSlug": "projects/2020--bihospitalis/bug-hotels/installazione"
     }
   },
   "projects/2020--bihospitalis/bug-hotels/preparazione": {
@@ -7191,61 +7246,6 @@
       "routeId": "projects/2020--bihospitalis/bug-hotels/preparazione",
       "slug": "projects/2020--bihospitalis/bug-hotels/preparazione",
       "templateSlug": "projects/2020--bihospitalis/bug-hotels/preparazione"
-    }
-  },
-  "projects/2020--bihospitalis/bug-hotels/installazione": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/bug-hotels/installazione",
-      "parentDirs": "projects/2020--bihospitalis/bug-hotels",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "block": {
-          "id": "installazione",
-          "section": "bug-hotels",
-          "order": 7
-        },
-        "title": "Installazione delle casette",
-        "subtitle": "I rifugi per gli insetti sono pronti",
-        "gallery": {
-          "items": [
-            {
-              "image": "./media/IMG_20210607_114857.jpg"
-            },
-            {
-              "image": "./media/IMG_20210607_115809.jpg"
-            },
-            {
-              "image": "./media/IMG_20210607_115925.jpg"
-            },
-            {
-              "image": "./media/IMG_20210607_120045.jpg"
-            },
-            {
-              "image": "./media/IMG_20210607_121903.jpg"
-            },
-            {
-              "image": "./media/IMG_20210607_202618.jpg"
-            },
-            {
-              "image": "./media/IMG_20210608_160416.jpg"
-            },
-            {
-              "image": "./media/IMG_20210608_160432.jpg"
-            },
-            {
-              "image": "./media/IMG_20210610_100215.jpg"
-            }
-          ]
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/bug-hotels/installazione",
-      "slug": "projects/2020--bihospitalis/bug-hotels/installazione",
-      "templateSlug": "projects/2020--bihospitalis/bug-hotels/installazione"
     }
   },
   "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-laboratorio-gps": {
@@ -7938,6 +7938,35 @@
       "templateSlug": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/aratide"
     }
   },
+  "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus",
+      "parentDirs": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\nCiao, sono il *Becco Larvus* il mio massimo di lunghezza è due centimetri e mezzo.\nSono il quadruplo delle formiche ma a differenza loro so volare e pungere.\nInfatti ho un grande pungiglione per difendermi dai predatori.\nMangio insettini, piccoli girini e alla fine del pasto, per digerire meglio, piccolissimi sassolini.\nAbito nel fiore umido delle nifee degli stagni.\nSto dentro la tana soprattutto in inverno perché mi protegge dalla pioggia.\nIo sono una specie molto speciale perché sono l’unica larva a potersi riprodurre.\nLa stagione della riproduzione è in tutta la primavera; ogni anno se azzecchi la settimana giusta puoi vedere un sacco di miei simili.\nGuardate questa sono io.\n",
+      "excerpt": "",
+      "data": {
+        "template": "projects-bihospitalis/species-single",
+        "slug": "/progetti/bihospitalis/specie-immaginarie/becco-larvus",
+        "title": "Becco Larvus",
+        "author": {
+          "name": "Manuel Guidali"
+        },
+        "species": {
+          "id": "becco-larvus",
+          "model": true,
+          "sound": true,
+          "audio": false
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus",
+      "slug": "/progetti/bihospitalis/specie-immaginarie/becco-larvus",
+      "templateSlug": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus"
+    }
+  },
   "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/fiamma-fiore": {
     "it": {
       "dir": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/fiamma-fiore",
@@ -7994,35 +8023,6 @@
       "routeId": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/fiore-007",
       "slug": "/progetti/bihospitalis/specie-immaginarie/fiore-007",
       "templateSlug": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/fiore-007"
-    }
-  },
-  "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus",
-      "parentDirs": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\nCiao, sono il *Becco Larvus* il mio massimo di lunghezza è due centimetri e mezzo.\nSono il quadruplo delle formiche ma a differenza loro so volare e pungere.\nInfatti ho un grande pungiglione per difendermi dai predatori.\nMangio insettini, piccoli girini e alla fine del pasto, per digerire meglio, piccolissimi sassolini.\nAbito nel fiore umido delle nifee degli stagni.\nSto dentro la tana soprattutto in inverno perché mi protegge dalla pioggia.\nIo sono una specie molto speciale perché sono l’unica larva a potersi riprodurre.\nLa stagione della riproduzione è in tutta la primavera; ogni anno se azzecchi la settimana giusta puoi vedere un sacco di miei simili.\nGuardate questa sono io.\n",
-      "excerpt": "",
-      "data": {
-        "template": "projects-bihospitalis/species-single",
-        "slug": "/progetti/bihospitalis/specie-immaginarie/becco-larvus",
-        "title": "Becco Larvus",
-        "author": {
-          "name": "Manuel Guidali"
-        },
-        "species": {
-          "id": "becco-larvus",
-          "model": true,
-          "sound": true,
-          "audio": false
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus",
-      "slug": "/progetti/bihospitalis/specie-immaginarie/becco-larvus",
-      "templateSlug": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/becco-larvus"
     }
   },
   "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/giroluce": {

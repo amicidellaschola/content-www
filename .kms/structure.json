@@ -16,6 +16,10 @@
       "it": "/blog",
       "en": "/blog"
     },
+    "events": {
+      "it": "/eventi",
+      "en": "/events"
+    },
     "galleries": {
       "it": "/galleria",
       "en": "/gallery"
@@ -23,10 +27,6 @@
     "news": {
       "it": "/novità",
       "en": "/news"
-    },
-    "events": {
-      "it": "/eventi",
-      "en": "/events"
     },
     "partners": {
       "it": "/partners",
