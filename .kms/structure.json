@@ -24,13 +24,13 @@
       "it": "/galleria",
       "en": "/gallery"
     },
-    "news": {
-      "it": "/novità",
-      "en": "/news"
-    },
     "partners": {
       "it": "/partners",
       "en": "/partners"
+    },
+    "news": {
+      "it": "/novità",
+      "en": "/news"
     },
     "projects": {
       "it": "/progetti",
