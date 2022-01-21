@@ -1,0 +1,25 @@
+{
+  "dir": "partners/amici-de-laschola",
+  "parentDirs": "partners",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\n<EntryInfo variant=\"web\" label=\"Visita\" value=\"[facebook.com/amicidelaschola](https://www.facebook.com/amicidelaschola)\" bottom={6}/>\n\nAmici de LaSchola è l'associazione che gestisce in prima persona le attività, la manutenzione e la coordinazione de [LaSchola](https://laschola.it)\n\n### Dati associazione\n\n- Associazione Amici de LaSchola – ETS-APS\n- Via G.B. Maroni, 13, 21021 Casciago (VA)\n- C.F e P.I. 95057710121\n- Legale Rappresentante: Giorgio Loli\n- Telefono: [333 6841599](tel:3336841599)\n\nScarica lo [Statuto](./Amici_de_LaSchola-Statuto.pdf)\n",
+  "excerpt": "",
+  "data": {
+    "template": "partners-single",
+    "identifier": "amici-de-laschola",
+    "order": 1,
+    "website": "https://www.facebook.com/amicidelaschola",
+    "name": "Amici de LaSchola",
+    "payoff": "Promuoviamo LaSchola come luogo di sperimentazione di una vita associata di ricerca, gioco e lavoro",
+    "logo": "./logo.png",
+    "cover": {
+      "image": "./cover.jpg"
+    }
+  },
+  "routeId": "partners/amici-de-laschola",
+  "slug": "partners/amici-de-laschola",
+  "templateSlug": "partners/amici-de-laschola"
+}

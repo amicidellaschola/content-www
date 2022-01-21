@@ -1,0 +1,19 @@
+{
+  "dir": "pages/donate",
+  "parentDirs": "pages",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\n<Col narrow>\n\nScegli di destinare il tuo 5 per 1000 a LaSchola, il tuo contributo andrà a finanziare le attività che teniamo e a coprire i costi di manutenzione.\n\n### Associazione Amici de LaSchola ETS-APS, C.F. 95057710121\n\n</Col>\n",
+  "excerpt": "",
+  "data": {
+    "template": "pages-default",
+    "slug": "/5-per-mille",
+    "title": "5 per mille",
+    "subtitle": "Sostieni le nostre attività con una donazione"
+  },
+  "routeId": "donate",
+  "slug": "/5-per-mille",
+  "templateSlug": "donate"
+}

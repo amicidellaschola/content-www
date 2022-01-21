@@ -1,0 +1,19 @@
+{
+  "dir": "pages/news",
+  "parentDirs": "pages",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-news",
+    "slug": "/news",
+    "title": "News",
+    "subtitle": "Short news and comunications from LaSchola"
+  },
+  "routeId": "news",
+  "slug": "/news",
+  "templateSlug": "news"
+}

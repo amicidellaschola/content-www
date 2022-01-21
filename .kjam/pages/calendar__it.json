@@ -1,0 +1,21 @@
+{
+  "dir": "pages/calendar",
+  "parentDirs": "pages",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-calendar",
+    "slug": "/calendario",
+    "seo": {
+      "title": "Calendario"
+    },
+    "title": "Calendario"
+  },
+  "routeId": "calendar",
+  "slug": "/calendario",
+  "templateSlug": "calendar"
+}

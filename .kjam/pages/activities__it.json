@@ -1,0 +1,19 @@
+{
+  "dir": "pages/activities",
+  "parentDirs": "pages",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-activities",
+    "slug": "/attività",
+    "title": "Attività",
+    "subtitle": "Attività che si svolgono a LaSchola"
+  },
+  "routeId": "activities",
+  "slug": "/attività",
+  "templateSlug": "activities"
+}
