@@ -508,7 +508,7 @@ Di seguito il programma giorno per giorno
 
 </Footnote>
 <Schedule data={props.schedules[0]}/>
-<BtnLink anchor="contattaci">Contattaci per informazioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
 </Col>
 </Row>
 
@@ -548,7 +548,7 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 Di seguito il programma giorno per giorno
 </Footnote> 
 <Schedule data={props.schedules[1]} />
-<BtnLink anchor="contattaci">Contattaci per informazioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
 </Col>
 <Col>
 <Alert top={6} color="lilla">

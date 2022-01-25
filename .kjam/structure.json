@@ -1,0 +1,66 @@
+{
+  "i18n": {
+    "locales": [
+      "it",
+      "en"
+    ],
+    "defaultLocale": "it",
+    "hideDefaultLocaleInUrl": true
+  },
+  "routes": {
+    "activities": {
+      "it": "/attività",
+      "en": "/activities"
+    },
+    "galleries": {
+      "it": "/galleria",
+      "en": "/gallery"
+    },
+    "blog": {
+      "it": "/blog",
+      "en": "/blog"
+    },
+    "events": {
+      "it": "/eventi",
+      "en": "/events"
+    },
+    "news": {
+      "it": "/novità",
+      "en": "/news"
+    },
+    "projects": {
+      "it": "/progetti",
+      "en": "/projects"
+    },
+    "spaces": {
+      "it": "/spazi",
+      "en": "/spaces"
+    },
+    "partners": {
+      "it": "/partners",
+      "en": "/partners"
+    },
+    "projects/2020--bihospitalis": {
+      "it": "/progetti/bihospitalis"
+    },
+    "spaces/camere": {
+      "it": "/spazi/camere",
+      "en": "/spaces/rooms"
+    },
+    "projects/2020--bihospitalis/aiuola-impollinatori": {
+      "it": "/progetti/bihospitalis/aiuola-impollinatori"
+    },
+    "projects/2020--bihospitalis/bug-hotels": {
+      "it": "/progetti/bihospitalis/bug-hotels"
+    },
+    "projects/2020--bihospitalis/specie-immaginarie": {
+      "it": "/progetti/bihospitalis/specie-immaginarie"
+    },
+    "projects/2020--bihospitalis/stagno": {
+      "it": "/progetti/bihospitalis/stagno"
+    },
+    "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti": {
+      "it": "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti"
+    }
+  }
+}

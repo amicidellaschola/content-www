@@ -28,4 +28,4 @@ In...Ascolto è uno spazio per coloro che sentono la necessità di essere ascolt
 
 </Col>
 
-<BtnLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</BtnLink>
+<ButtonLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</ButtonLink>

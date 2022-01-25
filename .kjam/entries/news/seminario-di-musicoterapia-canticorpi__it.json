@@ -1,0 +1,35 @@
+{
+  "dir": "news/2019-11-24--seminario-di-musicoterapia-canticorpi",
+  "parentDirs": "news",
+  "filename": "index.it.md",
+  "basename": "index.it",
+  "ext": "md",
+  "locale": "it",
+  "body": "\n<EntryInfo variant=\"location\" label=\"A LaSchola\" value=\"[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)\"/>\n<EntryInfo variant=\"frequency\" label=\"Doppio appuntamento\" value=\"domenica 24 Novembre 2019 e 19 Aprile 2020\"/>\n<EntryInfo variant=\"teacher\" label=\"Condotto da\" value=\"Costanza Sansoni, musicoterapista\"/>\n<EntryInfo variant=\"phone\" label=\"Telefono\" value=\"[347 250 6558](tel:3472506558)\"/>\n<EntryInfo variant=\"email\" label=\"Email\" value=\"[psicomotricitarelazione@gmail.com](mailto:psicomotricitarelazione@gmail.com)\" bottom={6}/>\n\n<Col align=\"center\">\nPer info su iscrizioni e costi scrivi a:\n<BtnLink href=\"mailto:psicomotricitarelazione@gmail.com\">psicomotricitarelazione@gmail.com</BtnLink>\n</Col>\n",
+  "excerpt": "",
+  "data": {
+    "template": "news-single",
+    "slug": "/novità/seminario-di-musicoterapia-canticorpi",
+    "priority": 0,
+    "title": "Seminario di musicoterapia \"Canticorpi\"",
+    "subtitle": "Liberare la voce senza dimenticare il corpo",
+    "cover": {
+      "image": "./cover.jpg"
+    },
+    "googleCalendarEventRegex": "/Seminario di musicoterapia \"Canticorpi\"/",
+    "cardLabel": "24 Nov 2019 / 19 Apr 2020",
+    "partners": [
+      "centro-studi-di-psicomotricità-relazionale"
+    ],
+    "categories": [
+      "news",
+      "activities"
+    ],
+    "tags": [
+      "musicoterapia"
+    ]
+  },
+  "routeId": "news/2019-11-24--seminario-di-musicoterapia-canticorpi",
+  "slug": "/novità/seminario-di-musicoterapia-canticorpi",
+  "templateSlug": "news/seminario-di-musicoterapia-canticorpi"
+}

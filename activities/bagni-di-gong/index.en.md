@@ -33,4 +33,4 @@ Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Viv
 
 </Footnote>
 
-<BtnLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</BtnLink>
+<ButtonLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</ButtonLink>

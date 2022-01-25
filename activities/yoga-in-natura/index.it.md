@@ -45,7 +45,7 @@ Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 
 </Alert>
 
-<BtnLink href="mailto:studioholism@gmail.com">studioholism@gmail.com</BtnLink>
+<ButtonLink href="mailto:studioholism@gmail.com">studioholism@gmail.com</ButtonLink>
 
 </Col>
 <Col md={6} align="center">

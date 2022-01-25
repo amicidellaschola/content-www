@@ -60,7 +60,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per info e iscrizioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
 <SectionTitle>Esperienza singolare</SectionTitle>
 <SectionSubtitle>Lezioni individuali di arteterapia</SectionSubtitle>
@@ -70,6 +70,6 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 <EntryInfo variant="price" value="35 € a incontro"/>
 <EntryInfo variant="teacher" label="Con" value="Sonia Ranza"/>
 
-<BtnLink anchor="contattaci">Contattaci per maggiori informazioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per maggiori informazioni</ButtonLink>
 
 <ContactForm id="contattaci" emailable="info@laschola.it?subject=Percorsi di arteterapia" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Percorso di arteterapia / Lezioni individuali di arteterapia."></ContactForm>

@@ -57,7 +57,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per info e iscrizioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
 <SectionTitle>Programma</SectionTitle>
 <SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>

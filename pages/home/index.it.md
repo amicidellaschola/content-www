@@ -57,7 +57,7 @@ A LaSchola abbiamo spazi dedicati alla condivisione dei saperi, alla socialità 
 
 </div>
 
-<BtnLink to="/it/contatti/">Vuoi esserci anche tu?</BtnLink>
+<ButtonLink to="/it/contatti/">Vuoi esserci anche tu?</ButtonLink>
 
 </Col>
 </Row>

@@ -42,6 +42,6 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per info e iscrizioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
 <ContactForm id="contattaci" emailable="info@laschola.it?subject=Introduzione alla programmazione web" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Corso di introduzione alla programmazione web."></ContactForm>

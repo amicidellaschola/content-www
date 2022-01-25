@@ -45,7 +45,7 @@ Pernottamento sul posto e uso condiviso della cucina.
 
 </Alert>
 
-<BtnLink href="mailto:cerchiodellavita1@gmail.com">cerchiodellavita1@gmail.com</BtnLink>
+<ButtonLink href="mailto:cerchiodellavita1@gmail.com">cerchiodellavita1@gmail.com</ButtonLink>
 
 </Col>
 </Row>

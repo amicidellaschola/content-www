@@ -68,7 +68,7 @@ Questo corso introduttivo costituisce il **primo modulo del corso di progettazio
 Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 </Footnote>
 
-<BtnLink anchor="programma">Vedi il programma completo</BtnLink>
+<ButtonLink anchor="programma">Vedi il programma completo</ButtonLink>
 
 </Col>
 </Row>
@@ -172,7 +172,7 @@ Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibil
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per info e iscrizioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
 <ContactForm id="contattaci" emailable="info@laschola.it?subject=Corso di Permacultura" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al corso 'Permacultura: progettare creativamente il cambiamento'..."></ContactForm>
 

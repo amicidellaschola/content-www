@@ -27,5 +27,5 @@ Avremo il piacere di ospitare parte degli incontri della Scuola di Psicomotricit
 
 <Col align="center">
 Per info su iscrizioni e costi scrivi a:
-<BtnLink href="mailto:psicomotricitarelazione@gmail.com">psicomotricitarelazione@gmail.com</BtnLink>
+<ButtonLink href="mailto:psicomotricitarelazione@gmail.com">psicomotricitarelazione@gmail.com</ButtonLink>
 </Col>

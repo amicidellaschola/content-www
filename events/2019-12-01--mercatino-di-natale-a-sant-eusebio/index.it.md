@@ -33,7 +33,7 @@ Grazie dell'invito a Mario e alla [ProLoco di Casciago](https://www.facebook.com
 
 Scopri di più sul sito della
 
-<BtnLink href="http://www.prolococasciago.it/eventi.html">ProLoco di Casciago</BtnLink>
+<ButtonLink href="http://www.prolococasciago.it/eventi.html">ProLoco di Casciago</ButtonLink>
 </Col>
 <Col md={6}>
 

@@ -51,7 +51,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per associarti e partecipare</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per associarti e partecipare</ButtonLink>
 
 <Col initial columned>
 

@@ -18,4 +18,4 @@ tags:
 
 > "Alessandro, Beatrice e la piccolissima Mila si sono trasferiti in primavera nell'appartamento del custode dell'ex collegio chiuso da anni per riaprirlo con corsi e incontri per tutti" *Lidia Romeo*
 
-<BtnLink href="https://www.varesenews.it/2019/10/la-nuova-vita-de-laschola-piu-aperta-mai-alla-comunita/867523/">Leggi l'articolo completo su VareseNews</BtnLink>
+<ButtonLink href="https://www.varesenews.it/2019/10/la-nuova-vita-de-laschola-piu-aperta-mai-alla-comunita/867523/">Leggi l'articolo completo su VareseNews</ButtonLink>

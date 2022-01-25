@@ -68,7 +68,7 @@ Alla conclusione del corso di progettazione di 72 ore viene rilasciato un certif
 Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 
 </Footnote>
-<BtnLink anchor="programma">Vedi il programma completo</BtnLink>
+<ButtonLink anchor="programma">Vedi il programma completo</ButtonLink>
 </Col>
 </Row>
 
@@ -283,7 +283,7 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 <Footnote top={2}>
 È necessaria la tessera associativa Pachamama Vergante: 5 €
 </Footnote>
-<BtnLink href="https://www.pachamamahome.it">Visita il sito di Pachamamama</BtnLink>
+<ButtonLink href="https://www.pachamamahome.it">Visita il sito di Pachamamama</ButtonLink>
 </Col>
 <Col md={7}>
 
@@ -292,7 +292,7 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 </Col>
 </Row>
 
-<BtnLink href="mailto:naturedesigns.franci@gmail.com">Scrivi a naturedesigns.franci@gmail.com per info e iscrizioni</BtnLink>
+<ButtonLink href="mailto:naturedesigns.franci@gmail.com">Scrivi a naturedesigns.franci@gmail.com per info e iscrizioni</ButtonLink>
 
 <SectionTitle id="logistica-2-3-4">Info logistica</SectionTitle>
 <SectionSubtitle>2° 3° e 4° modulo a LaSchola</SectionSubtitle>
@@ -323,7 +323,7 @@ Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibil
 </Col>
 </Row>
 
-<BtnLink anchor="contattaci">Contattaci per info e iscrizioni</BtnLink>
+<ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
 <ContactForm id="contattaci" emailable="info@laschola.it?subject=Corso di Progettazione in Permacultura" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al 'Corso di Progettazione in Permacultura'..."></ContactForm>
 

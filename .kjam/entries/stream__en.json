@@ -1,0 +1,19 @@
+{
+  "dir": "pages/stream",
+  "parentDirs": "pages",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-stream",
+    "slug": "/what-s-on",
+    "title": "What's on",
+    "subtitle": "Follow what is happening at LaSchola"
+  },
+  "routeId": "stream",
+  "slug": "/what-s-on",
+  "templateSlug": "stream"
+}

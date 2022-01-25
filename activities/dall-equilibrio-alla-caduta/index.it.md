@@ -59,4 +59,4 @@ Attrice, regista e pedagoga. Laureata in Lettere Moderne con indirizzo artistico
 </Col>
 </Row>
 
-<BtnLink href="mailto:micaelasapienza@gmail.com">Info micaelasapienza@gmail.com</BtnLink>
+<ButtonLink href="mailto:micaelasapienza@gmail.com">Info micaelasapienza@gmail.com</ButtonLink>

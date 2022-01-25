@@ -1,0 +1,19 @@
+{
+  "dir": "pages/partners",
+  "parentDirs": "pages",
+  "filename": "index.en.md",
+  "basename": "index.en",
+  "ext": "md",
+  "locale": "en",
+  "body": "",
+  "excerpt": "",
+  "data": {
+    "template": "pages-partners",
+    "slug": "/partners",
+    "title": "Partners",
+    "subtitle": "LaSchola's partners and friends"
+  },
+  "routeId": "partners",
+  "slug": "/partners",
+  "templateSlug": "partners"
+}
