@@ -12,10 +12,6 @@
       "it": "/attività",
       "en": "/activities"
     },
-    "galleries": {
-      "it": "/galleria",
-      "en": "/gallery"
-    },
     "blog": {
       "it": "/blog",
       "en": "/blog"
@@ -24,9 +20,17 @@
       "it": "/eventi",
       "en": "/events"
     },
+    "galleries": {
+      "it": "/galleria",
+      "en": "/gallery"
+    },
     "news": {
       "it": "/novità",
       "en": "/news"
+    },
+    "partners": {
+      "it": "/partners",
+      "en": "/partners"
     },
     "projects": {
       "it": "/progetti",
@@ -35,10 +39,6 @@
     "spaces": {
       "it": "/spazi",
       "en": "/spaces"
-    },
-    "partners": {
-      "it": "/partners",
-      "en": "/partners"
     },
     "projects/2020--bihospitalis": {
       "it": "/progetti/bihospitalis"

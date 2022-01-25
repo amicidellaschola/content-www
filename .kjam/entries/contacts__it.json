@@ -5,7 +5,7 @@
   "basename": "index.it",
   "ext": "md",
   "locale": "it",
-  "body": "\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it\" phoneable title=\"\" subtitle=\"\"></ContactForm>\n\n<BtnLink to=\"/it/dove-siamo\">Scopri come raggiungere la sede</BtnLink>",
+  "body": "\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it\" phoneable title=\"\" subtitle=\"\"></ContactForm>\n\n<ButtonLink to=\"/it/dove-siamo\">Scopri come raggiungere la sede</ButtonLink>",
   "excerpt": "",
   "data": {
     "template": "pages-contacts",
