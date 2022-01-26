@@ -1,0 +1,14 @@
+{
+  "name": "Nome",
+  "organization": "Organizzazione, associazione, compagnia",
+  "email": "Indirizzo email",
+  "phone": "Numero di telefono",
+  "message": "Messaggio",
+  "send": "Invia",
+  "thanksTitle": "Grazie,",
+  "thanksText": "ti risponderemo al più presto",
+  "title": "Contattaci",
+  "subtitle": "Scrivici per saperne di più, organizzare un incontro o qualsiasi altra cosa",
+  "ctaEmail": "oppure scrivi un'email a {email}",
+  "ctaPhone": "o telefona o scrivi al {phone}"
+}
