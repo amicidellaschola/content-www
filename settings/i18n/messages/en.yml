@@ -1,11 +1,4 @@
 ---
-I18nSwitch.en: EN
-I18nSwitch.it: IT
-Untranslated.title: Coming soon
-Untranslated.subtitle: Sorry, this content has not been translated in English yet
-Untranslated.text: Available in
-Untranslated.textLang_en: English
-Untranslated.textLang_it: Italian
 siteTitle: LaSchola
 siteDescription: Multi-purpose center for the formation of the self
 cat.activities: Activities
@@ -38,54 +31,58 @@ nav.tags: Tags
 Footer.address: Address
 Footer.email: Email
 Footer.copy: Copyleft 2018 - {year} LaSchola
-404.title: 404
-404.subtitle: Page not found
-404.cfSubtitle: Can not find what you were looking for? Tell us, we might help you
-TplActivitiesSingle.partners: Organised by
-TplActivitiesSingle.upcomingEventsSub: Calendar
-TplActivitiesSingle.upcomingEvents: Upcoming events
-TplActivitiesSingle.upcomingEventsId: upcoming
-TplPartnersSingle.relatedContentTitle: content related to its involvement
-TplPartnersSingle.relatedContentSubtitle: >-
+~404.title: 404
+~404.subtitle: Page not found
+~404.cfSubtitle: Can not find what you were looking for? Tell us, we might help you
+~activities~.partners: Organised by
+~activities~.upcomingEventsSub: Calendar
+~activities~.upcomingEvents: Upcoming events
+~activities~.upcomingEventsId: upcoming
+~partners~.relatedContentTitle: content related to its involvement
+~partners~.relatedContentSubtitle: >-
   {name} at LaSchola
-PagesActivities.cfSubtitle: Scrivici per sapere di più su una singola attività o per proporne
+~activities.cfSubtitle: Scrivici per sapere di più su una singola attività o per proporne
   una!
-PagesNews.cfSubtitle: Scrivici se vuoi pubblicare una comunicazione relativa alle attività
+~news.cfSubtitle: Scrivici se vuoi pubblicare una comunicazione relativa alle attività
   de LaSchola, o contattaci per maggiori informazioni e aggiornamenti
-PagesPartners.cfTitle: Get in touch with us
-PagesPartners.cfSubtitle: Scrivici per possibili collaborazioni, partnership, progetti
+~partners.cfTitle: Get in touch with us
+~partners.cfSubtitle: Scrivici per possibili collaborazioni, partnership, progetti
   di rete o solo per conoscerci meglio
-PagesProjects.cfSubtitle: Scrivici se vuoi presentarci un progetto, collaborare a realizzarne
+~projects.cfSubtitle: Scrivici se vuoi presentarci un progetto, collaborare a realizzarne
   uno o partecipare a un bando
-TplProjectsSingle.partners: Partners and project's supporters
-SpacesLabs.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli laboratori
+~projects~.partners: Partners and project's supporters
+~spacesLabs.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli laboratori
   o per parlarci di un progetto!
-PagesSpaces.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli spazi o per
+~spaces.cfSubtitle: Scrivici per avere maggiori informazioni sui singoli spazi o per
   la pianificazione di un progetto
-Stream.cfSubtitle: Scrivici per sapere di più su cosa succede qui a LaSchola, su come
+~stream.cfSubtitle: Scrivici per sapere di più su cosa succede qui a LaSchola, su come
   partecipare o contribuire al progetto
-PagesTags.searchPlaceholder: Filter tags
-PagesTags.noTagsFor: No tags found for {tag}
-TplTagsSingle.navTitle: Tags
-TplTagsSingle.subtitle: Content that talks about “{tag}”
-PagesHome.featuredTitle: Highlights
-PagesHome.featuredSubtitle: Find out what is happening at LaSchola, the latest news
+~spaces~rooms~.name: Room {name}
+~spaces~rooms~.beds: Beds
+~spaces~rooms~.balcony: Balcon
+~spaces~rooms~.outdoorAccess: Outdoor access
+~tags.searchPlaceholder: Filter tags
+~tags.noTagsFor: No tags found for {tag}
+~tags~.navTitle: Tags
+~tags~.subtitle: Content that talks about “{tag}”
+~home.featuredTitle: Highlights
+~home.featuredSubtitle: Find out what is happening at LaSchola, the latest news
   and the ongoing activities
-PagesHome.featuredCta: Know more
-PagesHome.cfSubtitle: Write us to organise a meeting, if you have proposals or ideas
+~home.featuredCta: Know more
+~home.cfSubtitle: Write us to organise a meeting, if you have proposals or ideas
   or if you just want to know more
-PagesCalendar.cfSubtitle: Scrivici per maggiori informazioni sul programma, per segnalare
+~calendar.cfSubtitle: Scrivici per maggiori informazioni sul programma, per segnalare
   un cambiamento o proporre un evento
-PagesCalendar.bBarLabel1main: LaSchola
-PagesCalendar.bBarLabel1sub: In Morosolo/Casciago
-PagesCalendar.bBarLabel2main: Centro Coscienza
-PagesCalendar.bBarLabel2sub: In Milan
-PagesCalendar.calVivendaViewMoreUrl: https://www.facebook.com/associazionevivenda/
-PagesCalendar.calVivendaViewMoreText: Find more on facebook
-PagesCalendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
-PagesCalendar.calCeCoViewMoreText: Find more on centrocoscienza.it
-PagesWhere.where.title: Dove siamo
-PagesWhere.where.subtitle: Ci trovate a Morosolo, frazione di Casciago in provincia
+~calendar.bBarLabel1main: LaSchola
+~calendar.bBarLabel1sub: In Morosolo/Casciago
+~calendar.bBarLabel2main: Centro Coscienza
+~calendar.bBarLabel2sub: In Milan
+~calendar.calVivendaViewMoreUrl: https://www.facebook.com/associazionevivenda/
+~calendar.calVivendaViewMoreText: Find more on facebook
+~calendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
+~calendar.calCeCoViewMoreText: Find more on centrocoscienza.it
+~where.title: Dove siamo
+~where.subtitle: Ci trovate a Morosolo, frazione di Casciago in provincia
   di Varese
 EntryDate.published: Published
 EntryTimeSpan.label: Period
@@ -112,11 +109,6 @@ EntryInfo.participants: Participants
 EntryInfo.teacher: Held by
 EntryInfo.web: Website
 EntryInfo.location: Where
-noContent: No content here yet
-room.name: Room {name}
-room.beds: Beds
-room.balcony: Balcon
-room.outdoorAccess: Outdoor access
 ContactForm.name: Name
 ContactForm.organization: Organisation, association, company
 ContactForm.email: Email
@@ -141,3 +133,10 @@ CalendarGoogleLoadable.loading: Refreshing calendar data...
 EventsList.loading: Searching the calendar...
 ReadMore.expand: Read more
 ReadMore.collapse: Collapse
+I18nSwitch.en: EN
+I18nSwitch.it: IT
+Untranslated.title: Coming soon
+Untranslated.subtitle: Sorry, this content has not been translated in English yet
+Untranslated.text: Available in
+Untranslated.textLang_en: English
+Untranslated.textLang_it: Italian
