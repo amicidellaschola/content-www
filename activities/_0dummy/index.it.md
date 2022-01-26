@@ -10,7 +10,7 @@ seo:
   description: SEO description (falls back to `subtitle`)
   ogimage: ./cover.jpg
 title: Entry title
-subtitle: Entry subtitle
+subtitle: Entry subtitle!
 startYear: 2020
 cover:
   image: ./cover.jpg
