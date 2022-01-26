@@ -123,7 +123,7 @@ ContactForm.subtitle: Drop us a line to know more, organise a meeting or anythin
 ContactForm.ctaEmail: otherwise send an email to {email}
 ContactForm.ctaPhone: or call or text {phone}
 NoContent.text: There is no published content here yet
-CarouselFooterCount: "{current} of {howMany}"
+CarouselFooterCount.text: "{current} of {howMany}"
 EventDialog.noDesc: No details available at the moment
 EventDialog.ctaContact: Contact us to learn more
 EventDialog.ctaViewMore: Learn more
