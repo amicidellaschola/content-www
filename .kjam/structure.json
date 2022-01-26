@@ -8,13 +8,13 @@
     "hideDefaultLocaleInUrl": true
   },
   "routes": {
-    "activities": {
-      "it": "/attività",
-      "en": "/activities"
-    },
     "blog": {
       "it": "/blog",
       "en": "/blog"
+    },
+    "activities": {
+      "it": "/attività",
+      "en": "/activities"
     },
     "events": {
       "it": "/eventi",
