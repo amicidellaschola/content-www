@@ -1142,48 +1142,6 @@
       "templateSlug": "activities/laboratorio-artistico-di-arteterapia"
     }
   },
-  "activities/laboratorio-di-autoproduzione-calzature": {
-    "it": {
-      "dir": "activities/laboratorio-di-autoproduzione-calzature",
-      "parentDirs": "activities",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<Row>\n<Col md={6} initial>\n\nUn workshop dove seguire passo dopo passo tutte le fasi di lavorazione per realizzare il proprio paio di sandali in pelle. Così come camminare, sarà un percorso dove il mezzo è il fine e il viaggio la meta, un’esperienza per sviluppare autonomia e creatività.\n\n</Col>\n<Col md={6}>\n\nForniremo materiali e attrezzature ai partecipanti, prediligendo strumenti di facile reperibilità di modo da permettere il ripetersi dell’esperienza in autonomia.\n\n</Col>\n</Row>\n\n<Row top={6} bottom={6} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"frequency\" label=\"Quando\" value=\"Da definire in base alle richieste\"/>\n<EntryInfo variant=\"participants\" value=\"6 - 12\"/>\n<EntryInfo variant=\"price\" value=\"190 € (vitto e alloggio incluso)\"/>\n<EntryInfo variant=\"teacher\" value=\"[Francesco D'Ingiullo](https://sites.google.com/site/laboratoridelladecrescita/organizzazione-dei-laboratori-scheda-tecnica/laboratori-autoproduzione-sandali-scheda-tecnica)\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3}>\n\nIl laboratorio era previsto per il 21/22 dicembre 2019. Per mancanza di un numero sufficiente d'iscritti il corso è stato rimandato. [Scriveteci](#contattaci) se vi interessasse seguirlo e organizzeremo un'altra data!\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<ButtonLink anchor=\"contattaci\">Contattaci per info e iscrizioni</ButtonLink>\n\n<SectionTitle>Programma</SectionTitle>\n<SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>\n\n<Col align=\"center\">\n\n### Sabato 21 dicembre\n\n09:00: introduzione teorica<br/>\n13:00: pranzo e convivialità<br/>\n15:00: lavoro in laboratorio<br/>\n19:30: cena<br/>\n\n### Domenica 22 dicembre\n\n09:00: continuazione dei lavori<br/>\n13:00: pranzo e saluti\n\n</Col>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Laboratorio di autoproduzione calzature\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Laboratorio di autoproduzione calzature.\"></ContactForm>\n",
-      "excerpt": "",
-      "data": {
-        "template": "activities-single",
-        "slug": "/attività/laboratorio-di-autoproduzione-calzature",
-        "priority": 4,
-        "homepage": false,
-        "title": "Laboratorio di autoproduzione calzature",
-        "subtitle": "Sperimenta la lavorazione della pelle nei laboratori della descrescita di Francesco D'Ingiullo",
-        "startYear": 2019,
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "googleCalendarEventRegex": "/Laboratorio di autoproduzione calzature/",
-        "partners": [
-          "amici-de-laschola"
-        ],
-        "categories": [
-          "activities"
-        ],
-        "tags": [
-          "decrescita",
-          "laboratorio",
-          "manualità",
-          "artigianato",
-          "pelle"
-        ],
-        "showUpcomingEvents": false
-      },
-      "routeId": "activities/laboratorio-di-autoproduzione-calzature",
-      "slug": "/attività/laboratorio-di-autoproduzione-calzature",
-      "templateSlug": "activities/laboratorio-di-autoproduzione-calzature"
-    }
-  },
   "activities/laboratorio-di-ruralcesteria": {
     "it": {
       "dir": "activities/laboratorio-di-ruralcesteria",
@@ -1224,6 +1182,48 @@
       "routeId": "activities/laboratorio-di-ruralcesteria",
       "slug": "/attività/laboratorio-di-ruralcesteria",
       "templateSlug": "activities/laboratorio-di-ruralcesteria"
+    }
+  },
+  "activities/laboratorio-di-autoproduzione-calzature": {
+    "it": {
+      "dir": "activities/laboratorio-di-autoproduzione-calzature",
+      "parentDirs": "activities",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<Row>\n<Col md={6} initial>\n\nUn workshop dove seguire passo dopo passo tutte le fasi di lavorazione per realizzare il proprio paio di sandali in pelle. Così come camminare, sarà un percorso dove il mezzo è il fine e il viaggio la meta, un’esperienza per sviluppare autonomia e creatività.\n\n</Col>\n<Col md={6}>\n\nForniremo materiali e attrezzature ai partecipanti, prediligendo strumenti di facile reperibilità di modo da permettere il ripetersi dell’esperienza in autonomia.\n\n</Col>\n</Row>\n\n<Row top={6} bottom={6} alignItems=\"center\">\n<Col md={6}>\n<EntryInfo variant=\"frequency\" label=\"Quando\" value=\"Da definire in base alle richieste\"/>\n<EntryInfo variant=\"participants\" value=\"6 - 12\"/>\n<EntryInfo variant=\"price\" value=\"190 € (vitto e alloggio incluso)\"/>\n<EntryInfo variant=\"teacher\" value=\"[Francesco D'Ingiullo](https://sites.google.com/site/laboratoridelladecrescita/organizzazione-dei-laboratori-scheda-tecnica/laboratori-autoproduzione-sandali-scheda-tecnica)\"/>\n</Col>\n<Col md={6}>\n<Alert bottom={3}>\n\nIl laboratorio era previsto per il 21/22 dicembre 2019. Per mancanza di un numero sufficiente d'iscritti il corso è stato rimandato. [Scriveteci](#contattaci) se vi interessasse seguirlo e organizzeremo un'altra data!\n\n</Alert>\n<Footnote>\n\nPer partecipare è obbligatoria la tessera associativa con l'associazione [Amici de LaSchola](/partners/amici-de-laschola/). Il costo del corso include la tessera associativa annuale.\n\n</Footnote>\n</Col>\n</Row>\n\n<ButtonLink anchor=\"contattaci\">Contattaci per info e iscrizioni</ButtonLink>\n\n<SectionTitle>Programma</SectionTitle>\n<SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>\n\n<Col align=\"center\">\n\n### Sabato 21 dicembre\n\n09:00: introduzione teorica<br/>\n13:00: pranzo e convivialità<br/>\n15:00: lavoro in laboratorio<br/>\n19:30: cena<br/>\n\n### Domenica 22 dicembre\n\n09:00: continuazione dei lavori<br/>\n13:00: pranzo e saluti\n\n</Col>\n\n<ContactForm id=\"contattaci\" emailable=\"info@laschola.it?subject=Laboratorio di autoproduzione calzature\" phoneable subtitle=\"Contattaci\" title=\"per iscrizioni o per richiedere maggiori informazioni\" message=\"Ciao, vi scrivo riguardo al Laboratorio di autoproduzione calzature.\"></ContactForm>\n",
+      "excerpt": "",
+      "data": {
+        "template": "activities-single",
+        "slug": "/attività/laboratorio-di-autoproduzione-calzature",
+        "priority": 4,
+        "homepage": false,
+        "title": "Laboratorio di autoproduzione calzature",
+        "subtitle": "Sperimenta la lavorazione della pelle nei laboratori della descrescita di Francesco D'Ingiullo",
+        "startYear": 2019,
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "googleCalendarEventRegex": "/Laboratorio di autoproduzione calzature/",
+        "partners": [
+          "amici-de-laschola"
+        ],
+        "categories": [
+          "activities"
+        ],
+        "tags": [
+          "decrescita",
+          "laboratorio",
+          "manualità",
+          "artigianato",
+          "pelle"
+        ],
+        "showUpcomingEvents": false
+      },
+      "routeId": "activities/laboratorio-di-autoproduzione-calzature",
+      "slug": "/attività/laboratorio-di-autoproduzione-calzature",
+      "templateSlug": "activities/laboratorio-di-autoproduzione-calzature"
     }
   },
   "activities/mindfulness-per-bambini": {
@@ -3705,6 +3705,46 @@
       "templateSlug": "events"
     }
   },
+  "galleries": {
+    "en": {
+      "dir": "pages/galleries",
+      "parentDirs": "pages",
+      "filename": "index.en.md",
+      "basename": "index.en",
+      "ext": "md",
+      "locale": "en",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-galleries",
+        "slug": "/gallery",
+        "title": "Gallery",
+        "subtitle": "Photographies collection from LaSchola"
+      },
+      "routeId": "galleries",
+      "slug": "/gallery",
+      "templateSlug": "galleries"
+    },
+    "it": {
+      "dir": "pages/galleries",
+      "parentDirs": "pages",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-galleries",
+        "slug": "/galleria",
+        "title": "Galleria",
+        "subtitle": "Raccolta di varie fotografie de LaSchola"
+      },
+      "routeId": "galleries",
+      "slug": "/galleria",
+      "templateSlug": "galleries"
+    }
+  },
   "home": {
     "en": {
       "dir": "pages/home",
@@ -3919,46 +3959,6 @@
       "templateSlug": "partners"
     }
   },
-  "galleries": {
-    "en": {
-      "dir": "pages/galleries",
-      "parentDirs": "pages",
-      "filename": "index.en.md",
-      "basename": "index.en",
-      "ext": "md",
-      "locale": "en",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-galleries",
-        "slug": "/gallery",
-        "title": "Gallery",
-        "subtitle": "Photographies collection from LaSchola"
-      },
-      "routeId": "galleries",
-      "slug": "/gallery",
-      "templateSlug": "galleries"
-    },
-    "it": {
-      "dir": "pages/galleries",
-      "parentDirs": "pages",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-galleries",
-        "slug": "/galleria",
-        "title": "Galleria",
-        "subtitle": "Raccolta di varie fotografie de LaSchola"
-      },
-      "routeId": "galleries",
-      "slug": "/galleria",
-      "templateSlug": "galleries"
-    }
-  },
   "pdc": {
     "it": {
       "dir": "pages/pdc",
@@ -4049,6 +4049,44 @@
       "templateSlug": "projects"
     }
   },
+  "spaces": {
+    "en": {
+      "dir": "pages/spaces",
+      "parentDirs": "pages",
+      "filename": "index.en.md",
+      "basename": "index.en",
+      "ext": "md",
+      "locale": "en",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-spaces",
+        "slug": "/spaces",
+        "title": "Spaces"
+      },
+      "routeId": "spaces",
+      "slug": "/spaces",
+      "templateSlug": "spaces"
+    },
+    "it": {
+      "dir": "pages/spaces",
+      "parentDirs": "pages",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "template": "pages-spaces",
+        "slug": "/spazi",
+        "title": "Spazi"
+      },
+      "routeId": "spaces",
+      "slug": "/spazi",
+      "templateSlug": "spaces"
+    }
+  },
   "stream": {
     "en": {
       "dir": "pages/stream",
@@ -4087,44 +4125,6 @@
       "routeId": "stream",
       "slug": "/cosa-succede",
       "templateSlug": "stream"
-    }
-  },
-  "spaces": {
-    "en": {
-      "dir": "pages/spaces",
-      "parentDirs": "pages",
-      "filename": "index.en.md",
-      "basename": "index.en",
-      "ext": "md",
-      "locale": "en",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-spaces",
-        "slug": "/spaces",
-        "title": "Spaces"
-      },
-      "routeId": "spaces",
-      "slug": "/spaces",
-      "templateSlug": "spaces"
-    },
-    "it": {
-      "dir": "pages/spaces",
-      "parentDirs": "pages",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "template": "pages-spaces",
-        "slug": "/spazi",
-        "title": "Spazi"
-      },
-      "routeId": "spaces",
-      "slug": "/spazi",
-      "templateSlug": "spaces"
     }
   },
   "tags": {
@@ -4292,32 +4292,6 @@
       "templateSlug": "partners/centro-studi-di-psicomotricità-relazionale"
     }
   },
-  "partners/tree-climbing-italia": {
-    "it": {
-      "dir": "partners/tree-climbing-italia",
-      "parentDirs": "partners",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"web\" label=\"Visita\" value=\"[treeclimbing.it](https://treeclimbing.it/)\"/>\n<EntryInfo variant=\"facebook\" label=\"Pagina facebook\" value=\"[facebook.com/TreeClimbingItalia](https://www.facebook.com/TreeClimbingItalia/)\"/>\n\n>“Per insegnare non basta essere un bravo climber. È necessario capire le esigenze e le difficoltà di ogni allievo. In più, visto che siamo appesi a venti metri d’altezza, è importante trasmettere fiducia ed aiutare ognuno a vincere le proprie paure.” _Sergio Ghivelder, dal sito [treeclimbing.it](https://treeclimbing.it/chi-siamo/)_\n\n<Row>\n<Col md={7}>\n\nL’associazione (A. S. D.) **Tree Climbing Italia** – Arbor Training fino al 2010 – è stata fondata nel 2011 da Sergio Ghivelder. Il suo obiettivo era quello di dare vita ad un centro di formazione altamente specializzato nella formazione di climbers e istruttori di Tree Climbing, oltre che avvicinare il pubblico in generale a questa disciplina che è sia una pratica ricreativa di arrampicata, che una tecnica impiegata da arboricoltori professionisti.\n\n</Col>\n<Col md={5}>\n<Alert>\n\nConosciuti all'Agrifest di Varese del 2019, oggi il [parco, gli alberi](/spazi/parco/) e la struttura de LaSchola ospitano alcuni dei corsi di Tree Climbing Italia.\n\n</Alert>\n</Col>\n</Row>\n",
-      "excerpt": "",
-      "data": {
-        "template": "partners-single",
-        "identifier": "tree-climbing-italia",
-        "order": 6,
-        "website": "https://treeclimbing.it/",
-        "name": "Tree Climbing Italia",
-        "logo": "./logo.png",
-        "cover": {
-          "image": "./cover.jpg"
-        }
-      },
-      "routeId": "partners/tree-climbing-italia",
-      "slug": "partners/tree-climbing-italia",
-      "templateSlug": "partners/tree-climbing-italia"
-    }
-  },
   "partners/scuola-primaria-a-manzoni": {
     "it": {
       "dir": "partners/scuola-primaria-a-manzoni",
@@ -4344,6 +4318,32 @@
       "routeId": "partners/scuola-primaria-a-manzoni",
       "slug": "partners/scuola-primaria-a-manzoni",
       "templateSlug": "partners/scuola-primaria-a-manzoni"
+    }
+  },
+  "partners/tree-climbing-italia": {
+    "it": {
+      "dir": "partners/tree-climbing-italia",
+      "parentDirs": "partners",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"web\" label=\"Visita\" value=\"[treeclimbing.it](https://treeclimbing.it/)\"/>\n<EntryInfo variant=\"facebook\" label=\"Pagina facebook\" value=\"[facebook.com/TreeClimbingItalia](https://www.facebook.com/TreeClimbingItalia/)\"/>\n\n>“Per insegnare non basta essere un bravo climber. È necessario capire le esigenze e le difficoltà di ogni allievo. In più, visto che siamo appesi a venti metri d’altezza, è importante trasmettere fiducia ed aiutare ognuno a vincere le proprie paure.” _Sergio Ghivelder, dal sito [treeclimbing.it](https://treeclimbing.it/chi-siamo/)_\n\n<Row>\n<Col md={7}>\n\nL’associazione (A. S. D.) **Tree Climbing Italia** – Arbor Training fino al 2010 – è stata fondata nel 2011 da Sergio Ghivelder. Il suo obiettivo era quello di dare vita ad un centro di formazione altamente specializzato nella formazione di climbers e istruttori di Tree Climbing, oltre che avvicinare il pubblico in generale a questa disciplina che è sia una pratica ricreativa di arrampicata, che una tecnica impiegata da arboricoltori professionisti.\n\n</Col>\n<Col md={5}>\n<Alert>\n\nConosciuti all'Agrifest di Varese del 2019, oggi il [parco, gli alberi](/spazi/parco/) e la struttura de LaSchola ospitano alcuni dei corsi di Tree Climbing Italia.\n\n</Alert>\n</Col>\n</Row>\n",
+      "excerpt": "",
+      "data": {
+        "template": "partners-single",
+        "identifier": "tree-climbing-italia",
+        "order": 6,
+        "website": "https://treeclimbing.it/",
+        "name": "Tree Climbing Italia",
+        "logo": "./logo.png",
+        "cover": {
+          "image": "./cover.jpg"
+        }
+      },
+      "routeId": "partners/tree-climbing-italia",
+      "slug": "partners/tree-climbing-italia",
+      "templateSlug": "partners/tree-climbing-italia"
     }
   },
   "projects/2019--pratiche-educative-a-laschola-di-morosolo": {
