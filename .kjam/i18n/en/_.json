@@ -1,0 +1,9 @@
+{
+  "noContent": "No content here yet",
+  "room": {
+    "name": "Room {name}",
+    "beds": "Beds",
+    "balcony": "Balcon",
+    "outdoorAccess": "Outdoor access"
+  }
+}
