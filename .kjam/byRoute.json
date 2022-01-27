@@ -940,6 +940,48 @@
       "templateSlug": "activities/dall-equilibrio-alla-caduta"
     }
   },
+  "activities/gruppo-territorio": {
+    "it": {
+      "dir": "activities/gruppo-territorio",
+      "parentDirs": "activities",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "\n<EntryInfo variant=\"upcoming\" value=\"un sabato al mese, dalle 9:00 alle 15:00\"/>\n<EntryInfo variant=\"location\" label=\"Ci trovate\" value=\"nel [parco 🍂](/spazi/parco/)\" bottom={6}/>\n\n<Col initial columned>\n\nIl Gruppo, condotto da Giuliano Silvestri, ha operato continuativamente dal 1976 per la cura e manutenzione degli edifici e del parco della Schola di Morosolo. Negli ultimi due anni, nei quali è stato impedito di occuparsi della Schola, il Gruppo ha rivolto la propria attività alla LIPU della Palude Brabbia (Varese).\n\nOra che si è riaperto l’uso della Schola di Morosolo ha ripreso la propria opera per il recupero di quegli ambienti. Si riunisce un sabato al mese a Morosolo per l’intera giornata.\n\nLa partecipazione è aperta a tutti.\n\n</Col>\n",
+      "excerpt": "",
+      "data": {
+        "template": "activities-single",
+        "slug": "/attività/gruppo-territorio",
+        "priority": 5,
+        "homepage": false,
+        "seo": {
+          "hidden": false,
+          "title": "Gruppo Territorio",
+          "description": "Manutenzione de LaSchola lavorando insieme"
+        },
+        "title": "Gruppo Territorio",
+        "subtitle": "Manutenzione de LaSchola lavorando insieme",
+        "startYear": 2019,
+        "cover": {
+          "image": "./cover.jpg"
+        },
+        "googleCalendarEventRegex": "/Gruppo territorio/",
+        "cardLabel": "Un sabato al mese",
+        "categories": [
+          "activities"
+        ],
+        "partners": [
+          "centro-coscienza",
+          "amici-de-laschola"
+        ],
+        "showUpcomingEvents": true
+      },
+      "routeId": "activities/gruppo-territorio",
+      "slug": "/attività/gruppo-territorio",
+      "templateSlug": "activities/gruppo-territorio"
+    }
+  },
   "activities/fucina-creativa-popolare": {
     "it": {
       "dir": "activities/fucina-creativa-popolare",
@@ -981,48 +1023,6 @@
       "routeId": "activities/fucina-creativa-popolare",
       "slug": "/attività/fucina-creativa-popolare",
       "templateSlug": "activities/fucina-creativa-popolare"
-    }
-  },
-  "activities/gruppo-territorio": {
-    "it": {
-      "dir": "activities/gruppo-territorio",
-      "parentDirs": "activities",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "\n<EntryInfo variant=\"upcoming\" value=\"un sabato al mese, dalle 9:00 alle 15:00\"/>\n<EntryInfo variant=\"location\" label=\"Ci trovate\" value=\"nel [parco 🍂](/spazi/parco/)\" bottom={6}/>\n\n<Col initial columned>\n\nIl Gruppo, condotto da Giuliano Silvestri, ha operato continuativamente dal 1976 per la cura e manutenzione degli edifici e del parco della Schola di Morosolo. Negli ultimi due anni, nei quali è stato impedito di occuparsi della Schola, il Gruppo ha rivolto la propria attività alla LIPU della Palude Brabbia (Varese).\n\nOra che si è riaperto l’uso della Schola di Morosolo ha ripreso la propria opera per il recupero di quegli ambienti. Si riunisce un sabato al mese a Morosolo per l’intera giornata.\n\nLa partecipazione è aperta a tutti.\n\n</Col>\n",
-      "excerpt": "",
-      "data": {
-        "template": "activities-single",
-        "slug": "/attività/gruppo-territorio",
-        "priority": 5,
-        "homepage": false,
-        "seo": {
-          "hidden": false,
-          "title": "Gruppo Territorio",
-          "description": "Manutenzione de LaSchola lavorando insieme"
-        },
-        "title": "Gruppo Territorio",
-        "subtitle": "Manutenzione de LaSchola lavorando insieme",
-        "startYear": 2019,
-        "cover": {
-          "image": "./cover.jpg"
-        },
-        "googleCalendarEventRegex": "/Gruppo territorio/",
-        "cardLabel": "Un sabato al mese",
-        "categories": [
-          "activities"
-        ],
-        "partners": [
-          "centro-coscienza",
-          "amici-de-laschola"
-        ],
-        "showUpcomingEvents": true
-      },
-      "routeId": "activities/gruppo-territorio",
-      "slug": "/attività/gruppo-territorio",
-      "templateSlug": "activities/gruppo-territorio"
     }
   },
   "activities/in-ascolto": {
@@ -6336,6 +6336,73 @@
       "templateSlug": "spaces/camere/farinello"
     }
   },
+  "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione": {
+    "it": {
+      "dir": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
+      "parentDirs": "projects/2020--bihospitalis/aiuola-impollinatori",
+      "filename": "index.it.md",
+      "basename": "index.it",
+      "ext": "md",
+      "locale": "it",
+      "body": "",
+      "excerpt": "",
+      "data": {
+        "block": {
+          "id": "laboratorio-piantumazione",
+          "section": "aiuola-impollinatori",
+          "order": 4
+        },
+        "title": "Piantumazione dell'aiuola",
+        "subtitle": "Giornata di giardinaggio per gli impollinatori",
+        "gallery": {
+          "items": [
+            {
+              "image": "./media/IMG_20210408_093942.jpg"
+            },
+            {
+              "image": "./media/IMG_0058.jpg"
+            },
+            {
+              "image": "./media/IMG_0063.jpg"
+            },
+            {
+              "image": "./media/IMG_0075.jpg"
+            },
+            {
+              "image": "./media/IMG_0081.jpg"
+            },
+            {
+              "image": "./media/IMG_0087.jpg"
+            },
+            {
+              "image": "./media/IMG_0120.jpg"
+            },
+            {
+              "image": "./media/IMG_0125.jpg"
+            },
+            {
+              "image": "./media/IMG_0149.jpg"
+            },
+            {
+              "image": "./media/IMG_0158.jpg"
+            },
+            {
+              "image": "./media/IMG_0167.jpg"
+            },
+            {
+              "image": "./media/IMG_0171.jpg"
+            },
+            {
+              "image": "./media/IMG_0173.jpg"
+            }
+          ]
+        }
+      },
+      "routeId": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
+      "slug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
+      "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione"
+    }
+  },
   "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-progettazione": {
     "it": {
       "dir": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-progettazione",
@@ -7818,73 +7885,6 @@
       "routeId": "projects/2020--bihospitalis/stagno/preparazione-progetto-disegno-e-scavo",
       "slug": "projects/2020--bihospitalis/stagno/preparazione-progetto-disegno-e-scavo",
       "templateSlug": "projects/2020--bihospitalis/stagno/preparazione-progetto-disegno-e-scavo"
-    }
-  },
-  "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione": {
-    "it": {
-      "dir": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
-      "parentDirs": "projects/2020--bihospitalis/aiuola-impollinatori",
-      "filename": "index.it.md",
-      "basename": "index.it",
-      "ext": "md",
-      "locale": "it",
-      "body": "",
-      "excerpt": "",
-      "data": {
-        "block": {
-          "id": "laboratorio-piantumazione",
-          "section": "aiuola-impollinatori",
-          "order": 4
-        },
-        "title": "Piantumazione dell'aiuola",
-        "subtitle": "Giornata di giardinaggio per gli impollinatori",
-        "gallery": {
-          "items": [
-            {
-              "image": "./media/IMG_20210408_093942.jpg"
-            },
-            {
-              "image": "./media/IMG_0058.jpg"
-            },
-            {
-              "image": "./media/IMG_0063.jpg"
-            },
-            {
-              "image": "./media/IMG_0075.jpg"
-            },
-            {
-              "image": "./media/IMG_0081.jpg"
-            },
-            {
-              "image": "./media/IMG_0087.jpg"
-            },
-            {
-              "image": "./media/IMG_0120.jpg"
-            },
-            {
-              "image": "./media/IMG_0125.jpg"
-            },
-            {
-              "image": "./media/IMG_0149.jpg"
-            },
-            {
-              "image": "./media/IMG_0158.jpg"
-            },
-            {
-              "image": "./media/IMG_0167.jpg"
-            },
-            {
-              "image": "./media/IMG_0171.jpg"
-            },
-            {
-              "image": "./media/IMG_0173.jpg"
-            }
-          ]
-        }
-      },
-      "routeId": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
-      "slug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione",
-      "templateSlug": "projects/2020--bihospitalis/aiuola-impollinatori/classe-terza-laboratorio-piantumazione"
     }
   },
   "projects/2020--bihospitalis/specie-immaginarie/classe-quinta-progetti/alberusmimeticus": {
