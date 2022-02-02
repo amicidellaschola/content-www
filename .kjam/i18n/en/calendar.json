@@ -1,11 +1,1 @@
-{
-  "cfSubtitle": "Scrivici per maggiori informazioni sul programma, per segnalare un cambiamento o proporre un evento",
-  "bBarLabel1main": "LaSchola",
-  "bBarLabel1sub": "In Morosolo/Casciago",
-  "bBarLabel2main": "Centro Coscienza",
-  "bBarLabel2sub": "In Milan",
-  "calVivendaViewMoreUrl": "https://www.facebook.com/associazionevivenda/",
-  "calVivendaViewMoreText": "Find more on facebook",
-  "calCeCoViewMoreUrl": "http://www.centrocoscienza.it/calendario",
-  "calCeCoViewMoreText": "Find more on centrocoscienza.it"
-}
+{"cfSubtitle":"Scrivici per maggiori informazioni sul programma, per segnalare un cambiamento o proporre un evento","bBarLabel1main":"LaSchola","bBarLabel1sub":"In Morosolo/Casciago","bBarLabel2main":"Centro Coscienza","bBarLabel2sub":"In Milan","calVivendaViewMoreUrl":"https://www.facebook.com/associazionevivenda/","calVivendaViewMoreText":"Find more on facebook","calCeCoViewMoreUrl":"http://www.centrocoscienza.it/calendario","calCeCoViewMoreText":"Find more on centrocoscienza.it"}

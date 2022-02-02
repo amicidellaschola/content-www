@@ -1,6 +1,1 @@
-{
-  "name": "Camera {name}",
-  "beds": "Letti",
-  "balcony": "Balcone",
-  "outdoorAccess": "Accesso dall'esterno"
-}
+{"name":"Camera {name}","beds":"Letti","balcony":"Balcone","outdoorAccess":"Accesso dall'esterno"}

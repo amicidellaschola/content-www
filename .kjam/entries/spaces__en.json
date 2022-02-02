@@ -1,18 +1,1 @@
-{
-  "dir": "pages/spaces",
-  "parentDirs": "pages",
-  "filename": "index.en.md",
-  "basename": "index.en",
-  "ext": "md",
-  "locale": "en",
-  "body": "",
-  "excerpt": "",
-  "data": {
-    "template": "pages-spaces",
-    "slug": "/spaces",
-    "title": "Spaces"
-  },
-  "routeId": "spaces",
-  "slug": "/spaces",
-  "templateSlug": "spaces"
-}
+{"dir":"pages/spaces","locale":"en","body":"","excerpt":"","data":{"template":"pages-spaces","title":"Spaces"},"routeId":"spaces","templateSlug":"spaces","slug":"spaces","url":"/spaces"}
