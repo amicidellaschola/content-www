@@ -695,14 +695,14 @@ Madre di un bambino. Psicologa, psicoterapeuta cognitivo-comportamentale. Si è 
 <Col sm={5} orderxs={2}>
 <ImgRounded>
 
-![psicologa-angelica-ciafardini-educatrice-dei-campi-estivi-a-laschola](./operatori/angelica-ciafardini.jpg)
+![psicologa-angelica-ciafardini-educatrice-dei-campi-estivi-a-laschola](./images/angelica-ciafardini.jpg)
 
 </ImgRounded>
 </Col>
 <Col sm={5} orderxs={4}>
 <ImgRounded>
 
-![francesco-d-ingiullo-educatrice-dei-campi-estivi-a-laschola](./operatori/francesco-d-ingiullo.jpg)
+![francesco-d-ingiullo-educatrice-dei-campi-estivi-a-laschola](./images/francesco-d-ingiullo.jpg)
 
 </ImgRounded>
 </Col>
@@ -735,14 +735,14 @@ Personalità eclettica Alessandro ama combinare gli interessi e le esperienze pi
 <Col sm={5} orderxs={6}>
 <ImgRounded>
 
-![alessandro-operatore-dei-campi-estivi-a-laschola](./operatori/alessandro.jpg)
+![alessandro-operatore-dei-campi-estivi-a-laschola](./images/alessandro.jpg)
 
 </ImgRounded>
 </Col>
 <Col sm={5} orderxs={8}>
 <ImgRounded>
 
-![beatrice-operatrice-dei-campi-estivi-a-laschola](./operatori/beatrice.jpg)
+![beatrice-operatrice-dei-campi-estivi-a-laschola](./images/beatrice.jpg)
 
 </ImgRounded>
 </Col>
