@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/corso-di-progettazione-in-permacultura-2020
+slug: corso-di-progettazione-in-permacultura-2020
 seo:
   ogimage: ./ogimage.jpg
 priority: 21

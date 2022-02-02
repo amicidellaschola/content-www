@@ -1,7 +1,7 @@
 ---
 draft: true
 template: blog-single
-slug: /blog/sperimentazioni-orticoltura
+slug: sperimentazioni-orticoltura
 priority: 1
 date: 2019-03-30T15:04:10.000Z
 title: Sperimentazioni di orticoltura

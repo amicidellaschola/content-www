@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/buildings
+slug: buildings
 order: 1
 title: LaSchola's buildings
 shortTitle: Buildings

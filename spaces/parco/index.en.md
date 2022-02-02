@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-single
-slug: /spaces/outdoor
+slug: outdoor
 order: 9
 seo:
   title: Outdoor

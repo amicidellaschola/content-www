@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/seedbed
+slug: seedbed
 order: 7
 title: Seedbed for aromatic plants and vegetables
 shortTitle: Seedbed

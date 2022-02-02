@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/introduzione-alla-programmazione-web
+slug: introduzione-alla-programmazione-web
 priority: 9
 homepage: true
 title: Introduzione alla programmazione web

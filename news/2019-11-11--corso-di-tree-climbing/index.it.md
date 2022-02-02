@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /novità/corso-di-tree-climbing
+slug: corso-di-tree-climbing
 priority: 0
 date: 2019-11-11T15:23:00.749Z
 title: Tree climbing e introduzione all'arboricoltura

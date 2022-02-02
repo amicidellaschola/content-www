@@ -1,6 +1,6 @@
 ---
 template: spaces-single
-slug: /spazi/cucina
+slug: cucina
 order: 2
 spaceId: Ed1-A--4
 map: 

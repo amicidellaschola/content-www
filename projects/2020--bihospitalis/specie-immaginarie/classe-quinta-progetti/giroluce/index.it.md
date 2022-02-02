@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/giroluce
+slug: giroluce
 title: Giroluce
 author: 
   name: Veronica Timeus

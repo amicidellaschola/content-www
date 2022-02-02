@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/saldra
+slug: saldra
 title: Saldra
 author: 
   name: Chiara Marchesi

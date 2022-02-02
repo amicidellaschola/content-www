@@ -1,7 +1,7 @@
 ---
 draft: true
 template: galleries-single
-slug: /galleria/compostiera
+slug: compostiera
 order: 1
 title: Compostiera
 shortTitle: Compostiera

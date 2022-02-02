@@ -1,6 +1,6 @@
 ---
 template: pages-spaces-labs
-slug: /spazi/laboratori
+slug: laboratori
 title: Laboratori
 subtitle: Spazi di sperimentazione pratica
 cover:

@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spazi/camere/crespigno
+slug: crespigno
 order: 1
 spaceId: Ed1-A--8
 map: 

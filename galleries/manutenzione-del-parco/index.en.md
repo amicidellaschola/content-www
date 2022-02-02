@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/outdoor-manteinance
+slug: outdoor-manteinance
 order: 6
 title: Outdoor manteinance
 shortTitle: Manteinance

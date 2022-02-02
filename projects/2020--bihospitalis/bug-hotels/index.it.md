@@ -1,6 +1,6 @@
 ---
 # template: projects-bihospitalis/bug-hotels
-# slug: /progetti/bihospitalis/bug-hotels
+# slug: bug-hotels
 section:
   id: bug-hotels
   order: 2

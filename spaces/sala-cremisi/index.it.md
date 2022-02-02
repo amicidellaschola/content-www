@@ -1,6 +1,6 @@
 ---
 template: spaces-single
-slug: /spazi/sala-cremisi
+slug: sala-cremisi
 order: 7
 spaceId: Ed1-A--2
 map: 

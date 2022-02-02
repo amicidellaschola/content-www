@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/aromatic-spiral
+slug: aromatic-spiral
 order: 3
 title: Aromatic spiral
 shortTitle: Aromatic spiral

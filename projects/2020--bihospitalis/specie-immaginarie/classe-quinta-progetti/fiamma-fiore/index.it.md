@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/fiamma-fiore
+slug: fiamma-fiore
 title: Fiamma Fiore
 author: 
   name: Riccardo Enrico Zanotti

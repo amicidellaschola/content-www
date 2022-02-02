@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/in-ascolto
+slug: in-ascolto
 priority: 1
 homepage: true
 title: In... ascolto

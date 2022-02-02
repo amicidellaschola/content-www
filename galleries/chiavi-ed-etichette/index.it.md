@@ -1,7 +1,7 @@
 ---
 draft: true
 template: galleries-single
-slug: /galleria/chiavi-ed-etichette
+slug: chiavi-ed-etichette
 order: 11
 title: Chiavi e etichette
 shortTitle: Chiavi e etichette

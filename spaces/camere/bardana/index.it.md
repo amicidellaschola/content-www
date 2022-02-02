@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spazi/camere/bardana
+slug: bardana
 order: 1
 spaceId: Ed1-A--7
 map: 

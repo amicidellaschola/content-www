@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/pilates
+slug: pilates
 priority: 1
 homepage: false
 title: Pilates

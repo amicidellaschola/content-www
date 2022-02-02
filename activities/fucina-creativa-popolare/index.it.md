@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/fucina-creativa-popolare
+slug: fucina-creativa-popolare
 priority: 12
 homepage: true
 title: Fucina creativa popolare

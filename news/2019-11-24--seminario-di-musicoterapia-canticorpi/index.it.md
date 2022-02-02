@@ -1,6 +1,6 @@
 ---
 template: news-single
-slug: /novità/seminario-di-musicoterapia-canticorpi
+slug: seminario-di-musicoterapia-canticorpi
 priority: 0
 title: Seminario di musicoterapia "Canticorpi"
 subtitle: Liberare la voce senza dimenticare il corpo

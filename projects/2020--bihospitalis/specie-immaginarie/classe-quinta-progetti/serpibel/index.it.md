@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/serpibel
+slug: serpibel
 title: Serpibel
 author: 
   name: Giorgia Dorsi

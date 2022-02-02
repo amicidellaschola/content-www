@@ -1,6 +1,6 @@
 ---
 template: spaces-labs-single
-slug: /spazi/sala-ottanio
+slug: sala-ottanio
 order: 1
 spaceId: Ed1-B--8
 map: 

@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/leone-raro-acquatico-a-sirena
+slug: leone-raro-acquatico-a-sirena
 title: Leone raro acquatico a sirena
 author: 
   name: Sofia Novembre

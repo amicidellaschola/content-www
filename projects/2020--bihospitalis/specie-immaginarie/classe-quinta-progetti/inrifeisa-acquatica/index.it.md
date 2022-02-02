@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/inrifeisa-acquatica
+slug: inrifeisa-acquatica
 title: Inrifeisa acquatica
 author: 
   name: Lia Cremascoli

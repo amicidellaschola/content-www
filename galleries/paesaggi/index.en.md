@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/landscapes
+slug: landscapes
 order: 2
 title: LaSchola's landscapes
 shortTitle: Landscapes

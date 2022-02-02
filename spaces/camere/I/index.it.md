@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-rooms-single
-slug: /spazi/camere/I
+slug: I
 order: 1
 spaceId: Ed2-A--10
 map: 

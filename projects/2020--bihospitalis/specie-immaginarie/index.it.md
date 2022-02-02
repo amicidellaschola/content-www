@@ -1,6 +1,6 @@
 ---
 # template: projects-bihospitalis/species
-# slug: /progetti/bihospitalis/specie-immaginarie
+# slug: specie-immaginarie
 section:
   id: specie-immaginarie
   order: 5

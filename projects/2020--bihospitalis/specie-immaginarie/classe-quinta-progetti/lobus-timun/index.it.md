@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/lobus-timun
+slug: lobus-timun
 title: Lobus Timun
 author: 
   name: Anita Zanzi

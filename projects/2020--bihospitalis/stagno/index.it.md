@@ -1,6 +1,6 @@
 ---
 # template: projects-bihospitalis/stagno
-# slug: /progetti/bihospitalis/stagno
+# slug: stagno
 section:
   id: stagno
   order: 4

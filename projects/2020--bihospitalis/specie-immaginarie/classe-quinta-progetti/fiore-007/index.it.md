@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/fiore-007
+slug: fiore-007
 title: Fiore 007
 author: 
   name: Kristian Dibak

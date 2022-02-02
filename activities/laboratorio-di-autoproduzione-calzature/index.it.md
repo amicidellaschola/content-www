@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/laboratorio-di-autoproduzione-calzature
+slug: laboratorio-di-autoproduzione-calzature
 priority: 4
 homepage: false
 title: Laboratorio di autoproduzione calzature

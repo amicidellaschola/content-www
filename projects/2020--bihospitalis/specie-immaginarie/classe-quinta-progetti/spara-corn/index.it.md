@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/spara-corn
+slug: spara-corn
 title: Spara Corn
 author: 
   name: Dino Giuseppe Pavanetto

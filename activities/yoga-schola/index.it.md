@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/yoga-schola
+slug: yoga-schola
 priority: 7
 homepage: true
 title: Yoga Schola

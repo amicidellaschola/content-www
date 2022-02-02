@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/ivysaur
+slug: ivysaur
 title: Ivysaur
 author: 
   name: Diego Palatini

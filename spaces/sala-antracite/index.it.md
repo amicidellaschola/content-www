@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-labs-single
-slug: /spazi/sala-antracite
+slug: sala-antracite
 order: 1
 spaceId: Ed1-B--4
 map: 

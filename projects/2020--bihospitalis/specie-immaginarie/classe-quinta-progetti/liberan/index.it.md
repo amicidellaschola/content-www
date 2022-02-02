@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/liberan
+slug: liberan
 title: Liberan
 author: 
   name: Filippo D'Andrea

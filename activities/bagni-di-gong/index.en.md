@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /activities/gong-baths
+slug: gong-baths
 priority: 1
 homepage: false
 title: Gong baths

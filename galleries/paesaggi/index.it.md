@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/paesaggi
+slug: paesaggi
 order: 2
 title: Paesaggi e vedute da LaSchola
 shortTitle: Paesaggi

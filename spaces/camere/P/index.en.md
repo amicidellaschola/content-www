@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-rooms-single
-slug: /spaces/rooms/P
+slug: P
 order: 1
 spaceId: Ed2-A--4
 title: Room P

@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/laboratorio-artistico-di-arteterapia
+slug: laboratorio-artistico-di-arteterapia
 priority: 5
 homepage: true
 title: Laboratorio artistico di arteterapia

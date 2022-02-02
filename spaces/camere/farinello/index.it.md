@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spazi/camere/farinello
+slug: farinello
 order: 1
 spaceId: Ed1-A--12
 map: 

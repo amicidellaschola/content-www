@@ -2,7 +2,7 @@
 draft: true
 hidden: true
 template: activities-single
-slug: /attività/organizza-una-festa
+slug: organizza-una-festa
 title: Feste
 subtitle: Fai festa da noi
 # cover:

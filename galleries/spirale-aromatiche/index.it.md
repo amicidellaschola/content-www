@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/spirale-aromatiche
+slug: spirale-aromatiche
 order: 3
 title: Spirale aromatiche
 shortTitle: Spirale aromatiche

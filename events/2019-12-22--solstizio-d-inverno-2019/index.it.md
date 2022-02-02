@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/solstizio-d-inverno-2019
+slug: solstizio-d-inverno-2019
 priority: 0
 date: 2019-12-22T00:00:00.000Z
 title: Solstizio d’inverno

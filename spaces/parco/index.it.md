@@ -1,6 +1,6 @@
 ---
 template: spaces-single
-slug: /spazi/parco
+slug: parco
 order: 9
 seo:
   title: All'aperto

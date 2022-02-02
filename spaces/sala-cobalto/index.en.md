@@ -1,6 +1,6 @@
 ---
 template: spaces-single
-slug: /spaces/cobalto-hall
+slug: cobalto-hall
 order: 3
 spaceId: Ed1-A--9
 map: 

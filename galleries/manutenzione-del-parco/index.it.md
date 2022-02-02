@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/manutenzione-del-parco
+slug: manutenzione-del-parco
 order: 6
 title: Manutenzione del parco
 shortTitle: Manutenzione

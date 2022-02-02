@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/raus-l-m
+slug: raus-l-m
 title: Raus L M
 author: 
   name: Scilla Aroldi

@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/herbarium
+slug: herbarium
 order: 4
 title: Herbarium
 shortTitle: Herbarium

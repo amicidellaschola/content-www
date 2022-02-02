@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/cerchio-della-vita
+slug: cerchio-della-vita
 priority: 30
 homepage: true
 date: 2021-09-11T00:00:00.000Z

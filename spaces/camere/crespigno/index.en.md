@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spaces/rooms/C
+slug: C
 order: 1
 spaceId: Ed1-A--8
 map: 

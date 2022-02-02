@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-labs-single
-slug: /spazi/sala-ciano
+slug: sala-ciano
 order: 1
 spaceId: Ed1-B--6
 map: 

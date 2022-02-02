@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/sign
+slug: sign
 order: 8
 title: LaSchola's sign
 shortTitle: Sign

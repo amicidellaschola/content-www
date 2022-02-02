@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/insegna
+slug: insegna
 order: 8
 title: Insegna de LaSchola
 shortTitle: Insegna

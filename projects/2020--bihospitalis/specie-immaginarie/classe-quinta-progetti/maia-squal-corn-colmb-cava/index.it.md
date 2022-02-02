@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/maia-squal-corn-colmb-cava
+slug: maia-squal-corn-colmb-cava
 title: Maia-Squal-Corn-Colmb-Cava
 author: 
   name: Luca Mazzoleni

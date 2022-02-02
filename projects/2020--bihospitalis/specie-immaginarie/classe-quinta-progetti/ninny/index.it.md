@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/ninny
+slug: ninny
 title: Ninny
 author: 
   name: Angelica Baggi

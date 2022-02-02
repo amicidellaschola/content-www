@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/bagni-di-gong
+slug: bagni-di-gong
 priority: 1
 homepage: false
 title: Bagni di gong

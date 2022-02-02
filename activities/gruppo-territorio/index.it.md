@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/gruppo-territorio
+slug: gruppo-territorio
 priority: 5
 homepage: false
 seo:

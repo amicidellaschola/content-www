@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/yoga-in-natura
+slug: yoga-in-natura
 priority: 25
 homepage: true
 title: Yoga in natura

@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/sistemazione-del-capanno-attrezzi
+slug: sistemazione-del-capanno-attrezzi
 order: 10
 title: Sistemazione del capanno attrezzi
 shortTitle: Capanno

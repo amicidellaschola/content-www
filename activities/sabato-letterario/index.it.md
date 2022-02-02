@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/sabato-letterario
+slug: sabato-letterario
 priority: 1
 homepage: true
 title: Sabato letterario

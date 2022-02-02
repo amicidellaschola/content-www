@@ -1,6 +1,6 @@
 ---
 template: pages-spaces-rooms
-slug: /spazi/camere
+slug: camere
 title: Camere
 subtitle: Dormire a LaSchola
 cover:

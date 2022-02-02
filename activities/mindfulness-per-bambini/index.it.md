@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/mindfulness-per-bambini
+slug: mindfulness-per-bambini
 priority: 1
 homepage: true
 title: Mindfulness per bambini

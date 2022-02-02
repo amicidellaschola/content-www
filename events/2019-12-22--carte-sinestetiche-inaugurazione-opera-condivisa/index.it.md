@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/carte-sinestetiche-inaugurazione-opera-condivisa
+slug: carte-sinestetiche-inaugurazione-opera-condivisa
 priority: 0
 homepage: false
 date: 2019-12-22T00:00:00.000Z

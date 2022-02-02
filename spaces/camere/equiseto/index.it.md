@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spazi/camere/equiseto
+slug: equiseto
 order: 1
 spaceId: Ed1-A--11
 map: 

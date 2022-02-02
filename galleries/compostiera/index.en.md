@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/compost
+slug: compost
 order: 1
 title: Compost
 shortTitle: Compost

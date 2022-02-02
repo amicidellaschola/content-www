@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/dall-equilibrio-alla-caduta
+slug: dall-equilibrio-alla-caduta
 seo:
   ogimage: ./ogimage.jpg
 priority: 22

@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-rooms-single
-slug: /spazi/camere/dragoncello
+slug: dragoncello
 order: 1
 spaceId: Ed1-A--10
 map: 

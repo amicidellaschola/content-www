@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/becco-larvus
+slug: becco-larvus
 title: Becco Larvus
 author: 
   name: Manuel Guidali

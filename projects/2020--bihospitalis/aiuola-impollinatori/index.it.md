@@ -1,6 +1,6 @@
 ---
 # template: projects-bihospitalis/aiuola-impollinatori
-# slug: /progetti/bihospitalis/aiuola-impollinatori
+# slug: aiuola-impollinatori
 section:
   id: aiuola-impollinatori
   order: 3

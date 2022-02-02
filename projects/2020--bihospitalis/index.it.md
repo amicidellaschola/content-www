@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/home
-slug: /progetti/bihospitalis
+slug: bihospitalis
 priority: 30
 homepage: true
 title: Bihospitalis

@@ -1,6 +1,6 @@
 ---
 template: pages-spaces-rooms
-slug: /spaces/rooms
+slug: rooms
 title: Rooms
 subtitle: Sleeping at LaSchola
 cover:

@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/percorso-di-arteterapia
+slug: percorso-di-arteterapia
 priority: 13
 homepage: true
 title: Percorso di arteterapia

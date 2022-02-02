@@ -1,6 +1,6 @@
 ---
 template: spaces-labs-single
-slug: /spazi/sala-rame
+slug: sala-rame
 order: 1
 spaceId: Ed1-B--7
 map: 

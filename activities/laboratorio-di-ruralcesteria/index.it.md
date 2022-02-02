@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/laboratorio-di-ruralcesteria
+slug: laboratorio-di-ruralcesteria
 priority: 3
 homepage: false
 title: Laboratorio di ruralcesteria

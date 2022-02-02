@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/rirallu
+slug: rirallu
 title: Rirallu
 author: 
   name: Giulia Molinari

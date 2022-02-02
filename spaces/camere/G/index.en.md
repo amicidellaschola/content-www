@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-rooms-single
-slug: /spaces/rooms/G
+slug: G
 order: 1
 spaceId: Ed2-A--1
 map: 

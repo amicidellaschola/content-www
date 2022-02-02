@@ -1,6 +1,6 @@
 ---
 template: news-single
-slug: /novità/riapertura-articolo-su-varesenews
+slug: riapertura-articolo-su-varesenews
 priority: 0
 date: 2019-10-29T15:23:00.749Z
 title: Articolo pubblicato su VareseNews

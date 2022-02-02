@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/semenzaio
+slug: semenzaio
 order: 7
 title: Semenzaio per ortaggi e aromatiche
 shortTitle: Semenzaio

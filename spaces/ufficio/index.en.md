@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-single
-slug: /spaces/office
+slug: office
 order: 99
 spaceId: Ed1-A--1
 map: 

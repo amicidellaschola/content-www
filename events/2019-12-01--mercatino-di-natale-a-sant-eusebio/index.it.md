@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/mercatino-di-natale-a-sant-eusebio
+slug: mercatino-di-natale-a-sant-eusebio
 priority: 0
 date: 2019-12-01T00:00:00.000Z
 title: Mercatino di Natale a Sant'Eusebio

@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/cooking
+slug: cooking
 order: 9
 title: Cooking at LaSchola
 shortTitle: Cooking

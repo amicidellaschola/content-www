@@ -1,7 +1,7 @@
 ---
 draft: true
 template: spaces-single
-slug: /spaces/bathroom
+slug: bathroom
 order: 99
 spaceId: Ed1-B--1
 map: 

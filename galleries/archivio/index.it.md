@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/archivio
+slug: archivio
 order: 5
 title: Archivio fotografico
 shortTitle: Archivio

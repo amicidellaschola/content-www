@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/sabato-letterario-pia-pera
+slug: sabato-letterario-pia-pera
 priority: 0
 date: 2019-12-14T00:00:00.000Z
 title: Al giardino ancora non l’ho detto

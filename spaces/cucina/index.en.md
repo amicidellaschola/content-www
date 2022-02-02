@@ -1,6 +1,6 @@
 ---
 template: spaces-single
-slug: /spaces/kitchen
+slug: kitchen
 order: 2
 spaceId: Ed1-A--4
 map: 

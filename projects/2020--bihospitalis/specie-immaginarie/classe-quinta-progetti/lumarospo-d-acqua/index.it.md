@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/lumarospo-d-acqua
+slug: lumarospo-d-acqua
 title: Lumarospo d'acqua
 author: 
   name: Anna Achini

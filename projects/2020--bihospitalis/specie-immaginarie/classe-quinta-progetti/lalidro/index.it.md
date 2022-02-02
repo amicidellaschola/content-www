@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/lalidro
+slug: lalidro
 title: Lalidro
 author: 
   name: Lorenzo Guidotti

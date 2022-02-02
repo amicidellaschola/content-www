@@ -1,6 +1,6 @@
 ---
 template: projects-single
-slug: /progetti/pratiche-educative-a-laschola-di-morosolo
+slug: pratiche-educative-a-laschola-di-morosolo
 priority: 2
 title: Pratiche educative a LaSchola di Morosolo
 subtitle: Archeologie del futuro per un’utopia sperimentale

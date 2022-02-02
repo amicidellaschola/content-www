@@ -1,6 +1,6 @@
 ---
 template: spaces-rooms-single
-slug: /spazi/camere/acetosa
+slug: acetosa
 order: 1
 spaceId: Ed1-A--6
 map: 

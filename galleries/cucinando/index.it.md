@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /galleria/cucinando
+slug: cucinando
 order: 9
 title: Cucinando a LaSchola
 shortTitle: Cucinando

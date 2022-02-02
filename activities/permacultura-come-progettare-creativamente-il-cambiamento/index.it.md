@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/corso-permacultura-come-progettare-creativamente-il-cambiamento
+slug: corso-permacultura-come-progettare-creativamente-il-cambiamento
 seo:
   ogimage: ./ogimage.jpg
 priority: 14

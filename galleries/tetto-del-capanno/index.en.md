@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/repairing-the-tool-shed
+slug: repairing-the-tool-shed
 order: 10
 title: Repairing the tool shed
 shortTitle: Tool shed

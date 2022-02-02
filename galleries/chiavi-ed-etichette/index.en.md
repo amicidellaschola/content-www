@@ -1,7 +1,7 @@
 ---
 draft: true
 template: galleries-single
-slug: /gallery/keys-and-labels
+slug: keys-and-labels
 order: 11
 title: Keys and labels
 shortTitle: Keys and labels

@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: /gallery/archive
+slug: archive
 order: 1
 title: Photographies' archive
 shortTitle: Archive

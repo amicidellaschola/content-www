@@ -1,6 +1,6 @@
 ---
 template: events-single
-slug: /eventi/inaugurazione-associazione-vivenda
+slug: inaugurazione-associazione-vivenda
 priority: 0
 date: 2019-11-17T00:00:00.000Z
 title: Inaugurazione Associazione Vivenda

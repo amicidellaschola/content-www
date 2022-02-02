@@ -1,6 +1,6 @@
 ---
 template: projects-bihospitalis/species-single
-slug: /progetti/bihospitalis/specie-immaginarie/alberusmimeticus
+slug: alberusmimeticus
 title: Alberusmimeticus
 author: 
   name: Francesco Schifano Marinelli

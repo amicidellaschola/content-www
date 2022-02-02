@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /attività/corso-di-informatica
+slug: corso-di-informatica
 priority: 8
 homepage: true
 title: Corso di informatica

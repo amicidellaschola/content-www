@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /novità/scuola-di-psicomotricità-relazionale
+slug: scuola-di-psicomotricità-relazionale
 priority: 1
 homepage: true
 title: Scuola di Psicomotricità Relazionale
