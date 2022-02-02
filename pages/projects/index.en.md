@@ -1,6 +1,6 @@
 ---
 template: pages-projects
-slug: /projects
+slug: projects
 title: Projects
 subtitle: Past, present and future projects at LaSchola
 ---

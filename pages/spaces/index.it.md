@@ -1,5 +1,5 @@
 ---
 template: pages-spaces
-slug: /spazi
+slug: spazi
 title: Spazi
 ---

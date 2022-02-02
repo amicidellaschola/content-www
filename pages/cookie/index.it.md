@@ -1,6 +1,6 @@
 ---
 template: pages-default
-slug: /cookie
+slug: cookie
 title: Cookie Policy
 ---
 

@@ -1,6 +1,6 @@
 ---
 template: pages-maps
-slug: /mappe
+slug: mappe
 title: Mappe
 subtitle: Come è fatta LaSchola
 gallery:

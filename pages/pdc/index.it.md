@@ -1,6 +1,6 @@
 ---
 template: pages-pdc
-slug: /pdc-progetto
+slug: pdc-progetto
 hidden: true
 seo: 
   hidden: true

@@ -1,6 +1,6 @@
 ---
 template: pages-activities
-slug: /attività
+slug: attività
 title: Attività
 subtitle: Attività che si svolgono a LaSchola
 ---

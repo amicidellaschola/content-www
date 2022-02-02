@@ -1,5 +1,5 @@
 ---
 template: pages-spaces
-slug: /spaces
+slug: spaces
 title: Spaces
 ---

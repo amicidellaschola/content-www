@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: /campi-estivi
+slug: campi-estivi
 draft: true
 hidden: true
 priority: 1

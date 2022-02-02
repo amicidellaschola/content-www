@@ -1,6 +1,6 @@
 ---
 template: pages-contacts
-slug: /contacts
+slug: contacts
 title: Contacts
 subtitle: Write us to know more or anything else
 ---

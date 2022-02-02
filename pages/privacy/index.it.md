@@ -1,6 +1,6 @@
 ---
 template: pages-default
-slug: /privacy
+slug: privacy
 title: Privacy Policy
 columned: false
 hasInitial: false

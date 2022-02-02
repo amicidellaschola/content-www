@@ -1,6 +1,6 @@
 ---
 template: pages-default
-slug: /5-per-mille
+slug: 5-per-mille
 title: 5 per mille
 subtitle: Sostieni le nostre attività con una donazione
 ---

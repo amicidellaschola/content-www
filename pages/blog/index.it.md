@@ -1,7 +1,7 @@
 ---
 draft: true
 template: pages-blog
-slug: /blog
+slug: blog
 seo:
   title: Blog
   description: Appunti da LaSchola

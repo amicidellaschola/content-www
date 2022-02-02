@@ -1,6 +1,6 @@
 ---
 template: pages-home
-slug: /
+slug: 
 seo:
   title: LaSchola
   description: Centro polifunzionale per la formazione di sé

@@ -1,6 +1,6 @@
 ---
 template: pages-activities
-slug: /activities
+slug: activities
 title: Activities
 subtitle: Activities happening at LaSchola
 ---

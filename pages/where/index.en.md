@@ -1,6 +1,6 @@
 ---
 template: pages-where
-slug: /where-we-are
+slug: where-we-are
 draft: true
 hidden: true
 title: Where we are

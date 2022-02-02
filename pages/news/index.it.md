@@ -1,6 +1,6 @@
 ---
 template: pages-news
-slug: /novità
+slug: novità
 title: Novità
 subtitle: Brevi novità e comunicazioni da LaSchola
 ---

@@ -1,6 +1,6 @@
 ---
 template: pages-calendar
-slug: /calendario
+slug: calendario
 seo:
   title: Calendario
 title: Calendario

@@ -1,6 +1,6 @@
 ---
 template: pages-home
-slug: /
+slug: 
 seo:
   title: LaSchola
   description: Multi-purpose center to experiment utopia

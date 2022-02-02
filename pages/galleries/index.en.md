@@ -1,6 +1,6 @@
 ---
 template: pages-galleries
-slug: /gallery
+slug: gallery
 title: Gallery
 subtitle: Photographies collection from LaSchola
 ---

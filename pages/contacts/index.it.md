@@ -1,6 +1,6 @@
 ---
 template: pages-contacts
-slug: /contatti
+slug: contatti
 title: Contatti
 subtitle: Scrivici per saperne di più, organizzare un incontro o qualsiasi altra cosa
 ---

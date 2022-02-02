@@ -1,6 +1,6 @@
 ---
 template: activities-single
-slug: 2020
+slug: campi-estivi-2020
 priority: 19
 homepage: true
 seo:

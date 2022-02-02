@@ -1,6 +1,6 @@
 ---
 template: pages-where
-slug: /dove-siamo
+slug: dove-siamo
 title: Dove siamo
 subtitle: Dove trovarci, come raggiungerci
 ---

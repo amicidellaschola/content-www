@@ -1,6 +1,6 @@
 ---
 template: pages-maps
-slug: /maps
+slug: maps
 title: Maps
 subtitle: How LaSchola is structured
 gallery:

@@ -1,6 +1,6 @@
 ---
 template: pages-about
-slug: /chi-siamo
+slug: chi-siamo
 title: Chi siamo
 subtitle: Centro polifunzionale per la formazione di sé
 ---
