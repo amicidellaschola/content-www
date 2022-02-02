@@ -49,6 +49,6 @@ Il tutto accompagnato dai suoni armonici di Silvia e dalla chitarra di Cristiana
 
 <Footnote>  
 
-Evento riservato ai soci di [Associazione Vivenda](/partners/associazione-vivenda/) con possibilita' di tesseramento in loco.
+Evento riservato ai soci di [Associazione Vivenda](/partners/associazione-vivenda) con possibilita' di tesseramento in loco.
 
 </Footnote>

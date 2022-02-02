@@ -49,15 +49,15 @@ A LaSchola abbiamo spazi dedicati alla condivisione dei saperi, alla socialità 
 
 <div>
 
-- [Amici de LaSchola](/partners/amici-de-laschola/)
-- [Centro Coscienza](/partners/centro-coscienza/)
-- [Associazione Vivenda](/partners/associazione-vivenda/)
-- [Centro di psicomotricità relazionale di Varese](/partners/centro-studi-di-psicomotricità-relazionale/)
-- [Tree Climbing Italia](/partners/tree-climbing-italia/)
+- [Amici de LaSchola](/partners/amici-de-laschola)
+- [Centro Coscienza](/partners/centro-coscienza)
+- [Associazione Vivenda](/partners/associazione-vivenda)
+- [Centro di psicomotricità relazionale di Varese](/partners/centro-studi-di-psicomotricità-relazionale)
+- [Tree Climbing Italia](/partners/tree-climbing-italia)
 
 </div>
 
-<ButtonLink to="/it/contatti/">Vuoi esserci anche tu?</ButtonLink>
+<ButtonLink href="/contatti">Vuoi esserci anche tu?</ButtonLink>
 
 </Col>
 </Row>

@@ -24,7 +24,7 @@ Il Centro Studi Psicomotricità Relazionale nasce dalla naturale evoluzione dell
 <Col md={6}>
 <Alert color="lilla">
 
-Grazie a Cristina abbiamo avuto il piacere di conoscere Roberto. Ora LaSchola ospita diverse attività proposte dal Centro, tra cui gli incontri della [Scuola di formazione di Psicomotricità Relazionale](/novità/scuola-di-psicomotricità-relazionale/) e i [seminari di musicoterapia 'Canticorpi'](/novità/seminario-di-musicoterapia-canticorpi/).
+Grazie a Cristina abbiamo avuto il piacere di conoscere Roberto. Ora LaSchola ospita diverse attività proposte dal Centro, tra cui gli incontri della [Scuola di formazione di Psicomotricità Relazionale](/news/scuola-di-psicomotricità-relazionale) e i [seminari di musicoterapia 'Canticorpi'](/news/seminario-di-musicoterapia-canticorpi).
 
 </Alert>
 </Col>

@@ -21,4 +21,4 @@ gallery:
     - image: ./photos/gphoto-11.jpg
 ---
 
-I due ettari di parco de LaSchola sono mantenuti e curati da volontari, in primis dal [Gruppo Territorio](/attività/gruppo-territorio/)
+I due ettari di parco de LaSchola sono mantenuti e curati da volontari, in primis dal [Gruppo Territorio](/activities/gruppo-territorio)

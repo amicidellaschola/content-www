@@ -24,7 +24,7 @@ L’associazione (A. S. D.) **Tree Climbing Italia** – Arbor Training fino al 
 <Col md={5}>
 <Alert>
 
-Conosciuti all'Agrifest di Varese del 2019, oggi il [parco, gli alberi](/spazi/parco/) e la struttura de LaSchola ospitano alcuni dei corsi di Tree Climbing Italia.
+Conosciuti all'Agrifest di Varese del 2019, oggi il [parco, gli alberi](/spaces/parco) e la struttura de LaSchola ospitano alcuni dei corsi di Tree Climbing Italia.
 
 </Alert>
 </Col>

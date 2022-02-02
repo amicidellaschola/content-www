@@ -28,13 +28,13 @@ tags:
 <Row top={3} alignItems="center">
 <Col md={6} initial>
 
-Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Italia](https://treeclimbing.it) per il corso base di tree climbing e introduzione all'arboricoltura. L'olmo, la quercia e altri alberi del [parco de LaSchola](/spazi/parco/) si presteranno agli esercizi dei futuri tree climbers sotto la guida esperta di [Alessandro Pizzi](https://treeclimbing.it/chi-siamo/) Qui potete trovare maggiori [informazioni sul corso](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/) e una [galleria fotografica](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/)
+Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Italia](https://treeclimbing.it) per il corso base di tree climbing e introduzione all'arboricoltura. L'olmo, la quercia e altri alberi del [parco de LaSchola](/spaces/parco) si presteranno agli esercizi dei futuri tree climbers sotto la guida esperta di [Alessandro Pizzi](https://treeclimbing.it/chi-siamo/) Qui potete trovare maggiori [informazioni sul corso](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/) e una [galleria fotografica](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/)
 
 </Col>
 <Col md={6}>
 <Alert>
 
-[Contattateci](/contatti/) Per info su possibilità di pernottamento e vitto
+[Contattateci](/contacts) Per info su possibilità di pernottamento e vitto
 
 </Alert>
 </Col>

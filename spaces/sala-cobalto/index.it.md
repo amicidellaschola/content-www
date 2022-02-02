@@ -39,6 +39,6 @@ gallery:
 
 <Col initial narrow bottom={4}>
 
-Con una splendida vista lago questa sala è ideale per riunioni, presentazioni, piccoli concerti e spettacoli, corsi e gruppi lettura. Attorniati da libri e cultura questa sala ospita anche i pranzi sociali dell'associazione [Centro Coscienza](http://www.centrocoscienza.it/l-associazione) e del [Gruppo Territorio](/attività/gruppo-territorio/)
+Con una splendida vista lago questa sala è ideale per riunioni, presentazioni, piccoli concerti e spettacoli, corsi e gruppi lettura. Attorniati da libri e cultura questa sala ospita anche i pranzi sociali dell'associazione [Centro Coscienza](http://www.centrocoscienza.it/l-associazione) e del [Gruppo Territorio](/activities/gruppo-territorio)
 
 </Col>

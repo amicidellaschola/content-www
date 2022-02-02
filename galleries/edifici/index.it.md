@@ -21,4 +21,4 @@ gallery:
     - image: ./photos/gphoto-11.jpg
 ---
 
-LaSchola è composta da due edifici per un totale di 800mq. Ai piano terra spazi dedicati all'ospitalità come camere, cucina e sale comuni, ai piani seminterrati spazi laboratoriali attrezzati. Guarda [la struttura in dettaglio](/mappe/).
+LaSchola è composta da due edifici per un totale di 800mq. Ai piano terra spazi dedicati all'ospitalità come camere, cucina e sale comuni, ai piani seminterrati spazi laboratoriali attrezzati. Guarda [la struttura in dettaglio](/maps).
