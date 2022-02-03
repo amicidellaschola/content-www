@@ -23,7 +23,7 @@ showUpcomingEvents: true
 <EntryInfo variant="participants" value="minimo 5"/>
 <EntryInfo variant="price" value="10 € a lezione (oltre tessera associativa)"/>
 <EntryInfo variant="teacher" label="Irina Lojnikova" value="istruttrice certificata in Pilates Matwork, metodo Stott Pilates"/>
-<EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) o in [biblioteca](/spazi/biblioteca/)" bottom="6"/>
+<EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) o in [biblioteca](/spazisala-cobalto/)" bottom="6"/>
 
 <Row>
 <Col initial narrow>

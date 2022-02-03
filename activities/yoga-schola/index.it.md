@@ -23,7 +23,7 @@ showUpcomingEvents: true
 <EntryInfo variant="upcoming" label="Mercoledì" value="17:30 - 18:45 (dinamico)"/>
 <EntryInfo variant="teacher" label="Paolo Fedeli" value="Yoga Teacher - [347 579 6370](tel:3475796370)"/>
 <EntryInfo variant="web" label="Visita" value="la [pagina Facebook](https://www.facebook.com/govindayogavarese/)"/>
-<EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) sotto l'olmo o in [biblioteca](/spazi/biblioteca/)"/>
+<EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) sotto l'olmo o in [biblioteca](/spazisala-cobalto/)"/>
 
 <SectionTitle>Govinda Yoga</SectionTitle>
 <SectionSubtitle>è una libera interpretazione ed integrazione di vari stili di Yoga</SectionSubtitle>

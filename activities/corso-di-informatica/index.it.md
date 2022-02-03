@@ -29,7 +29,7 @@ showUpcomingEvents: true
 <EntryInfo variant="target" value="chiunque"/>
 <EntryInfo variant="price" value="50 € per 10 incontri"/>
 <EntryInfo variant="participants" value="minimo 4, massimo 10"/>
-<EntryInfo variant="location" value="nella [biblioteca](/spazi/biblioteca/)"/>
+<EntryInfo variant="location" value="nella [biblioteca](/spazisala-cobalto/)"/>
 </Col>
 <Col md={6}>
 <Alert bottom={3} color="pink">
