@@ -63,6 +63,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 <SectionTitle>Programma</SectionTitle>
 <SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>
 
+<Row>
 <Col align="center">
 
 *La teoria si alternerà alla pratica nelle varie fasi della realizzazione del cesto, così avremo l'occasione di riposare un po' le mani.*
@@ -80,5 +81,6 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 13:00: pranzo e saluti<br/>
 
 </Col>
+</Row>
 
 <ContactForm id="contattaci" emailable="info@laschola.it?subject=Laboratorio di ruralcesteria" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Laboratorio di ruralcesteria."></ContactForm>

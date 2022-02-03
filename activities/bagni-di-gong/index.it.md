@@ -25,11 +25,14 @@ showUpcomingEvents: false
 <EntryInfo variant="price" value="15 € ad incontro (oltre tessera associativa)"/>
 <EntryInfo variant="teacher" value="Massimiliano Ielmini- docente di tecniche di meditazione e operatore di riequilibrio energetico e fisico." bottom="6"/>
 
+<Row>
 <Col initial narrow>
 
 Il bagno di Gong rappresenta un viaggio nel mare delle vibrazioni sprigionate dal gong, dalle campane tibetane e da strumenti ancestrali per liberare blocchi e riportare equilibrio energetico.
 
 </Col>
+</Row>
+
 <Footnote top={2}>
 
 Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Vivenda](/partners/associazione-vivenda/), costo 10 €

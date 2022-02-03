@@ -5,6 +5,7 @@ title: Chi siamo
 subtitle: Centro polifunzionale per la formazione di sé
 ---
 
+<Row>
 <Col initial columned>
 
 LaSchola è stata, fino a quindici anni fa, un luogo di sperimentazione di vita autonoma e comunitaria per adolescenti provenienti da tutta Italia. Un collegio dove i ragazzi vivevano al di fuori degli orari scolastici imparando a gestire le mansioni della vita quotidiana e cimentandosi in varie attività culturali, ludiche e di ricerca, dal teatro all'orticultura, dallo sport allo studio.
@@ -20,3 +21,4 @@ L'obiettivo è di riattivare e ampliare le potenzialità dei laboratori una volt
 Da qui l’idea di aprire dei laboratori e organizzare corsi come luoghi e tempi per un’educazione libera e giocosa che parta dai loro desideri. Laboratori e attività che permettano a bambini e ragazze di “imparare facendo”, di apprendere conoscenze e sviluppare abilità manuali che sembrano sempre più mere appendici nostalgiche in un mondo governato da bit e alimentato da monocolture OGM. Abilità che al contrario costituiscono le basi di una vita autonoma e consapevole, di un rapporto più potente e profondo con la materia del mondo.
 
 </Col>
+</Row>

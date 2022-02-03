@@ -7,4 +7,4 @@ subtitle: Scrivici per saperne di più, organizzare un incontro o qualsiasi altr
 
 <ContactForm id="contattaci" emailable="info@laschola.it" phoneable title="" subtitle=""></ContactForm>
 
-<ButtonLink to="/it/dove-siamo">Scopri come raggiungere la sede</ButtonLink>
+<ButtonLink href="/dove-siamo">Scopri come raggiungere la sede</ButtonLink>

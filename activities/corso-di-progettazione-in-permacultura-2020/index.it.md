@@ -74,6 +74,7 @@ Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 
 ### Programma e modalità d'insegnamento
 
+<Row>
 <Col columned>
 
 L’interdisciplinarietà, l’approccio sistemico ed integrato della Permacultura, rendono questo corso unico, grazie al quale, si acquisisce la capacità di “saper guardare” al mondo che ci circonda con un approccio più olistico, sostenibile e resiliente.
@@ -84,7 +85,9 @@ Un altro obiettivo dei nostri corsi è quello di imparare a costruire un organis
 Gli argomenti trattati durante il corso di progettazione in permacultura sono i seguenti:
 
 </Col>
+</Row>
 
+<Row>
 <Col id="argomenti">
 
 - Introduzione al corso
@@ -135,6 +138,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 - Attività pratiche varie: da definire
 
 </Col>
+</Row>
 
 <SectionTitle id="programma">Info programma</SectionTitle>
 <SectionSubtitle>I 4 moduli</SectionSubtitle>

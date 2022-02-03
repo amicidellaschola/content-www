@@ -40,6 +40,7 @@ Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Ital
 </Col>
 </Row>
 
+<Row>
 <Col columned>
 
 >Il treeclimbing è una tecnica di arrampicata che consente di accedere alla chioma, o a parti degli alberi d’alto fusto, muovendosi in sicurezza con l’ausilio di imbraghi, corde e varie tipologie di attrezzi, per eseguire interventi di potatura, smontaggio, consolidamento e monitoraggio.
@@ -59,3 +60,4 @@ Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Ital
 dal manuale [“Arrampicata e lavoro su alberi. Tecniche di treeclimbing”](http://www.regione.piemonte.it/foreste/images/files/pubblicazioni/manuale_treeclimbing_rev.pdf)
 
 </Col>
+</Row>

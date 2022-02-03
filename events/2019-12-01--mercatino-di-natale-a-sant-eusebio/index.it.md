@@ -4,7 +4,7 @@ slug: mercatino-di-natale-a-sant-eusebio
 priority: 0
 date: 2019-12-01T00:00:00.000Z
 title: Mercatino di Natale a Sant'Eusebio
-subtitle: Parteciperemo insieme a [Vivenda](/partners/associazione-vivenda) e le altre associazioni di Casciago
+subtitle: Parteciperemo insieme a Vivenda e le altre associazioni di Casciago
 cover:
   image: ./cover.jpg
 cardLabel: 1 Dic 2019

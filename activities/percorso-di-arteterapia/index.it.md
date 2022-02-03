@@ -27,12 +27,14 @@ showUpcomingEvents: true
 
 ### Cos'è l'arteterapia
 
+<Row>
 <Col initial columned top={2}>
 
 L'arteterapia include un insieme di tecniche e di metodologie che utilizzano le attività artistiche come mezzi facilitanti l'espressione delle emozioni e delle potenzialità individuali. È un percorso che privilegia il canale non verbale, la cui caratteristica principale è l'offerta di materiali artistici che divengono il mezzo per esprimere ed elaborare le percezioni, i vissuti e i sentimenti personali.
 In questo contesto l'atelier si trasforma in uno spazio protetto in cui potersi esprimere attraverso la libera scelta dei materiali artistici, in un clima di non giudizio e accettazione incondizionata degli elaborati.
 
 </Col>
+</Row>
 
 <SectionTitle>Esperienza collettiva</SectionTitle>
 <SectionSubtitle>Percorso di gruppo di arteterapia</SectionSubtitle>

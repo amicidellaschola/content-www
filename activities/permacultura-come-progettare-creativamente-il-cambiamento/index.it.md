@@ -73,6 +73,7 @@ Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 </Col>
 </Row>
 
+<Row>
 <Col columned>
 
 ### Programma
@@ -98,6 +99,7 @@ Il metodo utilizzato sarà quello dell’apprendimento attivo, metodo in grado d
 Un altro obiettivo dei nostri corsi è quello di imparare a costruire un organismo (comunità), cioè un insieme di individui in grado di collaborare con sinergia, pieno rispetto e gratitudine nei confronti della diversità individuale, ottimizzando così la soluzione dei problemi. Verrà quindi continuamente stimolata la creazione di relazione fra i partecipanti, attraverso lavori di coppia, a piccoli gruppi ed in plenaria.
 
 </Col>
+</Row>
 
 <SectionTitle>con le insegnanti</SectionTitle>
 <SectionSubtitle>Elisabetta Dallavalle e Francesca Simonetti</SectionSubtitle>

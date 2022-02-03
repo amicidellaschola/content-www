@@ -20,6 +20,7 @@ partners:
 <EntryInfo variant="price" label="Spazio gratuito" value=""/>
 <EntryInfo variant="participants" label="Insieme a" value="**Monica Zanotti** coach motivazionale, operatrice olistica e counselor in formazione; **Rosalba Scalco** fisioterapista e operatrice olistica" bottom="6"/>
 
+<Row>
 <Col initial narrow>
 
 L'individualismo che caratterizza la società di questi anni ha condotto all'incapacitá di saper ascoltare i bisogni dell'altro.
@@ -27,5 +28,6 @@ Vivenda si propone di aprire uno spazio gratuito all'interno del quale Monica e 
 In...Ascolto è uno spazio per coloro che sentono la necessità di essere ascoltati ed eventualmente guidati attraverso la relazione di aiuto.
 
 </Col>
+</Row>
 
 <ButtonLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</ButtonLink>

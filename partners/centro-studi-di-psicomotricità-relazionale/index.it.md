@@ -30,6 +30,7 @@ Grazie a Cristina abbiamo avuto il piacere di conoscere Roberto. Ora LaSchola os
 </Col>
 </Row>
 
+<Row>
 <Col columned top={4}>
 
 - L’intervento psicomotorio in area socio educativa, secondo un approccio specificamente relazionale, realizzato in gruppo e individualmente, con bambini in età prescolare e scolare, adolescenti, adulti, persone disabili.
@@ -40,3 +41,4 @@ Il Centro Studi di Psicomotricità Relazionale si avvale delle consulenze estern
 Il Centro Studi di Psicomotricità Relazionale è riferimento di una rete di professionisti della Psicomotricità operante nelle province di Varese, Como,Monza Brianza, Verbania, Novara, Aosta.
 
 </Col>
+</Row>

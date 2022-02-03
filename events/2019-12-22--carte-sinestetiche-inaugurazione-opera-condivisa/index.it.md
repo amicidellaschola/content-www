@@ -26,6 +26,7 @@ tags:
 
 >L'arte non ripoduce ciò che è visibile, ma rende visibile ciò che non sempre lo è _(Paul Klee)_
 
+<Row>
 <Col initial narrow>
 
 [Francesca M. Croci](https://www.facebook.com/francesca.croci.505) espone gli elaborati del progetto di Terapeutica Artistica "*Carte Sinestetiche*". Le opere in mostra sono il risultato artistico del laboratorio sensoriale realizzato insieme ai bambini della [scuola primaria A. Manzoni di Morosolo](/partners/scuola-primaria-a-manzoni) (VA).
@@ -33,3 +34,4 @@ tags:
 Con la collaborazione di Maddalena Colombo, Lucia Soldati, Valentina Moreale e Stefano Dodorico.
 
 </Col>
+</Row>

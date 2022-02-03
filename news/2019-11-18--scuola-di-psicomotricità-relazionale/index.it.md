@@ -25,7 +25,9 @@ Avremo il piacere di ospitare parte degli incontri della Scuola di Psicomotricit
 <EntryInfo variant="phone" label="Telefono" value="[347 250 6558](tel:3472506558) (anche WhatsApp)"/>
 <EntryInfo variant="email" label="Email" value="[psicomotricitarelazione@gmail.com](mailto:psicomotricitarelazione@gmail.com)" bottom={6}/>
 
+<Row>
 <Col align="center">
 Per info su iscrizioni e costi scrivi a:
 <ButtonLink href="mailto:psicomotricitarelazione@gmail.com">psicomotricitarelazione@gmail.com</ButtonLink>
 </Col>
+</Row>

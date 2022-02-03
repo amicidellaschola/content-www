@@ -25,6 +25,7 @@ showUpcomingEvents: true
 <EntryInfo variant="teacher" label="Irina Lojnikova" value="istruttrice certificata in Pilates Matwork, metodo Stott Pilates"/>
 <EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) o in [biblioteca](/spazi/biblioteca/)" bottom="6"/>
 
+<Row>
 <Col initial narrow>
 
 Il Pilates é una disciplina di correzione posturale e di rafforzamento del corpo che mira a ottenere precisione dei movimenti e a migliorarne la fluidità.
@@ -35,6 +36,7 @@ Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Viv
 
 </Footnote>
 </Col>
+</Row>
 
 <ButtonLink href="mailto:associazionevivenda@gmail.com">Per informazioni scrivi a associazionevivenda@gmail.com</ButtonLink>
 

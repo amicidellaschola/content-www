@@ -27,7 +27,7 @@ showUpcomingEvents: true
 <EntryInfo variant="phone" label="Telefono" value="[3518436666](tel:3472506558) (anche WhatsApp)"/>
 <EntryInfo variant="email" label="Email" value="[studioholism@gmail.com](mailto:studioholism@gmail.com)"/>
 <EntryInfo variant="web" label="Visita" value="la [pagina Facebook](https://www.facebook.com/studio.holism) e il [profilo Instagram](https://www.instagram.com/studio.holism/)"/>
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" bottom={6}/>
 
 Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 
@@ -52,7 +52,7 @@ Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 
 ![locandina-yoga-in-natura](./media/cover.jpg)
 
-<Footnote>
+<Footnote top={2}>
   
 Primo appuntamento 2 luglio 2021 ore 17:00
 

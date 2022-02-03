@@ -413,11 +413,11 @@ schedules:
       - time: mattina
         group: elfi,gnomi,folletti
         text: Smontaggio dei villaggi e partenze scaglionate per gruppi
----
 
-import { Toc } from "src/components/Toc";
-import { ReadMore } from "src/components/ReadMore";
-import { Schedule } from "src/components/Schedule";
+# import { Toc } from "src/components/Toc";
+# import { ReadMore } from "src/components/ReadMore";
+# import { Schedule } from "src/components/Schedule";
+---
 
 <Row top={6} bottom={6} alignItems="center">
 <Col md={6}>
@@ -426,7 +426,7 @@ import { Schedule } from "src/components/Schedule";
 
 </Col>
 <Col md={6}>
-<Toc top={3} bottom={3} title="Indice contenuti" list={{
+<!-- Toc top={3} bottom={3} title="Indice contenuti" list={{
 "Campi come percorsi": "#campi-come-percorsi",
 "Campo 12-15 anni - **Cronostoria di un pane fatto col fango**": "#12-15",
 "Campo 6-11 anni - **Il bosco magico ed altre storie**": "#6-11",
@@ -440,7 +440,7 @@ import { Schedule } from "src/components/Schedule";
 "Contatti": "#contattaci",
 "Dove siamo": "/it/dove-siamo",
 "*Scarica la locandina*": "/documents/locandina-campi_estivi_2020.pdf",
-}} />
+}} /> -->
 </Col>
 </Row>
 
@@ -507,7 +507,7 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 Di seguito il programma giorno per giorno
 
 </Footnote>
-<Schedule data={props.schedules[0]}/>
+<Scheule<!--  data={props.schedules[0]}/> -->
 <ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
 </Col>
 </Row>
@@ -547,7 +547,7 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 <Footnote top={3} bottom={3} align="center">
 Di seguito il programma giorno per giorno
 </Footnote> 
-<Schedule data={props.schedules[1]} />
+<!-- Schedule data={props.schedules[1]} /> -->
 <ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
 </Col>
 <Col>
