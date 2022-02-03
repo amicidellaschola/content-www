@@ -1,7 +1,7 @@
 ---
 template: activities-single
 slug: campi-estivi-2020
-priority: 19
+priority: 18
 homepage: true
 seo:
   title: Campi estivi 2020 a LaSchola
