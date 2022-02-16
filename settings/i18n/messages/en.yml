@@ -129,7 +129,6 @@ EventDialog.noDesc: No details available at the moment
 EventDialog.ctaContact: Contact us to learn more
 EventDialog.ctaViewMore: Learn more
 EventDialog.ctaViewMoreOn: Learn more at
-EventDialog.close: Close
 Calendar.loading: Refreshing calendar data...
 Calendar.today: Today
 Calendar.month: Monthly
