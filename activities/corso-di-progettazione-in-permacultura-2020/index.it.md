@@ -61,7 +61,7 @@ Alla conclusione del corso di progettazione di 72 ore viene rilasciato un certif
 </Col>
 <Col md={6}>
 
-![coste](./title-pdc--withbbg.jpg)
+![coste](./title-pdc--withbbg.jpg?ratio=1:1)
 
 <Footnote>
 

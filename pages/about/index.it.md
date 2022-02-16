@@ -16,7 +16,7 @@ Oggi, dopo la riapertura del 2019, continua la presenza e l'attività di [Centro
 
 L'obiettivo è di riattivare e ampliare le potenzialità dei laboratori una volta esistenti aprendone l’accesso a una comunità più ampia cercando così di favorire un conviviale scambio di saperi ed esperienze tra gli abitanti. Il confronto con le realtà locali ha reso evidente una forte necessità comune di spazi e momenti dove bambini e adolescenti possano sperimentare attraverso attività pratiche momenti di socialità che mettano in gioco le loro capacità creative e tensioni espressive.
 
-![paesaggio](./laschola-chi-siamo-parco.jpg)
+![paesaggio](./laschola-chi-siamo-parco.jpg?ratio=1:1)
 
 Da qui l’idea di aprire dei laboratori e organizzare corsi come luoghi e tempi per un’educazione libera e giocosa che parta dai loro desideri. Laboratori e attività che permettano a bambini e ragazze di “imparare facendo”, di apprendere conoscenze e sviluppare abilità manuali che sembrano sempre più mere appendici nostalgiche in un mondo governato da bit e alimentato da monocolture OGM. Abilità che al contrario costituiscono le basi di una vita autonoma e consapevole, di un rapporto più potente e profondo con la materia del mondo.
 

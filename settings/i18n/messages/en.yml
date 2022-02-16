@@ -33,7 +33,7 @@ Footer.email: Email
 Footer.copy: Copyleft 2018 - {{year}} LaSchola
 ~404.title: 404
 ~404.subtitle: Page not found
-~404.cfSubtitle: Can not find what you were looking for? Tell us, we might help you
+~404.cfSubtitle: Can not find what you were looking for?
 ~activities~.partners: Organised by
 ~activities~.upcomingEventsSub: Calendar
 ~activities~.upcomingEvents: Upcoming events

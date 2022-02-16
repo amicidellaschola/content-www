@@ -21,7 +21,13 @@ tags:
   - pratiche educative
 ---
 
-<var>I</var>l progetto consiste in un percorso educativo sperimentale con lo scopo di fornire strumenti, tempi e spazi per l’elaborazione comune di un’utopia abitabile nel presente. Filo tematico sarà la costruzione di una narrazione collettiva che racconti la storia di una ipotetica civiltà del futuro che viveva una volta nel territorio di Morosolo. Attraverso l’espediente narrativo proponiamo un modo di attivare processi immaginativi coadiuvati da esperienze pratiche sotto forma di laboratori e corsi rivolti in primo luogo, ma non solo, ai giovani del territorio in quanto futuri attori della società di domani.
+<Row>
+<Col $initial>
+
+Il progetto consiste in un percorso educativo sperimentale con lo scopo di fornire strumenti, tempi e spazi per l’elaborazione comune di un’utopia abitabile nel presente. Filo tematico sarà la costruzione di una narrazione collettiva che racconti la storia di una ipotetica civiltà del futuro che viveva una volta nel territorio di Morosolo. Attraverso l’espediente narrativo proponiamo un modo di attivare processi immaginativi coadiuvati da esperienze pratiche sotto forma di laboratori e corsi rivolti in primo luogo, ma non solo, ai giovani del territorio in quanto futuri attori della società di domani.
+
+</Col>
+</Row>
 
 ### Introduzione
 
