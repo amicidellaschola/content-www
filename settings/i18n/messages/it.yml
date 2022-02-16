@@ -121,8 +121,8 @@ FormContact.fail: Qualcosa è andato storto, scrivici direttamente a info@lascho
 FormContact.title: Contattaci
 FormContact.subtitle: Scrivici per saperne di più, organizzare un incontro o qualsiasi
   altra cosa
-FormContact.ctaEmail: oppure scrivi un'email a <email />
-FormContact.ctaPhone: o telefona o scrivi al <phone />
+FormContact.ctaEmail: oppure scrivi un'email a <email></email>
+FormContact.ctaPhone: o telefona o scrivi al <phone></phone>
 NoContent.text: Nessun contenuto pubblicato per ora.
 CarouselFooterCount.text: "{{current}} di {{howMany}}"
 EventDialog.noDesc: Nessun dettaglio disponibile al momento

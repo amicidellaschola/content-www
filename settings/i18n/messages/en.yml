@@ -121,8 +121,8 @@ FormContact.fail: Something went wrong, write us an email at info@laschola.it
 FormContact.title: Contact us
 FormContact.subtitle: Drop us a line to know more, organise a meeting or anything
   else
-FormContact.ctaEmail: otherwise send an email to {{email}}
-FormContact.ctaPhone: or call or text {{phone}}
+FormContact.ctaEmail: otherwise send an email to <email></email>
+FormContact.ctaPhone: or call or text <phone></phone>
 NoContent.text: There is no published content here yet
 CarouselFooterCount.text: "{{current}} of {{howMany}}"
 EventDialog.noDesc: No details available at the moment
