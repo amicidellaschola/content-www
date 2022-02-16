@@ -30,7 +30,7 @@ nav.donate: Donate
 nav.tags: Tags
 Footer.address: Address
 Footer.email: Email
-Footer.copy: Copyleft 2018 - {year} LaSchola
+Footer.copy: Copyleft 2018 - {{year}} LaSchola
 ~404.title: 404
 ~404.subtitle: Page not found
 ~404.cfSubtitle: Can not find what you were looking for? Tell us, we might help you
@@ -40,7 +40,7 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
 ~activities~.upcomingEventsId: upcoming
 ~partners~.relatedContentTitle: content related to its involvement
 ~partners~.relatedContentSubtitle: >-
-  {name} at LaSchola
+  {{name}} at LaSchola
 ~activities.cfSubtitle: Scrivici per sapere di più su una singola attività o per proporne
   una!
 ~news.cfSubtitle: Scrivici se vuoi pubblicare una comunicazione relativa alle attività
@@ -57,14 +57,14 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
   la pianificazione di un progetto
 ~stream.cfSubtitle: Scrivici per sapere di più su cosa succede qui a LaSchola, su come
   partecipare o contribuire al progetto
-~spaces~rooms~.name: Room {name}
+~spaces~rooms~.name: Room {{name}}
 ~spaces~rooms~.beds: Beds
 ~spaces~rooms~.balcony: Balcon
 ~spaces~rooms~.outdoorAccess: Outdoor access
 ~tags.searchPlaceholder: Filter tags
-~tags.noTagsFor: No tags found for {tag}
+~tags.noTagsFor: No tags found for {{tag}}
 ~tags~.navTitle: Tags
-~tags~.subtitle: Content that talks about “{tag}”
+~tags~.subtitle: Content that talks about “{{tag}}”
 ~home.featuredTitle: Highlights
 ~home.featuredSubtitle: Find out what is happening at LaSchola, the latest news
   and the ongoing activities
@@ -73,10 +73,6 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
   or if you just want to know more
 ~calendar.cfSubtitle: Scrivici per maggiori informazioni sul programma, per segnalare
   un cambiamento o proporre un evento
-~calendar.bBarLabel1main: LaSchola
-~calendar.bBarLabel1sub: In Morosolo/Casciago
-~calendar.bBarLabel2main: Centro Coscienza
-~calendar.bBarLabel2sub: In Milan
 ~calendar.calVivendaViewMoreUrl: https://www.facebook.com/associazionevivenda/
 ~calendar.calVivendaViewMoreText: Find more on facebook
 ~calendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
@@ -109,27 +105,35 @@ EntryInfo.participants: Participants
 EntryInfo.teacher: Held by
 EntryInfo.web: Website
 EntryInfo.location: Where
-ContactForm.name: Name
-ContactForm.organization: Organisation, association, company
-ContactForm.email: Email
-ContactForm.phone: Phone number
-ContactForm.message: Message
-ContactForm.send: Send
-ContactForm.thanksTitle: Thanks,
-ContactForm.thanksText: we will reply you soon
-ContactForm.title: Contact us
-ContactForm.subtitle: Drop us a line to know more, organise a meeting or anything
+FormContact.labels.name: Name
+FormContact.labels.organization: Organisation, association, company
+FormContact.labels.email: Email
+FormContact.labels.phone: Phone number
+FormContact.labels.msg: Message
+FormContact.labels.privacy: I have read, understood and accepted the <link>terms and conditions</link> (mandatory)
+FormContact.errors.name.required: Name is required
+FormContact.errors.email.required: Email required
+FormContact.errors.msg.required: Please insert a message
+FormContact.errors.privacy.required: Required field
+FormContact.submit: Send
+FormContact.ok: Thanks, we will reply you soon
+FormContact.fail: Something went wrong, write us an email at info@laschola.it
+FormContact.title: Contact us
+FormContact.subtitle: Drop us a line to know more, organise a meeting or anything
   else
-ContactForm.ctaEmail: otherwise send an email to {email}
-ContactForm.ctaPhone: or call or text {phone}
+FormContact.ctaEmail: otherwise send an email to {{email}}
+FormContact.ctaPhone: or call or text {{phone}}
 NoContent.text: There is no published content here yet
-CarouselFooterCount.text: "{current} of {howMany}"
+CarouselFooterCount.text: "{{current}} of {{howMany}}"
 EventDialog.noDesc: No details available at the moment
 EventDialog.ctaContact: Contact us to learn more
 EventDialog.ctaViewMore: Learn more
 EventDialog.ctaViewMoreOn: Learn more at
 EventDialog.close: Close
-CalendarGoogleLoadable.loading: Refreshing calendar data...
+Calendar.loading: Refreshing calendar data...
+Calendar.today: Today
+Calendar.month: Monthly
+Calendar.week: Weekly
 EventsList.loading: Searching the calendar...
 ReadMore.expand: Read more
 ReadMore.collapse: Collapse

@@ -10,7 +10,7 @@ cover:
   image: ./cover.jpg
 ---
 
-<EntryInfo variant="web" label="Visita" value="[facebook.com/amicidelaschola](https://www.facebook.com/amicidelaschola)" bottom={6}/>
+<EntryInfo variant="web" label="Visita" value="[facebook.com/amicidelaschola](https://www.facebook.com/amicidelaschola)" $bottom={6}/>
 
 Amici de LaSchola è l'associazione che gestisce in prima persona le attività, la manutenzione e la coordinazione de [LaSchola](https://laschola.it)
 

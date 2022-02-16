@@ -25,13 +25,13 @@ showUpcomingEvents: true
 <EntryInfo variant="teacher" value="**Monica Zanotti** coach motivazionale, operatrice olistica ai sensi l. 4/2013 accreditata S.I.A.F. e counselor in formazione; **Rosalba Scalco** fisioterapista e operatrice olistica professionale ai sensi l. 4/2013 accreditata S.I.A.F." bottom="6"/>
 
 <Row>
-<Col initial narrow>
+<Col $initial $narrow>
 
 La Mindfulness porta attenzione e presenza; conduce al silenzio interiore e all’ascolto di sé attraverso l’immaginazione guidata che porta nuova consapevolezza. Il laboratorio finale consente ai bambini di lasciare un’impronta di quanto vissuto.
 
 </Col>
 </Row>
-<Footnote top={2}>
+<Footnote $top={2}>
 
 Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Vivenda](/partners/associazione-vivenda/), costo 10 €.
 

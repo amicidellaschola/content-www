@@ -14,7 +14,7 @@ cover:
 # instagram vivenda
 ---
 
-<EntryInfo variant="web" label="Visita" value="[facebook.com/associazionevivenda](https://www.facebook.com/associazionevivenda)" bottom={6}/>
+<EntryInfo variant="web" label="Visita" value="[facebook.com/associazionevivenda](https://www.facebook.com/associazionevivenda)" $bottom={6}/>
 
 L’Associazione Vivenda nasce allo scopo di creare un luogo di incontro e un ponte di unione intergenerazionale – offre percorsi culturali e olistici utili ad individuare in se stessi gli strumenti per vivere in armonia.
 

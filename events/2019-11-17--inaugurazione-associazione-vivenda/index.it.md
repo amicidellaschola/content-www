@@ -16,7 +16,7 @@ tags:
 ---
 
 <EntryInfo variant="frequency" label="17 novembre 2019" value="dalle 15:30 alle 18:30"/>
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" bottom={6}/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" $bottom={6}/>
 
 ### Programma
 

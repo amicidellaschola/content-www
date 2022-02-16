@@ -13,4 +13,4 @@ payoff: Psicomotricità e attvitià per lo svilppo armonico della persona
 
 <EntryInfo variant="web" label="Visita" value="[facebook.com/arcobalenodiprofilo](https://www.facebook.com/arcobalenodiprofilo)"/>
 <EntryInfo variant="location" label="Sede" value="[Via Solferino 18, 21100 Varese](https://goo.gl/maps/YcSbnfHjWQhHam7MA)" />
-<EntryInfo variant="phone" label="Telefono" value="[340 493 5311](tel:3404935311)" bottom={6}/>
+<EntryInfo variant="phone" label="Telefono" value="[340 493 5311](tel:3404935311)" $bottom={6}/>

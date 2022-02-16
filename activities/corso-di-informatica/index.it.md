@@ -22,7 +22,7 @@ showUpcomingEvents: true
 # https://www.portalecorsi.com/cerca-corsi-di-informatica%20per%20anziani
 ---
 
-<Row top={3} bottom={3} alignItems="center">
+<Row $top={3} $bottom={3} $valign="center">
 <Col md={6}>
 <EntryInfo variant="upcoming" label="Martedì" value="11:00 - 12:15 oppure 18:45 - 20:00"/>
 <EntryInfo variant="duration" value="1h 15m"/>
@@ -32,7 +32,7 @@ showUpcomingEvents: true
 <EntryInfo variant="location" value="nella [biblioteca](/spazisala-cobalto/)"/>
 </Col>
 <Col md={6}>
-<Alert bottom={3} color="pink">
+<Alert $bottom={3} color="pink">
 
 **Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)
 
@@ -47,4 +47,4 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 
 <ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Corso di informatica" phoneable="333 684 1599" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Corso di informatica."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Corso di informatica" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Corso di informatica."></FormContact>

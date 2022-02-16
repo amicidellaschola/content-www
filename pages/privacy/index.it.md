@@ -2,8 +2,8 @@
 template: pages-default
 slug: privacy
 title: Privacy Policy
-columned: false
-hasInitial: false
+$columned: false
+has$initial: false
 ---
 
 <Alert>

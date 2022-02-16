@@ -19,7 +19,7 @@ showUpcomingEvents: true
 ---
 
 <Row>
-<Col md={6} initial>
+<Col md={6} $initial>
 
 A LaSchola intendiamo i campi estivi come dei percorsi, sentieri che si snodano tra le querce, frutteti e prati che abitano questo posto incantato. Tracciati da seguire e abbandonare, scavalcare per poi riimboccare da un nuovo angolo e riscoprirli. Come piccole tappe del percorso più lungo, tortuoso e sorprendente che è la vita. Come dei fili che uniscono e mettono in relazione bambine e bambini, adolescenti, educatori e volontari che vogliono vivere questo luogo e sentirlo proprio, portarne con sé un pezzetto. E allora raccogliamo, disfiamo e ricuciamo insieme questi fili, che che come le venature dei tronchi vanno a stratificarsi nel profondo formando la complessità del sé. Pensiamo ai campi estivi come a delle mappe da esplorare e tracciare insieme, scoprendo i nomi delle cose e dandone di nuovi, risignificando ciò che troviamo alla luce delle relazioni che abbiamo intessuto tra di noi e con esse.
 

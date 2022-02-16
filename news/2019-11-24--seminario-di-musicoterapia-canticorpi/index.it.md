@@ -21,10 +21,10 @@ tags:
 <EntryInfo variant="frequency" label="Doppio appuntamento" value="domenica 24 Novembre 2019 e 19 Aprile 2020"/>
 <EntryInfo variant="teacher" label="Condotto da" value="Costanza Sansoni, musicoterapista"/>
 <EntryInfo variant="phone" label="Telefono" value="[347 250 6558](tel:3472506558)"/>
-<EntryInfo variant="email" label="Email" value="[psicomotricitarelazione@gmail.com](mailto:psicomotricitarelazione@gmail.com)" bottom={6}/>
+<EntryInfo variant="email" label="Email" value="[psicomotricitarelazione@gmail.com](mailto:psicomotricitarelazione@gmail.com)" $bottom={6}/>
 
 <Row>
-<Col align="center">
+<Col $align="center">
 
 Per info su iscrizioni e costi scrivi a:
 

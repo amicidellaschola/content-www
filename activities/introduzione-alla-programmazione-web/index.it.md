@@ -20,7 +20,7 @@ tags:
 showUpcomingEvents: true
 ---
 
-<Row top={3} bottom={3} alignItems="center">
+<Row $top={3} $bottom={3} $valign="center">
 <Col md={6}>
 <EntryInfo variant="upcoming" label="Giovedì" value="dalle 18:00 alle 19:15"/>
 <EntryInfo variant="target" value="chiunque"/>
@@ -29,7 +29,7 @@ showUpcomingEvents: true
 <EntryInfo variant="location" value="nella [biblioteca](/spazisala-cobalto/)"/>
 </Col>
 <Col md={6}>
-<Alert bottom={3}>
+<Alert $bottom={3}>
 
 **Iscrizioni aperte!** Il corso partirà una volta raggiunto il minimo numero di adesioni. [Contattaci  per saperne di più](#contattaci)
 
@@ -44,4 +44,4 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 
 <ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Introduzione alla programmazione web" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Corso di introduzione alla programmazione web."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Introduzione alla programmazione web" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Corso di introduzione alla programmazione web."></FormContact>

@@ -27,7 +27,7 @@ tags:
 showUpcomingEvents: false
 ---
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col md={8}>
 <EntryInfo variant="upcoming" label="Quando" value="dal 24 al 27 luglio 2020"/>
 <EntryInfo variant="duration" label="inizio" value="alle 18:00 di venerdì"/>
@@ -38,7 +38,7 @@ showUpcomingEvents: false
 <EntryInfo variant="participants" value="tra i 12 e i 20"/>
 </Col>
 <Col md={4}>
-<Alert bottom={3} color="green">
+<Alert $bottom={3} color="green">
 
 **Iscrizioni aperte!** [vedi dettagli](#iscrizione)
 
@@ -51,8 +51,8 @@ Abbiamo raggiunto il numero di adesioni necessario, il corso partirà!
 </Col>
 </Row>
 
-<Row top={6} bottom={3} alignItems="center">
-<Col md={6} initial>
+<Row $top={6} $bottom={3} $valign="center">
+<Col md={6} $initial>
 
 La **permacultura** è un metodo di progettazione per una vita sostenibile, fondata su principi etici ed ecologici con un approccio pratico alla vita quotidiana. Grazie alla sua impostazione multidisciplinare ed olistica, è in grado di offrire soluzioni e opportunità che permettono di affrontare in modo creativo la progettazione della nostra vita, del luogo in cui viviamo e delle persone che lo abitano.
 In questo periodo storico, oltre alle problematiche legate al cambiamento climatico, alla semplificazione dei sistemi agro—forestali, alla riduzione della biodiversità e alla disgregazione socioeconomica, si sono aggiunte ulteriori difficoltà legate alla pandemia in atto.
@@ -74,7 +74,7 @@ Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 </Row>
 
 <Row>
-<Col columned>
+<Col $columned>
 
 ### Programma
 
@@ -104,7 +104,7 @@ Un altro obiettivo dei nostri corsi è quello di imparare a costruire un organis
 <SectionTitle>con le insegnanti</SectionTitle>
 <SectionSubtitle>Elisabetta Dallavalle e Francesca Simonetti</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col xm={9} sm={8} md={7}>
 
 ### Elisabetta Dallavalle
@@ -121,7 +121,7 @@ Ha conseguito la laurea in scienze agrarie e il dottorato di ricerca presso l’
 </Col>
 </Row>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 
 <Col xm={3} sm={4} md={5} orderxs={2}>
 <ImgRounded>
@@ -142,7 +142,7 @@ Agronoma e co-fondatrice di NatureDesigns, opera come libero professionista da p
 <SectionTitle>informazioni su </SectionTitle>
 <SectionSubtitle>Modalità di iscrizione, costi e logistica</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 
 <Col id="iscrizione" md={5}>
 
@@ -150,7 +150,7 @@ Agronoma e co-fondatrice di NatureDesigns, opera come libero professionista da p
 
 ### fino all'ultimo!
 
-<Alert top={3} color="lightblue">
+<Alert $top={3} color="lightblue">
 
 [Scarica il modulo di iscrizione](/documents/modulo-iscrizione-corso-permacultura-2020.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
 
@@ -166,7 +166,7 @@ Le merende sono incluse nei costi di pernottamento.
 Per chi non si ferma a dormire è previsto un contributo di 10€ al giorno (merende incluse).
 
 </Footnote>
-<Footnote top={3}>
+<Footnote $top={3}>
 
 Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibile richiedere una stanza singola previo accordo e disponibilità.  
 
@@ -176,9 +176,9 @@ Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibil
 
 <ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Corso di Permacultura" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al corso 'Permacultura: progettare creativamente il cambiamento'..."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Corso di Permacultura" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al corso 'Permacultura: progettare creativamente il cambiamento'..."></FormContact>
 
-<QuoteAuthor top={6}>
+<QuoteAuthor $top={6}>
 
 L'illustrazione delle coste è [disegnata da rawpixel.com / Freepik](http://www.freepik.com)
 

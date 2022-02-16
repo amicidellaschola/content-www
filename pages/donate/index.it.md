@@ -6,7 +6,7 @@ subtitle: Sostieni le nostre attività con una donazione
 ---
 
 <Row>
-<Col narrow>
+<Col $narrow>
 
 Scegli di destinare il tuo 5 per 1000 a LaSchola, il tuo contributo andrà a finanziare le attività che teniamo e a coprire i costi di manutenzione.
 

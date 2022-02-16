@@ -25,8 +25,8 @@ tags:
 
 >L’arboricoltore, per operare al meglio, deve sviluppare quindi una profonda sensibilità; egli infatti interagisce con esseri viventi che possiedono un proprio linguaggio, seppur non verbale. Tale rapporto di “comunicazione” è necessario poiché, in sua assenza, persino operazioni poco invasive possono influire negativamente sullo sviluppo della pianta. ([“Arrampicata e lavoro su alberi. Tecniche di treeclimbing”](http://www.regione.piemonte.it/foreste/images/files/pubblicazioni/manuale_treeclimbing_rev.pdf))
 
-<Row top={3} alignItems="center">
-<Col md={6} initial>
+<Row $top={3} $valign="center">
+<Col md={6} $initial>
 
 Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Italia](https://treeclimbing.it) per il corso base di tree climbing e introduzione all'arboricoltura. L'olmo, la quercia e altri alberi del [parco de LaSchola](/spaces/parco) si presteranno agli esercizi dei futuri tree climbers sotto la guida esperta di [Alessandro Pizzi](https://treeclimbing.it/chi-siamo/) Qui potete trovare maggiori [informazioni sul corso](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/) e una [galleria fotografica](https://treeclimbing.it/galleria-e-video/corso-base-tree-climbing/)
 
@@ -41,7 +41,7 @@ Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Ital
 </Row>
 
 <Row>
-<Col columned>
+<Col $columned>
 
 >Il treeclimbing è una tecnica di arrampicata che consente di accedere alla chioma, o a parti degli alberi d’alto fusto, muovendosi in sicurezza con l’ausilio di imbraghi, corde e varie tipologie di attrezzi, per eseguire interventi di potatura, smontaggio, consolidamento e monitoraggio.
 [...]

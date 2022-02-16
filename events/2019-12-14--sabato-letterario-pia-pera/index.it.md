@@ -20,10 +20,10 @@ import { Upcoming } from "src/components/Calendar";
 
 <EntryInfo variant="frequency" label="14 dicembre 2019" value="dalle 16:00 alle 18:00"/>
 <EntryInfo variant="teacher" label="A cura di" value="Patrizia Leotta, docente di lettere e socia di Associazione Vivenda"/>
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" bottom={6}/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" $bottom={6}/>
 
-<Row bottom={3}>
-<Col columned>
+<Row $bottom={3}>
+<Col $columned>
 
 Con il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.
 

@@ -5,4 +5,4 @@ title: Contacts
 subtitle: Write us to know more or anything else
 ---
 
-<ContactForm id="contact-us" emailable="info@laschola.it" title="" subtitle=""></ContactForm>
+<FormContact id="contact-us" emailable></FormContact>

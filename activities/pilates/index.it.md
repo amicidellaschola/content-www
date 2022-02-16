@@ -26,11 +26,11 @@ showUpcomingEvents: true
 <EntryInfo variant="location" label="Ci trovate" value="nel [parco](/spazi/parco/) o in [biblioteca](/spazisala-cobalto/)" bottom="6"/>
 
 <Row>
-<Col initial narrow>
+<Col $initial $narrow>
 
 Il Pilates é una disciplina di correzione posturale e di rafforzamento del corpo che mira a ottenere precisione dei movimenti e a migliorarne la fluidità.
 
-<Footnote top={3}>
+<Footnote $top={3}>
 
 Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Vivenda](/partners/associazione-vivenda/), costo 10 €.
 

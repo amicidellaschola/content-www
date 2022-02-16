@@ -6,7 +6,7 @@ subtitle: Centro polifunzionale per la formazione di sé
 ---
 
 <Row>
-<Col initial columned>
+<Col $initial $columned>
 
 LaSchola è stata, fino a quindici anni fa, un luogo di sperimentazione di vita autonoma e comunitaria per adolescenti provenienti da tutta Italia. Un collegio dove i ragazzi vivevano al di fuori degli orari scolastici imparando a gestire le mansioni della vita quotidiana e cimentandosi in varie attività culturali, ludiche e di ricerca, dal teatro all'orticultura, dallo sport allo studio.
 

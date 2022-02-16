@@ -24,7 +24,7 @@ showUpcomingEvents: false
 ---
 
 <Row>
-<Col md={6} initial>
+<Col md={6} $initial>
 
 Un workshop dove seguire passo dopo passo tutte le fasi di lavorazione per realizzare il proprio paio di sandali in pelle. Così come camminare, sarà un percorso dove il mezzo è il fine e il viaggio la meta, un’esperienza per sviluppare autonomia e creatività.
 
@@ -36,7 +36,7 @@ Forniremo materiali e attrezzature ai partecipanti, prediligendo strumenti di fa
 </Col>
 </Row>
 
-<Row top={6} bottom={6} alignItems="center">
+<Row $top={6} $bottom={6} $valign="center">
 <Col md={6}>
 <EntryInfo variant="frequency" label="Quando" value="Da definire in base alle richieste"/>
 <EntryInfo variant="participants" value="6 - 12"/>
@@ -44,7 +44,7 @@ Forniremo materiali e attrezzature ai partecipanti, prediligendo strumenti di fa
 <EntryInfo variant="teacher" value="[Francesco D'Ingiullo](https://sites.google.com/site/laboratoridelladecrescita/organizzazione-dei-laboratori-scheda-tecnica/laboratori-autoproduzione-sandali-scheda-tecnica)"/>
 </Col>
 <Col md={6}>
-<Alert bottom={3}>
+<Alert $bottom={3}>
 
 Il laboratorio era previsto per il 21/22 dicembre 2019. Per mancanza di un numero sufficiente d'iscritti il corso è stato rimandato. [Scriveteci](#contattaci) se vi interessasse seguirlo e organizzeremo un'altra data!
 
@@ -62,7 +62,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 <SectionTitle>Programma</SectionTitle>
 <SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>
 
-<Col align="center">
+<Col $align="center">
 
 ### Sabato 21 dicembre
 
@@ -78,4 +78,4 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 
 </Col>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Laboratorio di autoproduzione calzature" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Laboratorio di autoproduzione calzature."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Laboratorio di autoproduzione calzature" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Laboratorio di autoproduzione calzature."></FormContact>

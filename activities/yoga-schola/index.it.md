@@ -29,7 +29,7 @@ showUpcomingEvents: true
 <SectionSubtitle>è una libera interpretazione ed integrazione di vari stili di Yoga</SectionSubtitle>
 
 <Row justify="center">
-<Col narrow align="center">
+<Col $narrow $align="center">
 
 con lo scopo di proporre delle pratiche evolutive in cui si alternano fasi statiche e dinamiche di varia intensità, in modo da migliorare postura e tono muscolare. Viene altresì stimolato un ascolto profondo, sia da un punto di vista fisico che sottile, promuovendo un riavvicinamento progressivo alla propia sfera spirituale, rimuovendo in definitiva tutto ciò che ostruisce la chiara percezione di sè.
   

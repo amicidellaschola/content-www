@@ -19,15 +19,15 @@ categories:
 showUpcomingEvents: true
 ---
 
-<Row justify="center" top={6}>
-<Col md={6} align="center">
+<Row justify="center" $top={6}>
+<Col md={6} $align="center">
 
 <EntryInfo variant="upcoming" label="Ogni venerdì di luglio 2021" value="dalle 17:00 alle 18:30"/>
 <EntryInfo variant="teacher" label="Tenuto da" value="Erika - Studio HOLISM"/>
 <EntryInfo variant="phone" label="Telefono" value="[3518436666](tel:3472506558) (anche WhatsApp)"/>
 <EntryInfo variant="email" label="Email" value="[studioholism@gmail.com](mailto:studioholism@gmail.com)"/>
 <EntryInfo variant="web" label="Visita" value="la [pagina Facebook](https://www.facebook.com/studio.holism) e il [profilo Instagram](https://www.instagram.com/studio.holism/)"/>
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" bottom={6}/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" $bottom={6}/>
 
 Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 
@@ -37,7 +37,7 @@ Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 
 ### Camminate meditative - mindfulness
 
-<Alert top={6}>
+<Alert $top={6}>
 
 **Prenotazione obbligatoria**
 
@@ -48,11 +48,11 @@ Ciclo di cinque incontri all'[aperto](/spazi/parco/) di:
 <ButtonLink href="mailto:studioholism@gmail.com">studioholism@gmail.com</ButtonLink>
 
 </Col>
-<Col md={6} align="center">
+<Col md={6} $align="center">
 
 ![locandina-yoga-in-natura](./media/cover.jpg)
 
-<Footnote top={2}>
+<Footnote $top={2}>
   
 Primo appuntamento 2 luglio 2021 ore 17:00
 

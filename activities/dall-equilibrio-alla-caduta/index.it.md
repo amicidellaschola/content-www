@@ -28,7 +28,7 @@ tags:
 showUpcomingEvents: false
 ---
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col md={6}>
 <EntryInfo variant="frequency" label="Quando" value="Sabato 14 e domenica 15 novembre"/>
 <EntryInfo variant="upcoming" label="Orario" value="Sabato dalle 15.00 alle 19.00 e Domenica dalle 15.00 alle 19.00"/>
@@ -37,7 +37,7 @@ showUpcomingEvents: false
 <EntryInfo variant="teacher" value="[Micaela Sapienza](#micaela-sapienza) - Certified Laban Movement Analyst"/>
 </Col>
 <Col md={6}>
-<Alert bottom={3} color="green">
+<Alert $bottom={3} color="green">
 
 Il laboratorio si rivolge ad attori, danzatori, registi, allievi di teatro o danza e tutti coloro che abbiano desiderio di approfondire un lavoro sul corpo e sul movimento.
 
@@ -45,8 +45,8 @@ Il laboratorio si rivolge ad attori, danzatori, registi, allievi di teatro o dan
 </Col>
 </Row>
 
-<Row top={6} bottom={3}>
-<Col initial columned>
+<Row $top={6} $bottom={3}>
+<Col $initial $columned>
 
 Seguendo i principi del metodo **Laban - Bartenieff** faremo un lavoro di osservazione e allenamento per scoprire i nostri limiti e potenzialità, partendo dal **"movimento funzionale"** per arrivare alla **"creazione espressiva."** Una totale integrazione e fluidità del movimento nello spazio è quello che cercheremo nella prima parte del lavoro con gli esercizi di **Bartenieff,** attraverso il respiro, l'apertura e chiusura intorno al centro del corpo, il contatto con la terra, il radicamento, la spinta e l'attivazione dei muscoli profondi. Dedicheremo molto tempo allo studio delle connessioni neuromuscolari e ai **Modelli Evolutivi di Sviluppo,** sia a terra che in piedi.
 

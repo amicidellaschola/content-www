@@ -24,7 +24,7 @@ showUpcomingEvents: false
 ---
 
 <Row>
-<Col md={6} initial>
+<Col md={6} $initial>
 
 Due giornate per riscoprire l'antica arte dell'intreccio. Approfondiremo le tecniche tradizionali, i materiali utilizzati e ogni partecipante metterà alla prova pazienza e manualità nella realizzazione di un'opera personale.
 
@@ -36,7 +36,7 @@ Porta con te: un cesto in tuo possesso, ne esamineremo insieme il tipo di intrec
 </Col>
 </Row>
 
-<Row top={3} bottom={3} alignItems="center">
+<Row $top={3} $bottom={3} $valign="center">
 <Col md={6}>
 <EntryInfo variant="frequency" label="Quando" value="14-15 dicembre" top="6"/>
 <EntryInfo variant="participants" value="6 - 12"/>
@@ -45,7 +45,7 @@ Porta con te: un cesto in tuo possesso, ne esamineremo insieme il tipo di intrec
 <EntryInfo variant="location" value="nella [sala camino](/spazi/atrio-edificio-1/)" bottom="6"/>
 </Col>
 <Col md={6}>
-<Alert bottom={3} color="orange">
+<Alert $bottom={3} color="orange">
 
 Il laboratorio ci è piaciuto molto, a breve pubblicheremo i manufatti realizzati e documentazione di questi due giorni. Se fossi interessato a seguire questo laboratorio scrivici, se possibile organizzeremo un'altra data.
 
@@ -64,7 +64,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 <SectionSubtitle>Idea indicativa dello svolgimento delle attività</SectionSubtitle>
 
 <Row>
-<Col align="center">
+<Col $align="center">
 
 *La teoria si alternerà alla pratica nelle varie fasi della realizzazione del cesto, così avremo l'occasione di riposare un po' le mani.*
 
@@ -83,4 +83,4 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Col>
 </Row>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Laboratorio di ruralcesteria" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al Laboratorio di ruralcesteria."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Laboratorio di ruralcesteria" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Laboratorio di ruralcesteria."></FormContact>

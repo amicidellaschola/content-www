@@ -21,7 +21,7 @@ partners:
 <EntryInfo variant="participants" label="Insieme a" value="**Monica Zanotti** coach motivazionale, operatrice olistica e counselor in formazione; **Rosalba Scalco** fisioterapista e operatrice olistica" bottom="6"/>
 
 <Row>
-<Col initial narrow>
+<Col $initial $narrow>
 
 L'individualismo che caratterizza la società di questi anni ha condotto all'incapacitá di saper ascoltare i bisogni dell'altro.
 Vivenda si propone di aprire uno spazio gratuito all'interno del quale Monica e Rosalba, operatrici olistiche, offrono il loro tempo, il loro amore e la loro sensibilità verso l'altro.

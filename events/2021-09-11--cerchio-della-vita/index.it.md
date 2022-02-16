@@ -21,12 +21,12 @@ tags:
 <EntryInfo variant="duration" label="a domenica 12" value="alle 16:00"/>
 <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
 
-<Row top={6} bottom={3}>
+<Row $top={6} $bottom={3}>
 <Col md={6}>
 
 <var>U</var>n fine settimana dedicato alla condivisione e alla celebrazione della vita. Organizzato da Cerchio della Vita, un gruppo spontaneo di incontro nato a seguito dell'esperienza di tante donne nel Cerchio Planetario delle Donne (attivo dal 2013 al 2018 a livello internazionale), per aprire la partecipazione anche maschile agli incontri di condivisione, in quanto tutti siamo portatori sia di energia yin che yang.
 
-<Footnote top={3} bottom={3}>  
+<Footnote $top={3} $bottom={3}>  
 
 Questo incontro è aperto a tutti.
 

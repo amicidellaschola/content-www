@@ -8,26 +8,32 @@ title: Presentazione PDC
 subtitle: Analisi, elaborati e progettazione per PDC 2020/21
 cover:
   image: ./cover.jpg
+toc:
+  - label: Visione
+    hash: visione
+  - label: Le tre etiche
+    hash: etiche
+  - label: Cura della terra
+    hash: cura-della-terra
+  - label: Cura delle persone
+    hash: cura-delle-persone
+  - label: Distribuzione equa
+    hash: distribuzione-equa
+  - label: Analisi SWOT
+    hash: analisi-swot
+  - label: Analisi settori
+    hash: analisi-settori
+  - label: Analisi territorio
+    hash: analisi-territorio
+  - label: Analisi sociale
+    hash: analisi-sociale
+  - label: Analisi zone
+    hash: analisi-zone
+  - label: Principi di permacultura
+    hash: principi"
 ---
 
-import { Toc } from "src/components/Toc";
-import { PageDivider } from "src/core/Page";
-import { CarouselMdx } from "src/core/Carousel";
-import { VisionLoadable as Vision } from "src/components/Custom";
-
-<Toc top={3} bottom={3} title="Contenuti" list={{
-  "Visione": "#visione",
-  "Le tre etiche": "#etiche",
-  "Cura della terra": "#cura-della-terra",
-  "Cura delle persone": "#cura-delle-persone",
-  "Distribuzione equa": "#distribuzione-equa",
-  "Analisi SWOT": "#analisi-swot",
-  "Analisi settori": "#analisi-settori",
-  "Analisi territorio": "#analisi-territorio",
-  "Analisi sociale": "#analisi-sociale",
-  "Analisi zone": "#analisi-zone",
-  "Principi di permacultura": "#principi"
-}} />
+<Toc $top={3} $bottom={3} title="Contenuti" items={toc} />
 
 <CarouselMdx autoWidth={true} autoHeight={true}>
 
@@ -65,7 +71,7 @@ import { VisionLoadable as Vision } from "src/components/Custom";
 <SectionSubtitle>Le tre etiche</SectionSubtitle>
 
 
-<Row alignItems="center">
+<Row $valign="center">
 <Col md={7}>
 
 ### Cura della terra
@@ -97,7 +103,7 @@ Per noi significa ecosostenibilità, nella nostra vita quotidiana possiamo mette
 </Col>
 </Row>
 
-<Row alignItems="center" top={4}>
+<Row $valign="center" $top={4}>
 <Col md={7}>
 
 ### Cura delle persone
@@ -113,7 +119,7 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 
 ![cerchio-permacultura](./photos/cerchio-permacultura.jpg)
 
-<QuoteAuthor top={1}>Cerchio durante corso di Permacultura</QuoteAuthor>
+<QuoteAuthor $top={1}>Cerchio durante corso di Permacultura</QuoteAuthor>
 </Col>
 <Col md={5}>
 
@@ -146,18 +152,18 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 
 ![area-fuoco-convivialita](./photos/area-fuoco-convivialita.jpg)
 
-<QuoteAuthor top={1}>Area falò</QuoteAuthor>
+<QuoteAuthor $top={1}>Area falò</QuoteAuthor>
 </Col>
 </Row>
 
-<Row alignItems="center" top={4}>
+<Row $valign="center" $top={4}>
 <Col md={5}>
 
 ### Distribuzione equa
 
 ![bambini-orto](./photos/bambini-orto.jpg)
 
-<QuoteAuthor top={1}>Dall'orto dei vicini è più saporito</QuoteAuthor>
+<QuoteAuthor $top={1}>Dall'orto dei vicini è più saporito</QuoteAuthor>
 </Col>
 <Col md={7}>
 
@@ -178,7 +184,7 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 </Col>
 </Row>
 
-<Row alignItems="center" top={4}>
+<Row $valign="center" $top={4}>
 <Col md={2}>
 </Col>
 <Col md={8}>
@@ -201,7 +207,7 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 
 <SectionTitle id="analisi-swot">osservazione e analisi del sito</SectionTitle>
 <SectionSubtitle>Analisi SWOT</SectionSubtitle>
-<Row alignItems="center">
+<Row $valign="center">
 <Col md={2}>
 
 ### Interno
@@ -287,7 +293,7 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 
 <SectionTitle id="analisi-ambientale">osservazione e analisi del sito</SectionTitle>
 <SectionSubtitle>Analisi ambientale</SectionSubtitle>
-<Row alignItems="center">
+<Row $valign="center">
 <Col md={6}>
 
 ### Temperatura
@@ -296,23 +302,21 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 - 3 mesi di stagione calda con Tmax > 23C°
 - Da metà dicembre a metà febbraio Temp notturne &lt; 0°
 
+![analisi-ambientale-temperatura-oraria-media](./images/analisi-ambientale-temperatura-oraria-media.png)
+
 </Col>
 <Col md={6}>
 
 ![analisi-ambientale-temperatura-massima-minima-media](./images/analisi-ambientale-temperatura-massima-minima-media.png)
 
-<QuoteAuthor top={1}>Temperatura massima e minima media</QuoteAuthor>
-
-![analisi-ambientale-temperatura-oraria-media](./images/analisi-ambientale-temperatura-oraria-media.png)
+<QuoteAuthor $top={1}>Temperatura massima e minima media</QuoteAuthor>
 
 </Col>
 <Col md={6}>
 
 ![analisi-ambientale-precipitazioni-medie](./images/analisi-ambientale-precipitazioni-medie.png)
 
-<QuoteAuthor top={1}>Precipitazioni mensili medie</QuoteAuthor>
-
-![analisi-ambientale-siccita](./images/analisi-ambientale-siccita.png)
+<QuoteAuthor $top={1}>Precipitazioni mensili medie</QuoteAuthor>
 
 </Col>
 <Col md={6}>
@@ -323,6 +327,8 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 - 1 mese con piovosità elevata (>100 litri ogni mq)
 - Siccità > 30 gg (gg consecutivi senza piogge)
 
+![analisi-ambientale-siccita](./images/analisi-ambientale-siccita.png)
+
 </Col>
 <Col md={6}>
 
@@ -332,14 +338,14 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 - 9 mesi direzione prevalente di provenienza N (a 10 m dal suolo)
 - 3 mesi direzione prevalente di provenienza S (a 10 m dal suolo)
 
+![analisi-ambientale-direzione-del-vento](./images/analisi-ambientale-direzione-del-vento.png)
+
 </Col>
 <Col md={6}>
 
 ![analisi-ambientale-velocita-media-del-vento](./images/analisi-ambientale-velocita-media-del-vento.png)
 
-<QuoteAuthor top={1}>Velocità media del vento</QuoteAuthor>
-
-![analisi-ambientale-direzione-del-vento](./images/analisi-ambientale-direzione-del-vento.png)
+<QuoteAuthor $top={1}>Velocità media del vento</QuoteAuthor>
 
 </Col>
 <Col md={6}>
@@ -388,7 +394,7 @@ Non è tanto riguardo al _cosa_ fare ma al _come_ farlo, per noi significa:
 
 <SectionTitle id="principi">come possiamo applicare i</SectionTitle>
 <SectionSubtitle>Principi di Mollison e Holmgren</SectionSubtitle>
-<Row alignItems="center">
+<Row $valign="center">
 <Col>
 
 ### Lavorare con la natura, piuttosto che contro di essa
@@ -410,10 +416,10 @@ Principio **attitudinale** di _Bill Mollison_
 
 ![balze](./photos/balze.jpg)
 
-<QuoteAuthor top={1}>Taglio prato e rovi sulle balze</QuoteAuthor>
+<QuoteAuthor $top={1}>Taglio prato e rovi sulle balze</QuoteAuthor>
 </Col>
 </Row>
-<Row alignItems="center">
+<Row $valign="center">
 <Col>
 
 ### Funzioni multiple per ogni singolo elemento
@@ -428,7 +434,7 @@ Principio **strumentale** di _Bill Mollison_
 
 ![vite-pollaio](./photos/vite-pollaio.jpg)
 
-<QuoteAuthor top={1}>Struttura per la vite trasformata in pollaio</QuoteAuthor>
+<QuoteAuthor $top={1}>Struttura per la vite trasformata in pollaio</QuoteAuthor>
 </Col>
 <Col md={7}>
 
@@ -440,7 +446,7 @@ Principio **strumentale** di _Bill Mollison_
 
 </Col>
 </Row>
-<Row alignItems="center">
+<Row $valign="center">
 <Col>
 
 ### Integra invece di segregare
@@ -462,7 +468,7 @@ Principio **attitudinale** di _David Holmgren_
 
 ![intergenerazionale](./photos/intergenerazionale.jpg)
 
-<QuoteAuthor top={1}>
+<QuoteAuthor $top={1}>
 
 Giorgio e un _pezzettino_ piantano bulbi
 

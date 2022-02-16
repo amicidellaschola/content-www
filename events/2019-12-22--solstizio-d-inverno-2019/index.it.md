@@ -19,10 +19,10 @@ tags:
 
 <EntryInfo variant="frequency" label="Domenica 22 dicembre 2019" value="dalle 18:00 alle 19:30"/>
 <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
-<EntryInfo variant="facebook" label="Segui l'evento" value="su [facebook](https://www.facebook.com/events/1463034257197595/)" bottom={6}/>
+<EntryInfo variant="facebook" label="Segui l'evento" value="su [facebook](https://www.facebook.com/events/1463034257197595/)" $bottom={6}/>
 
-<Row bottom={3}>
-<Col md={6} initial>
+<Row $bottom={3}>
+<Col md={6} $initial>
 
 Riportiamo in vita le tradizioni dei nostri antenati che vivevano i passaggi stagionali in connessione con Madre Terra in uno scambio simbiotico funzionale al benessere di Tutti.
 

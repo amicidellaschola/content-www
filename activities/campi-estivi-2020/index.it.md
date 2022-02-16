@@ -20,8 +20,35 @@ people:
   - alessandro
   - beatrice
 googleCalendarEventRegex: /Campo estivo 2020/
+toc:
+  - label: Campi come percorsi
+    hash: campi-come-percorsi
+  - label: Campo 12-15 anni - **Cronostoria di un pane fatto col fango**
+    hash: 12-15
+  - label: Campo 6-11 anni - **Il bosco magico ed altre storie**
+    hash: 6-11
+  - label: Modalità di iscrizione
+    hash: iscrizione
+  - label: La filosofia del campo
+    hash: filosofia
+  - label: L’esperienza al campo
+    hash: esperienza
+  - label: Mappa degli spazi
+    hash: mappa
+  - label: Misure anticontagio
+    hash: covid
+  - label: Consigli pratici
+    hash: consigli
+  - label: Educatori e operatori
+    hash: personale
+  - label: Contatti
+    hash: contattaci
+  - label: Dove siamo
+    route: /where
+  - label: Scarica la locandina
+    url: /documents/locandina-campi_estivi_2020.pdf
 schedules:
-  - id: 12-15-anni
+  dodiciquindici:
     groups:
     - id: elfi
       title: Elfi
@@ -217,7 +244,7 @@ schedules:
       - time: mattina
         group: elfi,gnomi,folletti
         text: Smontaggio dei villaggi e partenze scaglionate per gruppi
-  - id: 6-11-anni
+  seiundici:
     groups:
     - id: elfi
       title: Elfi
@@ -413,38 +440,22 @@ schedules:
       - time: mattina
         group: elfi,gnomi,folletti
         text: Smontaggio dei villaggi e partenze scaglionate per gruppi
-
-# import { Toc } from "src/components/Toc";
-# import { ReadMore } from "src/components/ReadMore";
-# import { Schedule } from "src/components/Schedule";
 ---
 
-<Row top={6} bottom={6} alignItems="center">
+<Row $top={6} $bottom={6} $valign="center">
 <Col md={6}>
 
 ![percorsi-di-crescita-all-aria-aperta-ai-campi-estivi-de-laschola](./images/tree_1.png)
 
 </Col>
 <Col md={6}>
-<!-- Toc top={3} bottom={3} title="Indice contenuti" list={{
-"Campi come percorsi": "#campi-come-percorsi",
-"Campo 12-15 anni - **Cronostoria di un pane fatto col fango**": "#12-15",
-"Campo 6-11 anni - **Il bosco magico ed altre storie**": "#6-11",
-"Modalità di iscrizione": "#iscrizione",
-"La filosofia del campo": "#filosofia",
-"L’esperienza al campo": "#esperienza",
-"Mappa degli spazi": "#mappa",
-"Misure anticontagio": "#covid",
-"Consigli pratici": "#consigli",
-"Educatori e operatori": "#personale",
-"Contatti": "#contattaci",
-"Dove siamo": "/it/dove-siamo",
-"*Scarica la locandina*": "/documents/locandina-campi_estivi_2020.pdf",
-}} /> -->
+
+<Toc $top={3} $bottom={3} title="Indice contenuti" items={toc}></Toc>
+
 </Col>
 </Row>
 
-<Row top={6}>
+<Row id="campi-come-percorsi" $top={6}>
 <Col>
 
 ### Campi come percorsi
@@ -470,7 +481,7 @@ Ci auguriamo che i nostri campi estivi rappresentino un momento di crescita e di
 </Col>
 </Row>
 
-<Row id="12-15" top={6} bottom={3} alignItems="center">
+<Row id="12-15" $top={6} $bottom={3} $valign="center">
 <Col>
 <SectionTitle>da 12 a 15 anni</SectionTitle>
 <SectionSubtitle>Cronostoria di un pane fatto col fango</SectionSubtitle>
@@ -480,8 +491,8 @@ Ci auguriamo che i nostri campi estivi rappresentino un momento di crescita e di
 <EntryInfo variant="target" value="12-15 anni"/>
 <EntryInfo variant="participants" value="7 - 21"/>
 <EntryInfo variant="price" value="450 €"/>
-<EntryInfo variant="teacher" label="Accompagnati" value="[dai nostri educatori e operatori](#personale)" bottom={6}/>
-<Footnote bottom={3}>
+<EntryInfo variant="teacher" label="Accompagnati" value="[dai nostri educatori e operatori](#personale)" $bottom={6}/>
+<Footnote $bottom={3}>
 
 La fascia d'età è da considerarsi flessibile a seconda del singolo caso e del gruppo che si formerà
 
@@ -493,26 +504,33 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 </Footnote>
 </Col>
 <Col id="12-15-iscrizione" md={7}>
+
 <h4>Iscrizioni entro il</h4>
 <h3>25 luglio 2020</h3>
-<Alert top={3} color="orange">
+
+<Alert $top={3} color="orange">
 
 [Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
 
 </Alert>
+
 </Col>
 <Col id="12-15-programma">
-<Footnote top={3} bottom={3} align="center">
+
+<Footnote $top={3} $bottom={3} $align="center">
 
 Di seguito il programma giorno per giorno
 
 </Footnote>
-<Scheule<!--  data={props.schedules[0]}/> -->
+
+<Schedule schedule={schedules.dodiciquindici}></Schedule>
+
 <ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
+
 </Col>
 </Row>
 
-<Row id="6-11" top={6} bottom={3} alignItems="center">
+<Row id="6-11" $top={6} $bottom={3} $valign="center">
 <Col>
 <SectionTitle>da 6 a 11 anni</SectionTitle>
 <SectionSubtitle>Il bosco magico ed altre storie</SectionSubtitle>
@@ -522,8 +540,8 @@ Di seguito il programma giorno per giorno
 <EntryInfo variant="target" value="6-11 anni"/>
 <EntryInfo variant="participants" value="7 - 21"/>
 <EntryInfo variant="price" value="450 €"/>
-<EntryInfo variant="teacher" label="Accompagnati" value="[dai nostri educatori e operatori](#personale)" bottom={6}/>
-<Footnote bottom={3}>
+<EntryInfo variant="teacher" label="Accompagnati" value="[dai nostri educatori e operatori](#personale)" $bottom={6}/>
+<Footnote $bottom={3}>
 
 La fascia d'età è da considerarsi flessibile a seconda del singolo caso e del gruppo che si formerà
 
@@ -537,34 +555,44 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 <Col id="6-11-dettagli" md={7}>
 <h4>Iscrizioni entro il</h4>
 <h3>15 agosto 2020</h3>
-<Alert top={3} color="green">
+
+<Alert $top={3} color="green">
 
 [Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
 
 </Alert>
+
 </Col>
 <Col id="6-11-programma">
-<Footnote top={3} bottom={3} align="center">
+
+<Footnote $top={3} $bottom={3} $align="center">
+
 Di seguito il programma giorno per giorno
-</Footnote> 
-<!-- Schedule data={props.schedules[1]} /> -->
+
+</Footnote>
+
+<Schedule schedule={schedules.seiundici}></Schedule>
+
 <ButtonLink anchor="contattaci">Contattaci per informazioni</ButtonLink>
+
 </Col>
 <Col>
-<Alert top={6} color="lilla">
+
+<Alert $top={6} color="lilla">
 
 Al termine del secondo campo organizzeremo una giornata dove i partecipanti di entrambi i campi potranno tornare a LaSchola per conoscersi, condividere le proprie esperienze e mangiare insieme una pizza cotta nel **forno fatto col fango**
 
 </Alert>
+
 </Col>
 </Row>
 
-<Row id="iscrizione" top={3} bottom={6}>
+<Row id="iscrizione" $top={3} $bottom={6}>
 <Col>
 <SectionTitle>per entrambi i campi</SectionTitle>
 <SectionSubtitle>Iscrizione e costi</SectionSubtitle>
 </Col>
-<Col initial>
+<Col $initial>
 
 Scaricare il relativo modulo ([6-11 anni](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf), [12-15 anni](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf)) da compilare per ogni partecipante in tutte le sue parti e inviare a [info@laschola.it](mailto:info@laschola.it) accompagnato da attestazione di versamento dell’anticipo di `€ 70,00` sul C.C. dell’**Associazione Amici de LaSchola** – IBAN `IT 97 S 03069 09606 100000010755` – con causale **Contributo alle attività istituzionali - Campi Estivi 2020**. La restante parte della quota d'iscrizione dovrà essere versata all’arrivo, prima dell’inizio del campo.
 La richiesta di iscrizione dovrà pervenire entro il giorno indicato sopra per ciascun campo tramite e-mail all’indirizzo [info@laschola.it](mailto:info@laschola.it) oppure potrà essere consegnata a mano presso la sede del campo.
@@ -572,7 +600,7 @@ La richiesta di iscrizione dovrà pervenire entro il giorno indicato sopra per c
 </Col>
 </Row>
 
-<Row id="esperienza" top={6}>
+<Row id="esperienza" $top={6}>
 <Col>
 
 ### L’esperienza al campo
@@ -583,7 +611,7 @@ La richiesta di iscrizione dovrà pervenire entro il giorno indicato sopra per c
 ![falò-intorno-al-fuoco](./images/firecamp_wood@0.5x.png)
 
 </Col>
-<Col md={7} initial>
+<Col md={7} $initial>
 <ReadMore lines={8}>
 
 I nostri campi si vivono all’aperto, un’esperienza importante per lo sviluppo armonico dei giovani in cui si intensifica il rapporto tra l’individuo, la collettività e la natura. Si propongono come spazi di sperimentazione di un’ecologia complessa in cui il prendersi cura di sé comporta necessariamente la cura dell’altro e dell’ambiente circostante. Ci saranno escursioni, giochi, laboratori di manualità, attività di esplorazione, il tutto accompagnato dall'esperienza di dormire in tenda, di gestire un fuoco la sera, di preparare il pane, di autogestione del gruppo e dei conflitti che in esso inevitabilmente sorgeranno. Mescoleremo creatività, manipolazione, arte, sperimentazione e divertimento nella splendida cornice del parco de LaSchola.
@@ -603,13 +631,13 @@ Mappa degli spazi esterni nel [parco de Laschola](/spazi/parco) dedicati ai camp
 </Col>
 </Row>
 
-<Row id="filosofia" top={6}>
+<Row id="filosofia" $top={6}>
 <Col>
 
 ### La filosofia del campo
 
 </Col>
-<Col md={7} initial>
+<Col md={7} $initial>
 <ReadMore lines={8}>
 
 La nostra filosofia è che i campi sono uno spazio e un tempo a totale disposizione di bambini/e e ragazzi/e per essere, stare, sentire, scoprire, poter sbagliare, poter uscire da conflitti ed emozioni negative con una maggiore sicurezza interiore, in poche parole, poter creare una società migliore nel prossimo futuro.
@@ -631,13 +659,13 @@ Testo adattato dal [sito dell’associazione dei nostri educatori Angelica e Fra
 </Col>
 </Row>
 
-<Row id="covid" top={6}>
+<Row id="covid" $top={6}>
 <Col>
 
 ### Misure COVID-19
 
 </Col>
-<Col md={6} initial>
+<Col md={6} $initial>
 
 I nostri campi estivi saranno esclusivamente svolti all’aperto, ottemperando così il DPCM sull’emergenza Covid. Gli spazi al chiuso, qualora necessari, sono disposti e attrezzati in modo adeguato alle misure sanitarie in vigore.
 
@@ -645,15 +673,17 @@ I nostri campi estivi saranno esclusivamente svolti all’aperto, ottemperando c
 
 </Col>
 <Col md={6}>
+
 <Alert>
 
 I nostri campi estivi sono stati approvati dal comune di Casciago, potete [scaricare qui il progetto](/documents/progetto-organizzativo-campi_estivi_2020.pdf) a loro presentato dove trovate tutte le misure sanitarie previste.
 
 </Alert>
+
 </Col>
 </Row>
 
-<Row id="consigli" top={6}>
+<Row id="consigli" $top={6}>
 <Col>
 <SectionTitle>prepararsi al campo estivo</SectionTitle>
 <SectionSubtitle>Consigli pratici</SectionSubtitle>
@@ -676,7 +706,7 @@ Per vari motivi vi chiediamo di non portare: cellulari, tablet, videogiochi e al
 </Col>
 </Row>
 
-<Row id="personale" top={6} alignItems="center">
+<Row id="personale" $top={6} $valign="center">
 <Col>
 <SectionTitle>organizzato e gestito dagli</SectionTitle>
 <SectionSubtitle>Educatori e operatori</SectionSubtitle>
@@ -685,7 +715,7 @@ Per vari motivi vi chiediamo di non portare: cellulari, tablet, videogiochi e al
 
 ### Angelica
 
-<Footnote top={2}>
+<Footnote $top={2}>
 Educatrice e psicologa
 </Footnote>
 
@@ -706,24 +736,25 @@ Madre di un bambino. Psicologa, psicoterapeuta cognitivo-comportamentale. Si è 
 
 </ImgRounded>
 </Col>
-<Col sm={7} orderxs={3} top={6}>
+<Col sm={7} orderxs={3} $top={6}>
 
 ### Francesco
 
-<Footnote top={2}>
+<Footnote $top={2} $bottom={2}>
 Educatore e responsabile laboratori pratici
 </Footnote>
+
 <ReadMore lines={8}>
 
 Esperienza pluriennale nella gestione di attività socio-pedagogiche-formative con gruppi di bambini e di adulti. Si è formato presso l'[Istituto Reich](https://www.istitutoreich.it) in Interventi Brevi Psicocorporei, presso il Centro Eva Reich in Massaggio Bioenergetico Dolce e presso la [Es.Te.R.](https://www.esternet.org) (Scuola Spagnola di Terapia Reichiana) in Ecologia dei Sistemi Umani e Psicoterapia Breve Caratteroanalitica. Ha scritto vari articoli sull'importanza del contatto dopo la nascita e sull'educazione parentale ed ha curato il libro [*Nati in Casa, Le custodi della nascita raccontano*](https://www.ibs.it/nati-in-casa-custodi-della-libro-vari/e/9788895148069), Altica Edizioni. Ha tradotto vari saggi sull'assistenza orgonomica al parto e sull'allattamento scritti dall'ostetrico orgonomista inglese Peter Jones del quale ha curato e seguito vari seminari di formazione.
 
 </ReadMore>
 </Col>
-<Col sm={7} orderxs={5} top={6}>
+<Col sm={7} orderxs={5} $top={6}>
 
 ### Alessandro
 
-<Footnote top={2}>
+<Footnote $top={2} $bottom={2}>
 Volontario educatore, organizzazione e logistica
 </Footnote>
 <ReadMore lines={8}>
@@ -746,11 +777,11 @@ Personalità eclettica Alessandro ama combinare gli interessi e le esperienze pi
 
 </ImgRounded>
 </Col>
-<Col sm={7} orderxs={7} top={6}>
+<Col sm={7} orderxs={7} $top={6}>
 
 ### Beatrice
 
-<Footnote top={2}>
+<Footnote $top={2} $bottom={2}>
 Chef, preparazione dei pasti e gestione cucina
 </Footnote>
 <ReadMore lines={8}>
@@ -761,9 +792,9 @@ Con uno spiccato senso pratico ed estetico Beatrice ha sempre dimostrato un inte
 </Col>
 </Row>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Campi estivi 2020" phoneable subtitle="Contattaci" title="per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo ai campi estivi 2020..."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Campi estivi 2020" subtitle="Contattaci" title="per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo ai campi estivi 2020..."></FormContact>
 
-<QuoteAuthor top={6}>
+<QuoteAuthor $top={6}>
 
 Le llustrazioni dello zaino, legna, coniglio, gufo, lanterna e cartina sono [disegnate da photographeeasia / Freepik](http://www.freepik.com), quelle del cielo, dell'albero e del sole sono [disegnate da Freepik](http://www.freepik.com)
 

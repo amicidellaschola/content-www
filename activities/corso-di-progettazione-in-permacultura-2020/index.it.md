@@ -27,7 +27,7 @@ tags:
 showUpcomingEvents: false
 ---
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col md={8}>
 <EntryInfo variant="frequency" label="Quando" value="diviso in 4 moduli tra settembre e novembre 2020"/>
 <EntryInfo variant="upcoming" label="1° modulo" value="[presso Pachamama il 9-10-11 ottobre](#logistica-1)"/>
@@ -37,7 +37,7 @@ showUpcomingEvents: false
 <EntryInfo variant="participants" value="tra i 12 e i 20"/>
 </Col>
 <Col md={4}>
-<Alert bottom={3} color="green">
+<Alert $bottom={3} color="green">
 
 **Iscrizioni aperte!** [vedi dettagli](#iscrizione)
 
@@ -50,8 +50,8 @@ Il corso partirà qualora verrà raggiunto il numero minimo di adesioni
 </Col>
 </Row>
 
-<Row top={6} bottom={3} alignItems="center">
-<Col md={6} initial>
+<Row $top={6} $bottom={3} $valign="center">
+<Col md={6} $initial>
 
 La **permacultura** è un metodo di progettazione per una vita sostenibile, fondata su principi etici ed ecologici con un approccio pratico alla vita quotidiana. Grazie alla sua impostazione multidisciplinare ed olistica, è in grado di offrire soluzioni e opportunità che permettono di affrontare in modo creativo la progettazione della nostra vita, del luogo in cui viviamo e delle persone che lo abitano.
 In questo periodo storico, oltre alle problematiche legate al cambiamento climatico, alla semplificazione dei sistemi agro—forestali, alla riduzione della biodiversità e alla disgregazione socioeconomica, si sono aggiunte ulteriori difficoltà legate alla situazione sanitaria mondiale.
@@ -75,7 +75,7 @@ Il corso è aperto a tutti e non sono richieste conoscenze specifiche.
 ### Programma e modalità d'insegnamento
 
 <Row>
-<Col columned>
+<Col $columned>
 
 L’interdisciplinarietà, l’approccio sistemico ed integrato della Permacultura, rendono questo corso unico, grazie al quale, si acquisisce la capacità di “saper guardare” al mondo che ci circonda con un approccio più olistico, sostenibile e resiliente.
 Durante questo corso saranno trattati gli argomenti del corso di progettazione in Permacultura, pertanto, sarà seguito il curriculum formativo riconosciuto internazionalmente, con un particolare focus sugli aspetti legati alla creatività come risposta ai  momenti di crisi. 
@@ -150,7 +150,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 
 ### 1° Modulo
 
-<EntryInfo top={3} variant="upcoming" label="9-10-11 ottobre 2020" value="dalle *9:30* di venerdì alle *18:00* di domenica"/>
+<EntryInfo $top={3} variant="upcoming" label="9-10-11 ottobre 2020" value="dalle *9:30* di venerdì alle *18:00* di domenica"/>
 
 - Permacultura: definizioni e ambiti
 - Principi (etici, attitudinali, ecologici, di progettazione)
@@ -167,7 +167,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 
 ### 2° Modulo
 
-<EntryInfo top={3} variant="upcoming" label="23-24-25 ottobre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
+<EntryInfo $top={3} variant="upcoming" label="23-24-25 ottobre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
 
 - Scala di permanenza
 - Clima e microclima
@@ -182,7 +182,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 
 ### 3° Modulo
 
-<EntryInfo top={3} variant="upcoming" label="27-28-29 novembre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
+<EntryInfo $top={3} variant="upcoming" label="27-28-29 novembre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
 
 - Produzione di cibo animale e vegetale e 
 - Zona 0: l’abitazione 
@@ -201,7 +201,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 
 ### 4° Modulo
 
-<EntryInfo top={3} variant="upcoming" label="4-5-6 dicembre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
+<EntryInfo $top={3} variant="upcoming" label="4-5-6 dicembre 2020" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
 
 - Venerdì: Approfondimenti - revisione argomenti - Interviste ai committenti - progettazione 
 - Sabato e domenica: Progettazione in gruppo
@@ -213,7 +213,7 @@ Gli argomenti trattati durante il corso di progettazione in permacultura sono i 
 <SectionTitle>con le insegnanti</SectionTitle>
 <SectionSubtitle>Elisabetta Dallavalle e Francesca Simonetti</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col xm={9} sm={8} md={7}>
 
 ### Elisabetta Dallavalle
@@ -230,7 +230,7 @@ Ha conseguito la laurea in scienze agrarie e il dottorato di ricerca presso l’
 </Col>
 </Row>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 
 <Col xm={3} sm={4} md={5} orderxs={2}>
 <ImgRounded>
@@ -251,21 +251,21 @@ Agronoma e co-fondatrice di NatureDesigns, opera come libero professionista da p
 <SectionTitle id="iscrizione">Info corso</SectionTitle>
 <SectionSubtitle>Costi e iscrizione</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col md={6}>
-<EntryInfo bottom={6} variant="teacher" label="Corso" value="Il costo di iscrizione all'intero corso è di 520 € (130 € per modulo)."/>
+<EntryInfo $bottom={6} variant="teacher" label="Corso" value="Il costo di iscrizione all'intero corso è di 520 € (130 € per modulo)."/>
 
 ### Iscrizioni aperte
 
-<EntryInfo top={3} variant="upcoming" label="fino all'8 ottobre"/>
+<EntryInfo $top={3} variant="upcoming" label="fino all'8 ottobre"/>
 </Col>
 <Col md={6}>
-<Alert top={3} color="lightblue">
+<Alert $top={3} color="lightblue">
 
 [Scarica il modulo di iscrizione](/documents/modulo-iscrizione-pdc-2020.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
 
 </Alert>
-<Footnote top={3}>
+<Footnote $top={3}>
 
 Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola il [24-27 luglio 2020](/attività/corso-permacultura-come-progettare-creativamente-il-cambiamento) o in altra sede (in tal caso è necessario comunicarlo in anticipo) e utilizzare [questo modulo di iscrizione](/documents/modulo-iscrizione-pdc-2020-2_3_4.pdf)
 
@@ -276,7 +276,7 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 <SectionTitle id="logistica-1">Info logistica</SectionTitle>
 <SectionSubtitle>1° modulo a Pachamama</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col id="costi-1" md={5}>
 <EntryInfo variant="location" label="Dove" value="[via Pianzaghi 11 Massimo Visconti (NO) – Lago Maggiore](https://pachamamahome.it/come-arrivare/)"/>
 <EntryInfo variant="upcoming" label="Quando" value="9-10-11 ottobre 2020"/>
@@ -284,7 +284,7 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 <EntryInfo variant="location" label="Pernottamento" value="30 € a notte (con lenzuola, salviette e cuscino inclusi), 22 € con (senza lenzuola, salviette e cuscino esclusi). Posto tenda propria: 5 €."/>
 <EntryInfo variant="participants" label="Vitto" value="colazione 5€, pranzo 10€, cena 10€. Le merende sono incluse nei costi di pernottamento"/>
 <EntryInfo variant="email" label="Info" value="+39 3356814718 - naturedesigns.franci@gmail.com"/>
-<Footnote top={2}>
+<Footnote $top={2}>
 È necessaria la tessera associativa Pachamama Vergante: 5 €
 </Footnote>
 <ButtonLink href="https://www.pachamamahome.it">Visita il sito di Pachamamama</ButtonLink>
@@ -301,7 +301,7 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 <SectionTitle id="logistica-2-3-4">Info logistica</SectionTitle>
 <SectionSubtitle>2° 3° e 4° modulo a LaSchola</SectionSubtitle>
 
-<Row top={6} bottom={3} alignItems="center">
+<Row $top={6} $bottom={3} $valign="center">
 <Col md={7}>
 
 ![corso-permacultura-cerchio-a-laschola](./corso-permacultura-cerchio-a-laschola.jpg)
@@ -313,13 +313,13 @@ Il primo modulo non è necessario per coloro che l'hanno già seguito a LaSchola
 <EntryInfo variant="duration" label="Orari" value="dalle *9:00* di venerdì alle *17:30* di domenica"/>
 <EntryInfo variant="location" label="Pernottamento" value="20 € a notte"/>
 <EntryInfo variant="participants" label="Vitto" value="colazione 5€, pranzo 10€, cena 10€"/>
-<Footnote top={2}>
+<Footnote $top={2}>
 
 Le merende sono incluse nei costi di pernottamento.
 Per chi non si ferma a dormire è previsto un contributo di 10€ al giorno (merende incluse).
 
 </Footnote>
-<Footnote top={2}>
+<Footnote $top={2}>
 
 Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibile richiedere una stanza singola previo accordo e disponibilità.
 
@@ -329,9 +329,9 @@ Le [camere da letto](/spazi/camere) sono triple con bagno in camera. È possibil
 
 <ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
 
-<ContactForm id="contattaci" emailable="info@laschola.it?subject=Corso di Progettazione in Permacultura" phoneable subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" message="Ciao, vi scrivo riguardo al 'Corso di Progettazione in Permacultura'..."></ContactForm>
+<FormContact id="contattaci" phoneable emailable subject="Corso di Progettazione in Permacultura" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al 'Corso di Progettazione in Permacultura'..."></FormContact>
 
-<QuoteAuthor top={6}>
+<QuoteAuthor $top={6}>
 
 L'illustrazione delle coste è [disegnata da rawpixel.com / Freepik](http://www.freepik.com)
 

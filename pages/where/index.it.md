@@ -35,4 +35,4 @@ Dall’Autostrada A8 (Milano-Varese) si impiegano circa 10-15 minuti a raggiunge
 </Col>
 </Row>
 
-<ContactForm id="contattaci" phoneable title="" subtitle="Scrivici se vuoi venire a trovarci... o se non trovi la strada"></ContactForm>
+<FormContact id="contattaci" phoneable subtitle="Scrivici se vuoi venire a trovarci... o se non trovi la strada"></FormContact>

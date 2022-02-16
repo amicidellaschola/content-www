@@ -30,7 +30,7 @@ nav.donate: 5 per mille
 nav.tags: Tags
 Footer.address: Indirizzo
 Footer.email: Email
-Footer.copy: Copyleft 2018 - {year} LaSchola
+Footer.copy: Copyleft 2018 - {{year}} LaSchola
 ~404.title: 404
 ~404.subtitle: Pagina non trovata
 ~404.cfSubtitle: Non riesci a trovare ciò che cercavi? Scrivici, magari possiamo aiutarti
@@ -40,7 +40,7 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
 ~activities~.upcomingEventsId: prossimamente
 ~partners~.relatedContentTitle: contenuti relativi alla partecipazione
 ~partners~.relatedContentSubtitle: >-
-  {name} a LaSchola
+  {{name}} a LaSchola
 ~activities.cfSubtitle: Scrivici per sapere di più su una singola attività o per proporne
   una!
 ~news.cfSubtitle: Scrivici se vuoi pubblicare una comunicazione relativa alle attività
@@ -57,14 +57,14 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
   la pianificazione di un progetto
 ~stream.cfSubtitle: Scrivici per sapere di più su cosa succede qui a LaSchola, su come
   partecipare o contribuire al progetto
-~spaces~rooms~.name: Camera {name}
+~spaces~rooms~.name: Camera {{name}}
 ~spaces~rooms~.beds: Letti
 ~spaces~rooms~.balcony: Balcone
 ~spaces~rooms~.outdoorAccess: Accesso dall'esterno
 ~tags.searchPlaceholder: Filtra per parola chiave
-~tags.noTagsFor: 'Nessun risultato per: {tag}'
-~tags~.subtitle: Contenuti che trattano di “{tag}”
+~tags.noTagsFor: 'Nessun risultato per {{tag}}'
 ~tags~.navTitle: Tags
+~tags~.subtitle: Contenuti che trattano di “{{tag}}”
 ~home.featuredTitle: In evidenza
 ~home.featuredSubtitle: Scopri cosa succede a LaSchola, le ultime novità e attività
   in corso
@@ -73,10 +73,6 @@ Footer.copy: Copyleft 2018 - {year} LaSchola
   o se solo vuoi saperne di più
 ~calendar.cfSubtitle: Scrivici per maggiori informazioni sul programma, per segnalare
   un cambiamento o proporre un evento
-~calendar.bBarLabel1main: LaSchola
-~calendar.bBarLabel1sub: A Morosolo/Casciago
-~calendar.bBarLabel2main: Centro Coscienza
-~calendar.bBarLabel2sub: Al centro di Milano
 ~calendar.calVivendaViewMoreUrl: https://www.facebook.com/associazionevivenda/
 ~calendar.calVivendaViewMoreText: Scopri di più su facebook
 ~calendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
@@ -109,27 +105,35 @@ EntryInfo.participants: Partecipanti
 EntryInfo.teacher: Condotto da
 EntryInfo.web: Sito
 EntryInfo.location: Dove
-ContactForm.name: Nome
-ContactForm.organization: Organizzazione, associazione, compagnia
-ContactForm.email: Indirizzo email
-ContactForm.phone: Numero di telefono
-ContactForm.message: Messaggio
-ContactForm.send: Invia
-ContactForm.thanksTitle: Grazie,
-ContactForm.thanksText: ti risponderemo al più presto
-ContactForm.title: Contattaci
-ContactForm.subtitle: Scrivici per saperne di più, organizzare un incontro o qualsiasi
+FormContact.labels.name: Nome
+FormContact.labels.organization: Organizzazione, associazione, compagnia
+FormContact.labels.email: Indirizzo email
+FormContact.labels.phone: Numero di telefono
+FormContact.labels.msg: Messaggio
+FormContact.labels.privacy: Ho letto, compreso e accettati <link>termini e condizioni</link> (obbligatorio)
+FormContact.errors.name.required: Campo obbligatorio
+FormContact.errors.email.required: Email obbligatoria
+FormContact.errors.msg.required: Inserisci un messaggio
+FormContact.errors.privacy.required: Accettazione obbligatoria
+FormContact.submit: Invia
+FormContact.ok: Grazie, ti risponderemo al più presto
+FormContact.fail: Qualcosa è andato storto, scrivici direttamente a info@laschola.it
+FormContact.title: Contattaci
+FormContact.subtitle: Scrivici per saperne di più, organizzare un incontro o qualsiasi
   altra cosa
-ContactForm.ctaEmail: oppure scrivi un'email a {email}
-ContactForm.ctaPhone: o telefona o scrivi al {phone}
+FormContact.ctaEmail: oppure scrivi un'email a <email />
+FormContact.ctaPhone: o telefona o scrivi al <phone />
 NoContent.text: Nessun contenuto pubblicato per ora.
-CarouselFooterCount.text: "{current} di {howMany}"
+CarouselFooterCount.text: "{{current}} di {{howMany}}"
 EventDialog.noDesc: Nessun dettaglio disponibile al momento
 EventDialog.ctaContact: Contattaci per saperne di più
 EventDialog.ctaViewMore: Scopri di più
 EventDialog.ctaViewMoreOn: Scopri di più su
 EventDialog.close: Chiudi
-CalendarGoogleLoadable.loading: Aggiornamento del calendario in corso...
+Calendar.loading: Aggiornamento del calendario in corso...
+Calendar.today: Oggi
+Calendar.month: Mensile
+Calendar.week: Settimanale
 EventsList.loading: Ricerca nel calendario in corso...
 ReadMore.expand: Mostra tutto
 ReadMore.collapse: Chiudi
