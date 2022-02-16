@@ -1,1 +1,1 @@
-{"searchPlaceholder":"Filter tags","noTagsFor":"No tags found for {tag}","navTitle":"Tags","subtitle":"Content that talks about “{tag}”"}
+{"searchPlaceholder":"Filter tags","noTagsFor":"No tags found for {{tag}}","navTitle":"Tags","subtitle":"Content that talks about “{{tag}}”"}
