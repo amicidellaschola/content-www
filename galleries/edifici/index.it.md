@@ -1,6 +1,6 @@
 ---
 template: galleries-single
-slug: archivio
+slug: edifici
 order: 1
 title: I due edifici de LaSchola
 shortTitle: Edifici
