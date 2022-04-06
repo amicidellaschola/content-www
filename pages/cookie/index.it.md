@@ -5,9 +5,7 @@ title: Cookie Policy
 ---
 
 <Alert>
-
-Il contenuto di questa pagina è preso e adattato dal sito web del [Villaggio ecologico di Granara](https://granara.org/cookie) di cui condividiamo tra le altre cose l'approccio alla tecnologia e alla privacy.
-
+  Il contenuto di questa pagina è preso e adattato dal sito web del [Villaggio ecologico di Granara](https://granara.org/cookie) di cui condividiamo tra le altre cose l'approccio alla tecnologia e alla privacy.
 </Alert>
 
 Questa Cookie Policy spiega come l'Associazione Amici de LaSchola ETS-APS ("Associazioni de LaSchola"), proprietaria del sito [https://laschola.it](https://laschola.it/) e Titolare del trattamento dati, utilizza i Cookie quando voi interagite con il nostro sito o i servizi offerti tramite il nostro sito. Utilizzando il nostro sito o utilizzando i servizi forniti tramite il nostro sito, date il vostro consenso all'utilizzo di cookie in conformità con la presente “Cookie Policy”.
