@@ -30,7 +30,7 @@ toc:
   - label: Analisi zone
     hash: analisi-zone
   - label: Principi di permacultura
-    hash: principi"
+    hash: principi
 ---
 
 <Toc $top={3} $bottom={3} title="Contenuti" items={toc} />
