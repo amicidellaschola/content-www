@@ -34,7 +34,7 @@ Da lunedì 18 a venerdì 22 novembre ospiteremo gli amici di [Tree Climbing Ital
 <Col md={6}>
 <Alert>
 
-[Contattateci](/contacts) Per info su possibilità di pernottamento e vitto
+[Contattateci](/pages/contacts) Per info su possibilità di pernottamento e vitto
 
 </Alert>
 </Col>

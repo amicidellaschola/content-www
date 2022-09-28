@@ -130,3 +130,13 @@ tags:
 
   ———. ‘A Threat to Holocene Resurgence Is a Threat to Livability’. In The Anthropology of Sustainability: Beyond Development and Progress, edited by Marc Brightman and Jerome Lewis, 51–65. Palgrave Studies in Anthropology of Sustainability. New York: Palgrave Macmillan US, 2017. https://doi.org/10.1057/978-1-137-56636-2_3.
 </Col>
+<Row $top={6}>
+  <Col xs={1} sm={3} md={4}></Col>
+  <Col xs={10} sm={6} md={4}>
+    ### Crediti
+
+    Progetto realizzato con il sostegno di 
+
+    ![regione-lombardia](./media/images/logo-regione-lombardia.png?width=1333&height=397)
+ </Col>
+</Row>

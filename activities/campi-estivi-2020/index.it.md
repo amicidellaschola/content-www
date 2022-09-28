@@ -43,7 +43,7 @@ toc:
   - label: Contatti
     hash: contattaci
   - label: Dove siamo
-    route: /where
+    route: /pages/where
   - label: Scarica la locandina
     url: /documents/locandina-campi_estivi_2020.pdf
 schedules:
