@@ -47,7 +47,7 @@ Utilizziamo i dati raccolti per offrirti i nostri servizi, informarti sulle nost
 
 Elenchiamo in questa tabella le finalità del trattamento e la relativa base legale.
 
-<table width="100%" cellspacing="0" cellpadding="4">
+<table width="100%" cellSpacing="0" cellPadding="4">
   <thead>
     <tr>
       <th>Scopo del trattamento</th>
@@ -201,7 +201,7 @@ Condividiamo dati anonimizzati con piattaforme di analisi del traffico (es. [Goo
 
 Conserviamo i tuoi dati in forma elettronica e/o cartacea per il tempo strettamente necessario all'erogazione dei servizi richiesti, nel rispetto della privacy e delle normative vigenti.
 
-<table width="100%" cellspacing="0" cellpadding="4">
+<table width="100%" cellSpacing="0" cellPadding="4">
   <thead>
     <tr>
       <th>
