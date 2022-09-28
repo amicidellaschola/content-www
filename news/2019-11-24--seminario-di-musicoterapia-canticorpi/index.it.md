@@ -2,14 +2,15 @@
 template: news-single
 slug: seminario-di-musicoterapia-canticorpi
 priority: 0
+date: 2019-11-24T10:10:00.749Z
 title: Seminario di musicoterapia "Canticorpi"
 subtitle: Liberare la voce senza dimenticare il corpo
 cover: 
   image: ./cover.jpg
-googleCalendarEventRegex: /Seminario di musicoterapia "Canticorpi"/
+googleCalendarEventRegex: Seminario di musicoterapia "Canticorpi"
 cardLabel: 24 Nov 2019 / 19 Apr 2020
 partners:
-  - centro-studi-di-psicomotricità-relazionale
+  - scuola-di-psicomotricità-relazionale
 categories:
   - news
   - activities

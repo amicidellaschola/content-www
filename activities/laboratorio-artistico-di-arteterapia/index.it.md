@@ -1,19 +1,18 @@
 ---
 template: activities-single
 slug: laboratorio-artistico-di-arteterapia
-priority: 5
-homepage: true
+archive: true
 title: Laboratorio artistico di arteterapia
 subtitle: Sperimentazioni espressive con materiali artistici, condotto da Sonia Ranza
 startYear: 2019
 # TODO: link to partner page (works already): subtitle: Sperimentazioni espressive con materiali artistici, condotto da [Sonia Ranza](/partners/sonia-ranza/)
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Laboratorio artistico di arteterapia/
-cardLabel: Iscrizioni aperte
+googleCalendarEventRegex: Laboratorio artistico di arteterapia
+cardLabel: 2019-20
 partners:
   - amici-de-laschola
-  # - sonia-ranza
+  - sonia-ranza
 categories:
   - activities
 tags:

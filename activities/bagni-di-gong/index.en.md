@@ -2,13 +2,13 @@
 template: activities-single
 slug: gong-baths
 priority: 1
-homepage: false
+archive: true
 title: Gong baths
 subtitle: The sound as harmony with the whole universe
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Bagni di gong/
+googleCalendarEventRegex: Bagni di gong
 categories:
   - activities
 partners:

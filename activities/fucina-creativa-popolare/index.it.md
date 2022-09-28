@@ -1,15 +1,14 @@
 ---
 template: activities-single
 slug: fucina-creativa-popolare
-priority: 12
-homepage: true
+archive: true
 title: Fucina creativa popolare
 subtitle: Spazio dove condividere idee, creare e sperimentare insieme
 startYear: 2019
 cover:
   image: ./cover.jpg
   caption: Farbenstudien, Lena Meyer-Bergner (German, 1906 - 1981)
-googleCalendarEventRegex: /Fucina creativa popolare/
+googleCalendarEventRegex: Fucina creativa popolare
 cardLabel: Entrata libera!
 categories:
   - activities

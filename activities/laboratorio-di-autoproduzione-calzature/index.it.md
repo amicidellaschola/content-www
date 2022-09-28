@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: laboratorio-di-autoproduzione-calzature
-priority: 4
-homepage: false
+archive: true
 title: Laboratorio di autoproduzione calzature
 subtitle: Sperimenta la lavorazione della pelle nei laboratori della descrescita di Francesco D'Ingiullo
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Laboratorio di autoproduzione calzature/
+googleCalendarEventRegex: Laboratorio di autoproduzione calzature
 partners:
   - amici-de-laschola
 #   - francesco-d-ingiullo

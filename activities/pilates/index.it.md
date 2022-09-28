@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: pilates
-priority: 1
-homepage: false
+archive: true
 title: Pilates
 subtitle: Corpo e mente in armonia
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Pilates/
+googleCalendarEventRegex: Pilates
 cardLabel: Al venerdì mattina
 categories:
   - activities

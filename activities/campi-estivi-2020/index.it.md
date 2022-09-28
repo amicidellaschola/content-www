@@ -1,8 +1,7 @@
 ---
 template: activities-single
 slug: campi-estivi-2020
-priority: 18
-homepage: true
+archive: true
 seo:
   title: Campi estivi 2020 a LaSchola
   description: Campi estivi residenziali a LaSchola di Morosolo in provincia di Varese. Percorsi di crescita all'aria aperta per l'estate 2020.
@@ -19,7 +18,7 @@ partners:
 people:
   - alessandro
   - beatrice
-googleCalendarEventRegex: /Campo estivo 2020/
+googleCalendarEventRegex: Campo estivo 2020
 toc:
   - label: Campi come percorsi
     hash: campi-come-percorsi

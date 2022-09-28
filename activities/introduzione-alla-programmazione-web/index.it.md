@@ -1,15 +1,14 @@
 ---
 template: activities-single
 slug: introduzione-alla-programmazione-web
-priority: 9
-homepage: true
+archive: true
 title: Introduzione alla programmazione web
 subtitle: Primi passi per conoscere e sperimentare i linguaggi con cui sono tessute le interfacce web
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Introduzione alla programmazione web/
-cardLabel: Iscrizioni aperte
+googleCalendarEventRegex: Introduzione alla programmazione web
+cardLabel: 2019-20
 partners:
   - amici-de-laschola
 #   - ale

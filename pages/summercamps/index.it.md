@@ -4,13 +4,12 @@ slug: campi-estivi
 draft: true
 hidden: true
 priority: 1
-homepage: false
 title: Campi estivi a LaSchola
 subtitle: Campi come percorsi, vivere un'esperienza indimenticabile
 startYear: 2020
 # cover:
 #   image: ./cover.jpg
-googleCalendarEventRegex: /Campo estivo/gi
+googleCalendarEventRegex: Campo estivo
 categories:
   - activities
 partners:

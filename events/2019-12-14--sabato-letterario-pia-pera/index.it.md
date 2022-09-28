@@ -9,7 +9,7 @@ cover:
   image: ./cover.jpg
   caption: Pia Pera, Al giardino ancora non l’ho detto
 cardLabel: 14 Dic 2019
-googleCalendarEventRegex: /Sabato letterario, Pia Pera/
+googleCalendarEventRegex: Sabato letterario, Pia Pera
 categories:
   - events
 partners:

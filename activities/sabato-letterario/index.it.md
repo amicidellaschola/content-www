@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: sabato-letterario
-priority: 1
-homepage: true
+archive: true
 title: Sabato letterario
 subtitle: Gruppo di lettura e discussione
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Sabato letterario/
+googleCalendarEventRegex: Sabato letterario
 cardLabel: Ogni mese
 categories:
   - activities

@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: in-ascolto
-priority: 1
-homepage: true
+archive: true
 title: In... ascolto
 subtitle: Uno spazio amico
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /In... ascolto/
+googleCalendarEventRegex: In... ascolto
 cardLabel: Ogni venerdì
 categories:
   - activities

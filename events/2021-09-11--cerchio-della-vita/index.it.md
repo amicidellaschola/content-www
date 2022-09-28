@@ -1,12 +1,11 @@
 ---
 template: events-single
 slug: cerchio-della-vita
-priority: 30
-homepage: true
+priority: 0
 date: 2021-09-11T00:00:00.000Z
 title: Cerchio della vita
 subtitle: Condivisione e celebrazione della vita
-googleCalendarEventRegex: /Cerchio della vita/
+googleCalendarEventRegex: Cerchio della vita
 cover:
   image: ./cover.jpg
 cardLabel: 11-12 Set 2021

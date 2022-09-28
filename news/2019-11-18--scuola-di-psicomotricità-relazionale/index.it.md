@@ -1,14 +1,15 @@
 ---
 template: activities-single
 slug: scuola-di-psicomotricità-relazionale
-priority: 1
-homepage: true
+priority: 0
+archive: false
+date: 2019-11-18T10:10:00.749Z
 title: Scuola di Psicomotricità Relazionale
 cover: 
-  image: ./cover.jpg
-googleCalendarEventRegex: /Scuola di Psicomotricità Relazionale/
+  image: ./cover3.jpg
+googleCalendarEventRegex: Scuola di Psicomotricità Relazionale
 partners:
-  - centro-studi-di-psicomotricità-relazionale
+  - scuola-di-psicomotricità-relazionale
 categories:
   - news
   - activities
@@ -17,7 +18,11 @@ tags:
 showUpcomingEvents: true
 ---
 
-Avremo il piacere di ospitare parte degli incontri della Scuola di Psicomotricità Relazionale di Varese:
+<Row>
+  <Col>
+    Abbiamo il piacere di ospitare parte degli incontri della Scuola di Psicomotricità Relazionale di Varese:
+  </Col>
+</Row>
 
 <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" $top={6}/>
 <EntryInfo variant="upcoming" label="Quando" value="visualizza i prossimi appuntamenti"/>
@@ -26,8 +31,8 @@ Avremo il piacere di ospitare parte degli incontri della Scuola di Psicomotricit
 <EntryInfo variant="email" label="Email" value="[psicomotricitarelazione@gmail.com](mailto:psicomotricitarelazione@gmail.com)" $bottom={6}/>
 
 <Row>
-<Col $align="center">
-Per info su iscrizioni e costi scrivi a:
-<ButtonLink href="mailto:psicomotricitarelazione@gmail.com">psicomotricitarelazione@gmail.com</ButtonLink>
-</Col>
+  <Col $align="center">
+    Per info su iscrizioni e costi scrivi a:
+    <ButtonLink href="mailto:psicomotricitarelazione@gmail.com">psicomotricitarelazione@gmail.com</ButtonLink>
+  </Col>
 </Row>

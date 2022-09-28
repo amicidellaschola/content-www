@@ -1,7 +1,7 @@
 ---
 template: partners-single
 identifier: tree-climbing-italia
-order: 6
+order: 11
 website: https://treeclimbing.it/
 name: Tree Climbing Italia
 # payoff:

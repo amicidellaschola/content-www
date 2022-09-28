@@ -12,7 +12,7 @@ subtitle: Manutenzione de LaSchola lavorando insieme
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Gruppo territorio/
+googleCalendarEventRegex: Gruppo territorio
 cardLabel: Un sabato al mese
 categories:
   - activities

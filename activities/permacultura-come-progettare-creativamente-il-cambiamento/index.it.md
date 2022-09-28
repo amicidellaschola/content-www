@@ -3,8 +3,7 @@ template: activities-single
 slug: corso-permacultura-come-progettare-creativamente-il-cambiamento
 seo:
   ogimage: ./ogimage.jpg
-priority: 14
-homepage: false
+archive: true
 title: Corso di Permacultura
 subtitle: Come progettare creativamente il cambiamento
 startYear: 2020
@@ -12,7 +11,7 @@ date: 2020-07-24T00:18:00.000Z
 cover:
   image: ./cover2.jpg
 googleCalendarEventRegex: >-
-  /Permacultura: come progettare creativamente il cambiamento/
+  Permacultura: come progettare creativamente il cambiamento
 cardLabel: 24-27 Lug 2020
 categories:
   - activities

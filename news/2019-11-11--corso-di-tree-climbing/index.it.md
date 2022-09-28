@@ -7,7 +7,7 @@ title: Tree climbing e introduzione all'arboricoltura
 subtitle: Ospiteremo il corso organizzato da Tree climbing Italia certificato per l'attività lavorativa sugli alberi
 cover: 
   image: ./cover.jpg
-googleCalendarEventRegex: /Tree climbing e introduzione all'arboricoltura/
+googleCalendarEventRegex: Tree climbing e introduzione all'arboricoltura
 cardLabel: 18-22 Nov 2019
 partners:
   - tree-climbing-italia

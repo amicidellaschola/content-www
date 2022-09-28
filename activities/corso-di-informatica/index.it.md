@@ -1,15 +1,14 @@
 ---
 template: activities-single
 slug: corso-di-informatica
-priority: 8
-homepage: true
+archive: true
 title: Corso di informatica
 subtitle: Familiarizzare con i dispositivi digitali per destreggiarsi nel mondo tecnologico
 startYear: 2019
 cover:
   image: ./cover.png
-googleCalendarEventRegex: /Corso di informatica/
-cardLabel: Iscrizioni aperte
+googleCalendarEventRegex: Corso di informatica
+cardLabel: 2019-20
 categories:
   - activities
 partners:

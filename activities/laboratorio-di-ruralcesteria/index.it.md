@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: laboratorio-di-ruralcesteria
-priority: 3
-homepage: false
+archive: true
 title: Laboratorio di ruralcesteria
 subtitle: Scopri l'arte dell'intreccio nei laboratori della descrescita di Francesco D'Ingiullo
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Laboratorio di ruralcesteria/
+googleCalendarEventRegex: Laboratorio di ruralcesteria
 partners:
   - amici-de-laschola
   # - francesco-d-ingiullo

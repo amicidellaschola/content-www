@@ -5,7 +5,7 @@ priority: 0
 date: 2019-12-22T00:00:00.000Z
 title: Solstizio d’inverno
 subtitle: per celebrare la nascita della luce
-googleCalendarEventRegex: /Solstizio d’inverno/
+googleCalendarEventRegex: Solstizio d’inverno
 cover:
   image: ./cover.jpg
 cardLabel: 22 Dic 2019

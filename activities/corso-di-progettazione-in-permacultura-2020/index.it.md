@@ -3,8 +3,7 @@ template: activities-single
 slug: corso-di-progettazione-in-permacultura-2020
 seo:
   ogimage: ./ogimage.jpg
-priority: 21
-homepage: true
+archive: true
 title: Corso di Progettazione in Permacultura
 subtitle: >-
   P.D.C.: Come progettare creativamente il cambiamento
@@ -12,8 +11,7 @@ startYear: 2020
 date: 2020-08-31T00:18:00.000Z
 cover:
   image: ./cover2.jpg
-googleCalendarEventRegex: >-
-  /Corso di Progettazione in Permacultura/
+googleCalendarEventRegex: Corso di Progettazione in Permacultura
 cardLabel: Ott-Dic 2020
 categories:
   - activities

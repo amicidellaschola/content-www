@@ -15,6 +15,7 @@ nav.contacts: Contatti
 nav.where: Dove siamo
 nav.events: Eventi
 nav.galleries: Galleria
+nav.archive: Archivio
 nav.news: Novità
 nav.partners: Partners e amici
 nav.projects: Progetti
@@ -77,6 +78,7 @@ Footer.copy: Copyleft 2018 - {{year}} LaSchola
 ~calendar.calVivendaViewMoreText: Scopri di più su facebook
 ~calendar.calCeCoViewMoreUrl: http://www.centrocoscienza.it/calendario
 ~calendar.calCeCoViewMoreText: Scopri di più su centrocoscienza.it
+~calendar.viewEventDetails: Scopri di più
 ~where.title: Dove siamo
 ~where.subtitle: Ci trovate a Morosolo, frazione di Casciago in provincia
   di Varese

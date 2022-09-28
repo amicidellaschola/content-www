@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: bagni-di-gong
-priority: 1
-homepage: false
+archive: true
 title: Bagni di gong
 subtitle: Il suono come armonia con tutto l’universo
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Bagni di gong/
+googleCalendarEventRegex: Bagni di gong
 categories:
   - activities
 partners:

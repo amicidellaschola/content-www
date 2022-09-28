@@ -1,14 +1,13 @@
 ---
 template: activities-single
 slug: mindfulness-per-bambini
-priority: 1
-homepage: true
+archive: true
 title: Mindfulness per bambini
 subtitle: Attenzione e presenza, silenzio interiore e ascolto di sé
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Mindfulness per bambini/
+googleCalendarEventRegex: Mindfulness per bambini
 categories:
   - activities
 partners:

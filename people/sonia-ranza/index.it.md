@@ -9,6 +9,6 @@ order: 1
 # website:
 name: Sonia
 surname: Ranza
-# payoff:
+payoff: Arteterapia, ceramica, creatività
 # logo: ./logo.png
 ---

@@ -45,15 +45,16 @@ A LaSchola abbiamo spazi dedicati alla condivisione dei saperi, alla socialità 
 </Col>
 <Col md={6}>
 
-<small>LaSchola accoglie ad oggi varie attività delle associazioni:</small>
+<small>LaSchola accoglie ad oggi varie attività delle realtà e associazioni:</small>
 
 <div>
 
 - [Amici de LaSchola](/partners/amici-de-laschola)
 - [Centro Coscienza](/partners/centro-coscienza)
 - [Associazione Vivenda](/partners/associazione-vivenda)
-- [Centro di psicomotricità relazionale di Varese](/partners/centro-studi-di-psicomotricità-relazionale)
-- [Tree Climbing Italia](/partners/tree-climbing-italia)
+- [Scuola di psicomotricità relazionale di Varese](/partners/scuola-di-psicomotricità-relazionale)
+- [Studio hOMe](/partners/studio-home)
+- [Sonia Ranza](/partners/sonia-ranza)
 
 </div>
 

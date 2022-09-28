@@ -3,8 +3,7 @@ template: activities-single
 slug: dall-equilibrio-alla-caduta
 seo:
   ogimage: ./ogimage.jpg
-priority: 22
-homepage: true
+archive: true
 title: Dall'equilibrio alla caduta
 subtitle: >-
   Un weekend intensivo sulla consapevolezza e lo studio del proprio corpo attraverso il movimento
@@ -12,8 +11,7 @@ startYear: 2020
 date: 2020-10-12T00:18:00.000Z
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: >-
-  /Dall'equilibrio alla caduta/
+googleCalendarEventRegex: Dall'equilibrio alla caduta
 cardLabel: 14-15 Nov 2020
 categories:
   - activities

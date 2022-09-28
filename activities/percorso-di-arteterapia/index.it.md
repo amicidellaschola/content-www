@@ -1,20 +1,19 @@
 ---
 template: activities-single
 slug: percorso-di-arteterapia
-priority: 13
-homepage: true
+archive: true
 title: Percorso di arteterapia
 subtitle: Condotto da Sonia Ranza
 startYear: 2019
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Percorso di arteterapia/
-cardLabel: Iscrizioni aperte
+googleCalendarEventRegex: Percorso di arteterapia
+cardLabel: 2019-20
 categories:
   - activities
 partners:
   - amici-de-laschola
-  # - sonia-ranza
+  - sonia-ranza
 showTags: false
 tags:
   - arte

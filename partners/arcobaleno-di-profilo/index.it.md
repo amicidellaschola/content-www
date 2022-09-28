@@ -2,7 +2,7 @@
 draft: true
 template: partners-single
 identifier: arcobaleno-di-profilo
-order: 7
+order: 8
 website: https://www.facebook.com/arcobalenodiprofilo/
 name: Arcobaleno di profilo
 payoff: Psicomotricità e attvitià per lo svilppo armonico della persona

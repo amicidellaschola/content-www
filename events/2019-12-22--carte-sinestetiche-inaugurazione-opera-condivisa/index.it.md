@@ -2,13 +2,12 @@
 template: events-single
 slug: carte-sinestetiche-inaugurazione-opera-condivisa
 priority: 0
-homepage: false
 date: 2019-12-22T00:00:00.000Z
 title: Carte Sinestetiche
 subtitle: Inaugurazione Opera Condivisa
 cover:
   image: ./cover.jpg
-googleCalendarEventRegex: /Carte Sinestetiche - Inaugurazione Opera Condivisa/
+googleCalendarEventRegex: Carte Sinestetiche - Inaugurazione Opera Condivisa
 cardLabel: 22 Dic 2019
 categories:
   - events

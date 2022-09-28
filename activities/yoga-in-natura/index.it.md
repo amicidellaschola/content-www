@@ -1,8 +1,7 @@
 ---
 template: activities-single
 slug: yoga-in-natura
-priority: 25
-homepage: true
+archive: true
 title: Yoga in natura
 subtitle: >-
   Ciclo di cinque incontri
@@ -10,7 +9,7 @@ startYear: 2021
 cover:
   image: ./media/cover.jpg
   hidden: true
-googleCalendarEventRegex: /Yoga in natura/
+googleCalendarEventRegex: Yoga in natura
 cardLabel: Luglio 2021, al venerdì
 categories:
   - activities

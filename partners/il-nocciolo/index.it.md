@@ -2,7 +2,7 @@
 draft: true
 template: partners-single
 identifier: il-nocciolo
-order: 8
+order: 9
 website: https://www.facebook.com/ilnoccioloaps/
 name: Il Nocciolo
 payoff: Psicomotricità e attvitià per lo svilppo armonico della persona
