@@ -1,7 +1,7 @@
 ---
 template: projects-terrapolis/home
 slug: terrapolis
-priority: 31
+priority: 32
 homepage: true
 title: Terrapolis
 subtitle: Compostazioni multispecie per condividere e con-divenire
