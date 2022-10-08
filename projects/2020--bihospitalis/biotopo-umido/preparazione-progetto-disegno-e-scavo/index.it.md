@@ -1,7 +1,7 @@
 ---
 block: 
   id: preparazione-scavo
-  section: stagno
+  section: biotopo-umido
   order: 1
 title: Progettazione, disegno e scavo
 subtitle: Preparando lo stagno

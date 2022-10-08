@@ -1,7 +1,7 @@
 ---
 block: 
   id: crescita-piante
-  section: stagno
+  section: biotopo-umido
   order: 6
 title: Crescita piante
 subtitle: La vita che prospera

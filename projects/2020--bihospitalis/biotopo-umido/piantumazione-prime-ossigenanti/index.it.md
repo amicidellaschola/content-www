@@ -1,7 +1,7 @@
 ---
 block: 
   id: piantumazione-prime-ossigenanti
-  section: stagno
+  section: biotopo-umido
   order: 4
 title: Piantumazione delle prime ossigenanti
 subtitle: Preparando la vita dello stagno

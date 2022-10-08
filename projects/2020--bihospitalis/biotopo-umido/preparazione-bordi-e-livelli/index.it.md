@@ -1,7 +1,7 @@
 ---
 block: 
   id: preparazione-bordi-livelli
-  section: stagno
+  section: biotopo-umido
   order: 3
 title: Sistemazione bordi e livelli
 subtitle: Preparando lo stagno

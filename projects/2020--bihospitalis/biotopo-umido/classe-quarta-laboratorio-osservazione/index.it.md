@@ -1,7 +1,7 @@
 ---
 block: 
   id: laboratorio-osservazione
-  section: stagno
+  section: biotopo-umido
   order: 7
 title: Laboratorio di osservazione
 subtitle: Esplorando gli abitanti dello stagno

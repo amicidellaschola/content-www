@@ -2,10 +2,10 @@
 # template: projects-bihospitalis/biotopo-umido
 # slug: biotopo-umido
 section:
-  id: stagno
+  id: biotopo-umido
   order: 4
-title: Stagno
-subtitle: Creazione di un biotopo umido
+title: Biotopo umido
+subtitle: Creazione di uno stagno
 participants: Classe quarta
 period: inverno / primavera 2021
 cover:

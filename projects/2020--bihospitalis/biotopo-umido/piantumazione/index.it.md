@@ -1,7 +1,7 @@
 ---
 block: 
   id: piantumazione
-  section: stagno
+  section: biotopo-umido
   order: 5
 title: Piantumazione
 subtitle: Messa a dimora delle piante acquatiche

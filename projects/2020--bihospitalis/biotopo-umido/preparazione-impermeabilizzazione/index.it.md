@@ -1,7 +1,7 @@
 ---
 block: 
   id: preparazione-impermeabilizzazione
-  section: stagno
+  section: biotopo-umido
   order: 2
 title: Impermeabilizzazione
 subtitle: Preparando lo stagno
