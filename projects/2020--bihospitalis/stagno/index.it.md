@@ -1,6 +1,6 @@
 ---
-# template: projects-bihospitalis/stagno
-# slug: stagno
+# template: projects-bihospitalis/biotopo-umido
+# slug: biotopo-umido
 section:
   id: stagno
   order: 4
