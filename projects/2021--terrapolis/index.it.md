@@ -24,6 +24,34 @@ tags:
   - ecologia
   - futuro
   - sperimentazione
+gallery:
+  items: 
+    - image: ./media/photos/20211019_120416.jpg
+    - image: ./media/photos/IMG-20200628-WA0000.jpg
+    - image: ./media/photos/IMG_20210619_210944.jpg
+    - image: ./media/photos/IMG_20211010_114753.jpg
+    - image: ./media/photos/IMG_20211011_144938.jpg
+    - image: ./media/photos/IMG_20211221_150220.jpg
+    - image: ./media/photos/IMG_20220118_105458.jpg
+    - image: ./media/photos/IMG_20220118_121047.jpg
+    - image: ./media/photos/IMG_20220119_120100.jpg
+    - image: ./media/photos/IMG_20220211_160744.jpg
+    - image: ./media/photos/IMG_20220211_163020.jpg
+    - image: ./media/photos/IMG_20220220_123830.jpg
+    - image: ./media/photos/IMG_20220222_111820.jpg
+    - image: ./media/photos/IMG_20220327_112406.jpg
+    - image: ./media/photos/IMG_20220327_132058.jpg
+    - image: ./media/photos/IMG_20220329_114046.jpg
+    - image: ./media/photos/IMG_20220329_160040.jpg
+    - image: ./media/photos/IMG_20220405_121826.jpg
+    - image: ./media/photos/IMG_20220511_174055.jpg
+    - image: ./media/photos/IMG_20220518_171724.jpg
+    - image: ./media/photos/IMG_20220524_100633.jpg
+    - image: ./media/photos/IMG_20220524_131535.jpg
+    - image: ./media/photos/IMG_20220920_115245.jpg
+    - image: ./media/photos/SAM_8670.jpg
+    - image: ./media/photos/SAM_8673.jpg
+    - image: ./media/photos/SAM_8759.jpg
 ---
 
 <Row $valign="center" $top={6}>
@@ -43,19 +71,23 @@ tags:
 </Row>
 <Row>
   <Col $initial>
-    La recente pandemia e i conseguenti problemi sanitari, economici e sociali hanno avuto un enorme impatto in innumerevoli pieghe del tessuto sociale lacerando e allo stesso tempo rammendando trame e relazioni. Questo non solo a livello macroscopico. Scavalcando la visione del sistema immunitario come un confine bellico che divide la normalità dalla patologia e che pone nella narrativa mediatica e politica il virus come il nemico da combattere riusciamo forse ora più che mai a vederci come sistemi permeabili e inestricabilmente coinvolti in ecologie di sistemi complessi. La pandemia non è infatti slegata dalla crisi ecologica e I discorsi che abbiamo visto emergere durante le quarantene del ritorno di specie selvatiche e di una “natura che guarisce” tendono ad offuscare la responsabilità delle attività antropiche nella crisi ecologica odierna facendo leva sulla feticizzazione di una presunta automatica capacità di ripresa della natura. Questa rinascita ha invece bisogno di un sforzo multispecie attivo e costante, di legami sociali che inneschino modi di responsabilità condivisa. Terrapolis vuole rispondere all’odierno “ecocidio” inteso come il disastroso disordine della regolazione degli ecosistemi su scala globale configurandosi come uno spazio per ritagliare margini di autonomia e misurare la nostra capacità di azione e responso-abilità a livello locale. Eludere così quel senso di impotenza di fronte a problemi di tali dimensioni ed evitare di cadere in una passività nichilista o in un complottismo disperato.
+    ### Presentazione
+
+    <ReadMore lines={8}>
+      La recente pandemia e i conseguenti problemi sanitari, economici e sociali hanno avuto un enorme impatto in innumerevoli pieghe del tessuto sociale lacerando e allo stesso tempo rammendando trame e relazioni. Questo non solo a livello macroscopico. Scavalcando la visione del sistema immunitario come un confine bellico che divide la normalità dalla patologia e che pone nella narrativa mediatica e politica il virus come il nemico da combattere riusciamo forse ora più che mai a vederci come sistemi permeabili e inestricabilmente coinvolti in ecologie di sistemi complessi. La pandemia non è infatti slegata dalla crisi ecologica e I discorsi che abbiamo visto emergere durante le quarantene del ritorno di specie selvatiche e di una “natura che guarisce” tendono ad offuscare la responsabilità delle attività antropiche nella crisi ecologica odierna facendo leva sulla feticizzazione di una presunta automatica capacità di ripresa della natura. Questa rinascita ha invece bisogno di un sforzo multispecie attivo e costante, di legami sociali che inneschino modi di responsabilità condivisa. Terrapolis vuole rispondere all’odierno “ecocidio” inteso come il disastroso disordine della regolazione degli ecosistemi su scala globale configurandosi come uno spazio per ritagliare margini di autonomia e misurare la nostra capacità di azione e responso-abilità a livello locale. Eludere così quel senso di impotenza di fronte a problemi di tali dimensioni ed evitare di cadere in una passività nichilista o in un complottismo disperato.
+    </ReadMore>
   </Col>
   <Col>
     > nessun organismo può diventare sè stesso senza l’assistenza di altre specie [Tsing, ‘AURA’s Openings: Unintentional Design in the Anthropocene’, 46.](#n-2)
   </Col>
 </Row>
 <Row>
-  <Col $initial>
+  <Col>
     A dispetto dell’abbondanza di terreni a uso privato per attività orticole, confrontandoci con la comunità locale è emersa la mancanza di spazi verdi adeguati a disposizione di associazioni, gruppi informali e enti del terzo settore per sperimentare attività di produzione dal basso. Con Terrapolis vogliamo fornire una possibilità di cittadinanza attiva attraverso uno spazio-tempo che inneschi processi di integrazione e coesione sociale dove cimentarsi in attività di costruzione e cura condivisa. Un terreno di collaborazione tra partner umani e non umani dove costruire intrecci e reti sinergiche per imparare a con-divenire in un mondo più abitabile. Terrapolis vuole porsi come campo di incontro per costruire forme di socialità, condivisione e co-responsabilità tra persone, piante e animali. L’obiettivo principale del progetto è creare un sistema resiliente dove condividere energie e risorse, coinvolgendo persone con differenti esigenze e capacità favorendo così l'arricchimento e la valorizzazione reciproca.
   </Col>
 </Row>
 <Row>
-  <Col $initial>
+  <Col>
     Il rinnovato bisogno di socialità in seguito ai confinamenti nella pandemia viene affrontato ponendo come centrale una visione collaborativa dove il bene personale non può che essere soddisfatto attraverso la costruzione di un bene comune, dove bene individuale e collettivo non sono visti in contraddizione ma come l’uno necessariamente incluso nell’altro. Sotto questo aspetto la sfida è di tirare fuori le persone dalla propria zona comfort, dalla sicurezza e protezione confortevole del proprio orto privato e di sperimentare in prima persona la bellezza della condivisione e del lavoro di gruppo. Così come per la Fondazione Comunitaria del Varesotto è nostra intenzione “mitigare gli effetti del Covid-19 sul territorio”. In tempi di crisi economica conseguenti alla pandemia e all’inesorabile incremento di impalpabili mercati globali, attraverso la produzione dal basso vogliamo ridare un senso di possibilità sperimentando in prima persona come la produzione alimentare sia alla portata di ciascuno. Attraverso l’attività orticola e di allevamento intendiamo renderci consapevoli che I sistemi di produzione possono rimanere in una dimensione tangibile portando con sé il piacere e senso di riappropriazione del soddisfacimento dei propri bisogni. La modalità con cui Terrapolis si pone rispetto alla produzione vuole sganciarsi da ottiche intensive e iper-produttiviste e proporre invece ritmi e pratiche adeguate alle necessità fisiche, psichica e sociali di tutti I soggetti umani e non umani coinvolti. Il nostro obiettivo è valorizzare la natura e l’ambiente sempre consci dell’inestricabile rapporto delle reti umane con essi e della conseguente responsabilità che dobbiamo assumere non *dinanzi* ma *dentro* a essa.
  </Col>
 </Row>
