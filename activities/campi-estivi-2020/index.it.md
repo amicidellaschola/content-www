@@ -509,7 +509,7 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 
 <Alert $top={3} color="orange">
 
-[Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
+[Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf) da compilare in stampatello, firmare e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com)
 
 </Alert>
 
@@ -557,7 +557,7 @@ Il costo totale di questo campo (10 giorni e 9 notti) è di 450 € per partecip
 
 <Alert $top={3} color="green">
 
-[Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
+[Scarica il modulo d'iscrizione](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf) da compilare in stampatello, firmare e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com)
 
 </Alert>
 
@@ -593,8 +593,8 @@ Al termine del secondo campo organizzeremo una giornata dove i partecipanti di e
 </Col>
 <Col $initial>
 
-Scaricare il relativo modulo ([6-11 anni](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf), [12-15 anni](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf)) da compilare per ogni partecipante in tutte le sue parti e inviare a [info@laschola.it](mailto:info@laschola.it) accompagnato da attestazione di versamento dell’anticipo di `€ 70,00` sul C.C. dell’**Associazione Amici de LaSchola** – IBAN `IT 97 S 03069 09606 100000010755` – con causale **Contributo alle attività istituzionali - Campi Estivi 2020**. La restante parte della quota d'iscrizione dovrà essere versata all’arrivo, prima dell’inizio del campo.
-La richiesta di iscrizione dovrà pervenire entro il giorno indicato sopra per ciascun campo tramite e-mail all’indirizzo [info@laschola.it](mailto:info@laschola.it) oppure potrà essere consegnata a mano presso la sede del campo.
+Scaricare il relativo modulo ([6-11 anni](/documents/modulo-iscrizione-campo_estivo_2020--6-11_anni.pdf), [12-15 anni](/documents/modulo-iscrizione-campo_estivo_2020--12-15_anni.pdf)) da compilare per ogni partecipante in tutte le sue parti e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com) accompagnato da attestazione di versamento dell’anticipo di `€ 70,00` sul C.C. dell’**Associazione Amici de LaSchola** – IBAN `IT 97 S 03069 09606 100000010755` – con causale **Contributo alle attività istituzionali - Campi Estivi 2020**. La restante parte della quota d'iscrizione dovrà essere versata all’arrivo, prima dell’inizio del campo.
+La richiesta di iscrizione dovrà pervenire entro il giorno indicato sopra per ciascun campo tramite e-mail all’indirizzo [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com) oppure potrà essere consegnata a mano presso la sede del campo.
 
 </Col>
 </Row>

@@ -37,7 +37,7 @@ Porta con te: un cesto in tuo possesso, ne esamineremo insieme il tipo di intrec
 
 <Row $top={3} $bottom={3} $valign="center">
 <Col md={6}>
-<EntryInfo variant="frequency" label="Quando" value="14-15 dicembre" top="6"/>
+<EntryInfo variant="frequency" label="Quando" value="14-15 dicembre 2019" top="6"/>
 <EntryInfo variant="participants" value="6 - 12"/>
 <EntryInfo variant="price" value="190 € (vitto e alloggio incluso)"/>
 <EntryInfo variant="teacher" value="[Francesco D'Ingiullo](https://sites.google.com/site/laboratoridelladecrescita/organizzazione-dei-laboratori-scheda-tecnica/laboratori-di-cesteria-scheda-tecnica)"/>

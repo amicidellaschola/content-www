@@ -39,6 +39,7 @@ Footer.copy: Copyleft 2018 - {{year}} LaSchola
 ~activities~.upcomingEventsSub: Calendar
 ~activities~.upcomingEvents: Upcoming events
 ~activities~.upcomingEventsId: upcoming
+~events~.partners: Organised by
 ~partners~.relatedContentTitle: content related to its involvement
 ~partners~.relatedContentSubtitle: >-
   {{name}} at LaSchola

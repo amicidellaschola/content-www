@@ -19,4 +19,4 @@ tags:
   - comunicazione
 ---
 
-Durante l'estate caricheremo contenuti e miglioreremo il sito, per qualsiasi tipo di feedback scriveteci a [info@laschola.it](mailto:info@laschola.it), grazie!
+Durante l'estate caricheremo contenuti e miglioreremo il sito, per qualsiasi tipo di feedback scriveteci a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com), grazie!

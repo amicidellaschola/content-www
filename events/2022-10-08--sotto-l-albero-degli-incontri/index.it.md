@@ -1,8 +1,6 @@
 ---
 template: events-single
 slug: sotto-l-albero-degli-incontri
-priority: 10
-homepage: true
 date: 2022-10-08T15:30:00.000Z
 title: Sotto l'albero degli incontri
 subtitle: Un pomeriggio insieme per scoprire LaSchola di Morosolo

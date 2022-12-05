@@ -26,7 +26,7 @@ Ci impegniamo a proteggere e rispettare i tuoi dati e la tua privacy. Utilizzere
 
 Useremo i tuoi dati personali solo nei modi e per gli scopi descritti in questa pagina. Ti preghiamo di leggerla attentamente perché contiene informazioni importanti su come tratteremo i tuoi dati personali.
 
-Per qualsiasi esigenza in merito a questa policy, per informazioni o per esercitare i tuoi diritti puoi scriverci all'indirizzo di posta elettronica [info@laschola.it](mailto:info@laschola.it), cercheremo di risponderti nel più breve tempo possibile.
+Per qualsiasi esigenza in merito a questa policy, per informazioni o per esercitare i tuoi diritti puoi scriverci all'indirizzo di posta elettronica [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com), cercheremo di risponderti nel più breve tempo possibile.
 
 Visitando il nostro Sito web, utilizzando i nostri servizi o fornendoci i tuoi dati, accetti e acconsenti che tratti i tuoi dati personali secondo le pratiche descritte in questa policy.
 
@@ -40,7 +40,7 @@ Associazione Amici de LaSchola ETS-APS con sede Via Maroni 13, Casciago 21020 (V
 
 Utilizziamo i dati raccolti per offrirti i nostri servizi, informarti sulle nostre attività o rispondere alle tue domande e solo se abbiamo una ragione (base legale) per farlo tra quelle elencate qui di seguito.
 
-- **Consenso dell'utente**: hai fornito un consenso esplicito che ci autorizza a trattare i tuoi dati per questo scopo. Ti ricordiamo che puoi in ogni momento ritirare o modificare il tuo consenso scrivendo a [info@laschola.it](mailto:info@laschola.it).
+- **Consenso dell'utente**: hai fornito un consenso esplicito che ci autorizza a trattare i tuoi dati per questo scopo. Ti ricordiamo che puoi in ogni momento ritirare o modificare il tuo consenso scrivendo a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com).
 - **Adempimento contrattuale**: il trattamento dei tuoi dati è necessario per adempiere agli obblighi contrattuali tra le parti o per rendere possibile l'elaborazione di un contratto, inclusa la conclusione e finalizzazione di una vendita.
 - **Obbligo legale**: il trattamento è necessario per adempiere agli obblighi di una legge in vigore.
 - **Interesse legittimo**: il trattamento è effettuato per rispondere a un nostro interesse legittimo o un interesse legittimo di terze parti. Se ritieni che il tuo interesse sia superiore a quanto indicato, puoi opporti in qualunque momento a questo trattamento.
@@ -278,7 +278,7 @@ Ai sensi del Regolamento europeo 679/2016 (GDPR) e della normativa nazionale, l'
 - nei casi di trattamento basato su consenso, ricevere i propri dati forniti al titolare, in forma strutturata e leggibile da un elaboratore di dati e in un formato comunemente usato da un dispositivo elettronico;
 - il diritto di presentare un reclamo all'Autorità di controllo, l'[Autorità Garante](http://www.garanteprivacy.it/) per la protezione dei dati personali in Italia; per informazioni puoi consultare questa pagina: [http://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-nostri-dati-personali](http://www.garanteprivacy.it/home/diritti/come-agire-per-tutelare-i-nostri-dati-personali).
 
-**L'esercizio dei suoi diritti potrà avvenire attraverso l'invio di una richiesta mediante email all'indirizzo al Titolare del trattamento [info@laschola.it](mailto:info@laschola.it).**
+**L'esercizio dei suoi diritti potrà avvenire attraverso l'invio di una richiesta mediante email all'indirizzo al Titolare del trattamento [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com).**
 
 ### 7. Cambiamenti a questa informativa
 

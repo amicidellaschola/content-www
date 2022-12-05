@@ -1,7 +1,7 @@
 ---
 template: activities-single
 slug: arteterapia
-priority: 13
+priority: 7
 homepage: true
 title: Arteterapia
 subtitle: Condotto da Sonia Ranza

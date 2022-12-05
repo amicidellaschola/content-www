@@ -151,7 +151,7 @@ Agronoma e co-fondatrice di NatureDesigns, opera come libero professionista da p
 
 <Alert $top={3} color="lightblue">
 
-[Scarica il modulo di iscrizione](/documents/modulo-iscrizione-corso-permacultura-2020.pdf) da compilare in stampatello, firmare e inviare a [info@laschola.it](mailto:info@laschola.it)
+[Scarica il modulo di iscrizione](/documents/modulo-iscrizione-corso-permacultura-2020.pdf) da compilare in stampatello, firmare e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com)
 
 </Alert>
 </Col>
