@@ -84,7 +84,7 @@ tags:
     
     <Alert $top={3} color="lightblue">
 
-      [Scarica il modulo](./modulo-iscrizione-microrganismi-2023.pdf) da compilare in stampatello, firmare e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com)
+    [Scarica il modulo](https://github.com/amicidellaschola/content-www/raw/main/events/2023-01-22--microrganismi-effettivi/modulo-iscrizione-microrganismi-2023.pdf) da compilare in stampatello, firmare e inviare a [amicidellaschola@gmail.com](mailto:amicidellaschola@gmail.com)
 
     </Alert>
   </Col>
