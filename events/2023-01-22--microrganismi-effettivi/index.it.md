@@ -59,6 +59,19 @@ tags:
   </Col>
 </Row>
 
+<Row $top={6} $bottom={3} $valign="center">
+  <Col xm={3} sm={4} md={5} orderxs={2}>
+    <ImgRounded>
+      ![marino-ricchiuti-agricoltura-rigenerativa-em-laschola](./marino-ricchiuti-agricoltura-rigenerativa-em-laschola.jpeg)
+    </ImgRounded>
+  </Col>
+  <Col xm={9} sm={8} md={7}>
+    ### Marino Ricchiuti
+
+    Nasco a Milano il 28/06/1966. Sono diventato progettista grafico lavorando a lungo nel settore editoriale, ma la passione per la natura e la vita di campagna mi ha spinto a trasferirmi tra i laghi del varesotto giovanissimo. Dopo qualche tempo apro una ditta di giardinaggio, proprio per stare il più possibile nel verde. Facendo esperienza nella gestione di parchi e giardini e approfondendo le tematiche di rigenerazione del suolo oggi così fondamentali, ho conosciuto la tecnologia dei microorganismi effettivi del professor Higa. La grande potenzialità rigenerativa per l'ambiente, la salute e la società di questa preziosa miscela mi ha presto affascinato. Oggi mi definisco un ricercatore e un divulgatore della tecnologia em. Grazie alle molteplici esperienze nei diversi settori dall'agricoltura rigenerativa alla cosmesi, propongo soluzioni ecosostenibili e rigenerative alla portata di tutti per qualsiasi tipo di attività. Convinto di essere tutti parte di un unico organismo, mi sforzo il più possibile di esserne una sua cellula rigenerativa per preservare la bellezza di questo pianeta e soprattutto restare connesso con una dimensione umana.
+  </Col>
+</Row>
+
 <SectionTitle id="info">Informazioni</SectionTitle>
 <SectionSubtitle>Iscrizioni, costi e logistica</SectionSubtitle>
 
