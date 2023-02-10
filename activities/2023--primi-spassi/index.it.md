@@ -12,8 +12,8 @@ cover:
   image: ./cover.jpg
 googleCalendarEventRegex: Primi spassi
 cardLabel: 3 Mar - al lunedì sera
-partners:
-  - amici-de-laschola
+# partners:
+#   - amici-de-laschola
 categories:
   - activities
 tags:
@@ -31,7 +31,7 @@ showUpcomingEvents: true
     Un mondo che tiene insieme tutti i mondi.
   </Col>
   <Col $initial $top={4} md={5}>
-    ![locandina-ecstatic-dance](./locandina.jpg?ratio=29:41)
+    ![locandina-ecstatic-dance](./locandina.jpg?ratio=41:29)
   </Col>
 </Row>
 
@@ -53,9 +53,7 @@ showUpcomingEvents: true
     <SectionTitle>per info e prenotazioni</SectionTitle>
     <SectionSubtitle>contatta</SectionSubtitle>
   </Col>
-  <Col md={2}></Col>
-  <Col xs={4} md={2}>
-  </Col>
+  <Col xs={1} md={3}></Col>
   <Col xs={10} md={6} id="sveva-raimondi">
     ### Sveva Raimondi
 
