@@ -24,21 +24,21 @@ tags:
 
 <Row $top={6} $bottom={3} $valign="center">
   <Col md={7}>
-    <EntryInfo variant="frequency" label="Quando" value="21 e 22 gennaio 2023"/>
-    <EntryInfo variant="participants" value="massimo 25"/>
-    <EntryInfo variant="price" value="70 € [vedi dettagli](#info)"/>
-    <EntryInfo variant="teacher" value="[Marino Ricchiuti](#marino-ricchiuti)"/>
+    <EntryInfo variant="frequency" label="Quando" value="24 febbraio 2023"/>
+    <EntryInfo variant="duration" value="dalle 20 alle 23"/>
+    <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
+    <EntryInfo variant="teacher" label="Organizzato da" value="Fabio Freddi - DJRONIN"/>
   </Col>
-  <Col>
+  <Col md={5}>
     ## Movimento primordial
 
-    ### il 25 febbraio si torna a danzare a Varese!
+    ### il 24 febbraio si torna a danzare a Varese!
 
     _Con Fabio - DJRONIN_
 
     Per informazioni e prenotazioni
 
-    <ButtonLink href="[mailto:associazionevivenda@gmail.com](https://ed-varese.eventbrite.it)">clicca qui ed-varese.eventbrite.it</ButtonLink>
+    <ButtonLink href="[mailto:associazionevivenda@gmail.com](https://ed-varese.eventbrite.it)">visita eventbrite.it</ButtonLink>
 
   </Col>
 </Row>
