@@ -23,14 +23,14 @@ showUpcomingEvents: true
 ---
 
 <Row>
-  <Col $initial $top={4} md={7}>
+  <Col $initial $top={4} md={5}>
     Un laboratorio per avvicinarsi al gioco del teatro, imparando delle basi leggere ma profonde.
 
     Un'occasione per riscoprire un tempo più umano, per dare spazio e respiro alla propria fisicita', fantasia e creativita', grazie al gioco di squadra e la nutriente energia del gruppo che ci sostiene.
     
     Un mondo che tiene insieme tutti i mondi.
   </Col>
-  <Col $initial $top={4} md={5}>
+  <Col $initial $top={4} md={7}>
     ![locandina-ecstatic-dance](./locandina.jpg?ratio=41:29)
   </Col>
 </Row>
