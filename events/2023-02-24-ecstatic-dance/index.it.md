@@ -1,11 +1,11 @@
 ---
 template: events-single
 slug: ecstatic-dance
-priority: 33 # 10
+priority: 34
 homepage: true
 date: 2023-02-25T00:09:00.000Z
 seo:
-  ogimage: ./ogimage.jpg
+  ogimage: ./cover.jpg
 archive: false
 title: Ecstatic dance
 subtitle: >-
@@ -20,6 +20,7 @@ categories:
 showTags: false
 tags:
   - danza
+  - espressioni
 ---
 
 <Row $top={6} $bottom={3} $valign="center">
