@@ -18,17 +18,16 @@ tags:
   - tai-chi
 ---
 
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
-<EntryInfo variant="frequency" label="Quando" value="sabato 29 aprile 2023"/>
-<EntryInfo variant="duration" label="Orario" value="dalle 10:00 alle 12:00"/>
-<EntryInfo variant="teacher" label="Condotto da" value="Barbara Malinverno"/>
-<EntryInfo variant="phone" label="Telefono" value="[+39 329 790 4751](tel:+393297904751)"/>
-<EntryInfo variant="email" label="Email" value="[etramovimento@gmail.com](mailto:etramovimento@gmail.com)" $bottom={6}/>
-
 <Row>
-  <Col md={2}>
+  <Col md={5}>
+    <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
+    <EntryInfo variant="frequency" label="Quando" value="sabato 29 aprile 2023"/>
+    <EntryInfo variant="duration" label="Orario" value="dalle 10:00 alle 12:00"/>
+    <EntryInfo variant="teacher" label="Condotto da" value="Barbara Malinverno"/>
+    <EntryInfo variant="phone" label="Telefono" value="[+39 329 790 4751](tel:+393297904751)"/>
+    <EntryInfo variant="email" label="Email" value="[etramovimento@gmail.com](mailto:etramovimento@gmail.com)" $bottom={6}/>
   </Col>
-  <Col md={6} $initial>
+  <Col md={7} $initial>
 
     Dal 1999, come ogni anno, festeggeremo insieme la **Giornata Mondiale del Tai Chi** respirando e praticando insieme a milioni di persone in tutto il mondo.
 
