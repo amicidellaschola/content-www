@@ -9,6 +9,8 @@ cover:
   image: ./cover.jpg
 googleCalendarEventRegex: Giornata Mondiale del Tai Chi
 cardLabel: 29 Apr 2023
+partners:
+  - associazione-vivenda
 categories:
   - news
   - activities
