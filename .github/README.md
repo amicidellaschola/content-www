@@ -1,43 +1,45 @@
-# Note
+# LaSchola
 
-## Festa 8 ottobre
+> Website [laschola.it](https://laschola.it)
 
-### Tematica
+## Colors
 
-Alberi
+- **body background**: `#FDF4E6`
+- **green**: `#8DC4B9`,  `#638986`,  `#478E88`,  `#408079`;
+- **red**: `#E37679`,  `#CA8D91`,  `#80595B`,  `#BF6065`;
+- **lilla**: `#C6B6E3`,  `#86829F`,  `#676287`,  `#4D4580`;
+- **orange**: `#FBB069`,  `#B08549`,  `#CCB28F`,  `#BF9760`;
+- **lightblue**: `#AAC2C9`,  `#77898D`,  `#488591`,  `#407680`;
+- **pink**: `#EBB7BB`,  `#A48085`,  `#C68B93`,  `#80595F`;
 
-### Comunicazione
+## Image sizes
 
-- Rendere chiaro attraverso gli elementi visivi della grafica la successione degli eventi, omettiamo gli orari di ciascuna attività ma semplifichiamo gli arrivi dei ritardatari rendendo chiaro cosa è già passato e cosa è da venire.
-- Portare ombrello e scarpe adeguate in caso di pioggia (la passeggiata fuori si fa lo stesso)
-- Abbigliamento comodo (adatto a movimento corporeo e lavorare con argilla)
+Original / source images formats
 
-### Logistica
+- **Photos and images** (`*.jpg`)
+  - Dimensione file in pixel: `1440x810`
+  - proporzione *16:9*
+- **Cover** (`cover.jpg`)
+  - Dimensione file in pixel: `1920x576` (300 dpi)
+  - proporzione *10:3*
+- **FB banner** (`ogimage.jpg`)
+  - Dimensione file in pixel: `1200x628` (300 dpi)
+  - proporzione *16:9*
 
-- Mettere della musica negli spazi interni
-- Preparare eventuale microfono
-- Musica all'esterno
+## How to
 
-### Programma
+### Extract an image from a video
 
-- Presentazioni (seduti in cerchio attorno l'olmo)
-  - 15:00 atterraggio nel presente (momento di mindfulness con Alesssandra Marra)
-  - 15:05 LaSchola (10 minuti Giorgio)
-  - 15:15 Amici de LaSchola (15 minuti Bea & Ale)
-  - 15:30 Presentazione varie realtà (3-5 minuti l'una, 30 minuti max in tutto):
-    - Centro Coscienza?
-    - Associazione Vivenda
-    - Garuda Yoga
-    - Scuola di psicomotricità
-    - Biodanza
-    - Sonia Ranza
-- Percorso (nel parco)
-  - 16:00 Associazione Vivenda, passeggiata letteraria sotto gli alberi, pausa sotto la quercia, più racconto associazione Amici de LaSchola (prato davanti biblioteca)
-  - 16:45 Garuda Yoga
-  - 17:15 Scuola di psicomotricità, lavoro sull'abbraccio
-  - 17.40 Biodanza
-  - 18:00 Sonia lavoro con la creta, costruzione albero comune, cesta con foglie e pastelli dove ognuno può scrivere un pensiero
-  - 18:45 Associazione Vivenda momento di chiusura, con scambio delle foglie di carta
-- Conclusioni
-  - 19:00 Aperitivo e musica (nel salone sotto)
-  - 20:00 fine?
+where `ss` stands for the seconds at which grab the frame ([source](https://askubuntu.com/a/997328))
+
+```bash
+ffmpeg -ss 55 -i video.mp4  -t 1 -f image2 -qscale 0 img.jpg
+```
+
+## Misc
+
+- Instagram widget feed with embedsocial.com, code:
+
+```html
+<div class='embedsocial-instagram' data-ref="c474c189fa07b229c1599a44edf274a3fd5bc6a2"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
+```
