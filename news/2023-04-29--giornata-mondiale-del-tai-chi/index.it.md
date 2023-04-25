@@ -26,7 +26,9 @@ tags:
 <EntryInfo variant="email" label="Email" value="[etramovimento@gmail.com](mailto:etramovimento@gmail.com)" $bottom={6}/>
 
 <Row>
-  <Col $align="center">
+  <Col md={2}>
+  </Col>
+  <Col md={6} $initial>
 
     Dal 1999, come ogni anno, festeggeremo insieme la **Giornata Mondiale del Tai Chi** respirando e praticando insieme a milioni di persone in tutto il mondo.
 
