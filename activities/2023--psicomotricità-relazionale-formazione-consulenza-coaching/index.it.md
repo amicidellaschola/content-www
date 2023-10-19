@@ -66,7 +66,7 @@ showUpcomingEvents: false
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![micaela-ferrarese](./micaela-ferrarese-arcobaleno-di-profilo.jpg)
+      ![micaela-ferrarese-arcobaleno-di-profilo](../../partners/arcobaleno-di-profilo/micaela-ferrarese.jpg)
     </ImgRounded>
   </Col>
   <Col xs={9} md={6} id="micaela-ferrarese">
@@ -84,7 +84,7 @@ showUpcomingEvents: false
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![roberto-soru](./roberto-soru-arcobaleno-di-profilo.jpg)
+      ![roberto-soru-arcobaleno-di-profilo](../../partners/arcobaleno-di-profilo/roberto-soru.jpg)
     </ImgRounded>
   </Col>
   <Col xs={9} md={6} id="roberto-soru">

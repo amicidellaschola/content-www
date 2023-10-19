@@ -74,10 +74,10 @@ showUpcomingEvents: true
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![alessandra-marra](./alessandra-marra-studio-home-biodanza.jpg)
+      ![alessandra-marra](../../partners/studio-home/alessandra-marra-biodanza.jpg)
     </ImgRounded>
   </Col>
-  <Col xs={9} md={6} id="alessandra-marra">
+  <Col xs={9} md={6}>
     ### Alessandra Marra
 
     Laureata in filosofia e in psicologa clinica, insegnante tutor e didatta di Biodanza, Mindfulness Teacher, terapeuta CFT, operatrice in sciamanesimo, formatrice.

@@ -52,7 +52,7 @@ showUpcomingEvents: true
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![barbara-malinverno](./barbara-malinverno-qi-gong.jpg)
+      ![barbara-malinverno-qi-gong](../../partners/barbara-malinverno/barbara-malinverno-qi-gong.jpg)
     </ImgRounded>
   </Col>
   <Col xs={9} md={6}>

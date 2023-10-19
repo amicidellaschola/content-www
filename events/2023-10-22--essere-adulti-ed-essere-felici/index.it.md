@@ -59,7 +59,7 @@ tags:
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![laura-pasetti-theatre-of-the-seven-directions](./laura-pasetti-theatre-of-the-seven-directions.jpg)
+      ![laura-pasetti-theatre-of-the-seven-directions](./laura-pasetti.jpg)
     </ImgRounded>
   </Col>
   <Col xs={9} md={6} id="micaela-ferrarese">

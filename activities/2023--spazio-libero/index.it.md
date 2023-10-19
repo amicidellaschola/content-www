@@ -15,7 +15,6 @@ categories:
   - activities
 partners:
   - sonia-ranza
-  - amici-de-laschola
 showTags: false
 tags:
   - arte

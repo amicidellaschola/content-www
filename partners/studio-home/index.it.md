@@ -6,7 +6,7 @@ website: "https://www.facebook.com/homealedami/"
 name: Studio hOMe
 payoff: Biodanza, psicologia integrata, riequilibrio posturale e massaggio
 cover:
-  image: ./cover-studio-home.jpg
+  image: ./cover.jpg
 ---
 
 <EntryInfo variant="web" label="Visita" value="[homesentieridiconsapevolezza.com](https://www.homesentieridiconsapevolezza.com/)" />

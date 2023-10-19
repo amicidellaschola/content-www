@@ -53,7 +53,7 @@ showUpcomingEvents: true
   <Col md={2}></Col>
   <Col xs={3} md={2}>
     <ImgRounded>
-      ![alessandra-marra](./alessandra-marra-studio-home-biodanza.jpg)
+      ![alessandra-marra](../../partners/studio-home/alessandra-marra.jpg)
     </ImgRounded>
   </Col>
   <Col xs={9} md={6}>
