@@ -10,6 +10,7 @@ cover:
 googleCalendarEventRegex: Giornata Mondiale del Tai Chi
 cardLabel: 29 Apr 2023
 partners:
+  - barbara-malinverno
   - associazione-vivenda
 categories:
   - news

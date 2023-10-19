@@ -2,8 +2,6 @@
 template: partners-single
 identifier: garuda-yoga
 order: 10
-seo:
-  description: Garuda Yoga Studio
 website: "https://www.facebook.com/Garuda.STD.Yoga/"
 name: Garuda Yoga
 # payoff: 

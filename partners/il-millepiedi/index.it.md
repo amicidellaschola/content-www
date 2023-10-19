@@ -2,8 +2,6 @@
 template: partners-single
 identifier: il-millepiedi
 order: 6
-seo:
-  description: Scuola elementare a Morosolo
 website: "http://www.ilmillepiedionlus.it/"
 name: Il Millepiedi
 payoff: Dona a chi ami ali per volare, radici per tornare, e motivi per restare

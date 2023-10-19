@@ -2,8 +2,6 @@
 template: partners-single
 identifier: studio-home
 order: 8
-seo:
-  description: Studio hOMe
 website: "https://www.facebook.com/homealedami/"
 name: Studio hOMe
 payoff: Biodanza, psicologia integrata, riequilibrio posturale e massaggio
@@ -11,7 +9,8 @@ cover:
   image: ./cover-studio-home.jpg
 ---
 
-<EntryInfo variant="web" label="Visita" value="[facebook.com/homealedami](https://www.facebook.com/homealedami/)" />
+<EntryInfo variant="web" label="Visita" value="[homesentieridiconsapevolezza.com](https://www.homesentieridiconsapevolezza.com/)" />
+<EntryInfo variant="web" label="Facebook" value="[facebook.com/homealedami](https://www.facebook.com/homealedami/)" />
 <EntryInfo variant="email" label="Email" value="[andriani.marra.home@gmail.com](mailto:andriani.marra.home@gmail.com)" />
 <EntryInfo variant="phone" label="Telefono" value="[328 872 1571](tel:3288721571)" $bottom={6}/>
 
@@ -36,7 +35,7 @@ cover:
     Psicologa clinica, insegnante Mindfulness, insegnante MindUp Sel, terapeuta CFT (Compassion Focused Therapy), educatrice, formatrice, operatrice tutor e didatta di Biodanza®, specializzata in Biodanza con bambini e adolescenti, Biodanza clinica, Missione Argonauta, Educazione Biocentrica, Voce, musica e percussioni, Progetto Minotauro, Biodanza e Tarocchi, Biodanza e Orixas brasiliani, Biodanza Acquatica, Biodanza nelle organizzazioni. Formazione biennale in sciamanesimo.
 
     <EntryInfo variant="email" label="Email" value="[alemarra@libero.it](mailto:alemarra@libero.it)" $bottom={1}/>
-    <EntryInfo variant="phone" label="Telefono" value="[3288721571](tel:3288721571)" $bottom={6}/>
+    <EntryInfo variant="phone" label="Telefono" value="[328 8721571](tel:3288721571)" $bottom={6}/>
   </Col>
   <Col md={6}>
     ### Damiano Andriani

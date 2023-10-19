@@ -1,8 +1,9 @@
 ---
 template: activities-single
 slug: il-sangha-del-martedi
+archive: true
 priority: 6
-homepage: true
+homepage: false
 title: Il Sangha del martedì
 subtitle: Pratica di gruppo di Mindfulness e Compassion Focused Therapy
 startYear: 2022
@@ -65,17 +66,17 @@ showUpcomingEvents: true
     <SectionSubtitle>contatta</SectionSubtitle>
   </Col>
   <Col md={2}></Col>
-  <Col xs={4} md={2}>
+  <Col xs={3} md={2}>
     <ImgRounded>
       ![alessandra-marra](./alessandra-marra-studio-home-gavirate.jpg)
     </ImgRounded>
   </Col>
-  <Col xs={10} md={6} id="alessandra-marra">
+  <Col xs={9} md={6}>
     ### Alessandra Marra
 
     Laureata in filosofia e in psicologa clinica, insegnante tutor e didatta di Biodanza, Mindfulness Teacher, terapeuta CFT, operatrice in sciamanesimo, formatrice.
 
     <EntryInfo variant="email" label="Email" value="[alemarra@libero.it](mailto:alemarra@libero.it)" $bottom={1}/>
-    <EntryInfo variant="phone" label="Telefono" value="[3288721571](tel:3288721571)" $bottom={6}/>
+    <EntryInfo variant="phone" label="Telefono" value="[328 8721571](tel:3288721571)" $bottom={6}/>
   </Col>
 </Row>

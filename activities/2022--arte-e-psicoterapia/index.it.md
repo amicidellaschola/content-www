@@ -1,8 +1,9 @@
 ---
 template: activities-single
 slug: arte-e-psicoterapia
+archive: true
 priority: 5
-homepage: true
+homepage: false
 title: Arte e psicoterapia
 subtitle: Condotto da Sonia Ranza e Paola Zavagnin
 startYear: 2022

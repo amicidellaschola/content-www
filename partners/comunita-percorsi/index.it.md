@@ -2,8 +2,6 @@
 template: partners-single
 identifier: comunita-percorsi
 order: 7
-seo:
-  description: Comunità Percorsi
 website: "https://www.codess.org/sito/percorsi/"
 name: Comunità Percorsi
 payoff: Comunità Protetta ad Alta Intensità

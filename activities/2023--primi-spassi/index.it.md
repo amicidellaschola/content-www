@@ -1,8 +1,9 @@
 ---
 template: activities-single
 slug: primi-spassi-corso-di-teatro
+archive: true
 priority: 35
-homepage: true
+homepage: false
 seo:
   ogimage: ./cover.jpg
 title: Primi spassi

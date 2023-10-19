@@ -1,12 +1,12 @@
 ---
 template: events-single
 slug: ecstatic-dance
+archive: true
 priority: 34
-homepage: true
+homepage: false
 date: 2023-02-25T00:09:00.000Z
 seo:
   ogimage: ./cover.jpg
-archive: false
 title: Ecstatic dance
 subtitle: >-
   Move your Soul and find your Self

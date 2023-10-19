@@ -1,12 +1,12 @@
 ---
 template: events-single
 slug: microrganismi-effettivi-per-la-rigenerazione
+archive: true
 priority: 33 # 10
-homepage: true
+homepage: false
 date: 2023-01-21T00:09:00.000Z
 seo:
   ogimage: ./ogimage.jpg
-archive: false
 title: Microrganismi effettivi
 subtitle: >-
   Per la rigenerazione dell'uomo e della terra

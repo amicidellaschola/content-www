@@ -1,7 +1,7 @@
 ---
 template: projects-bihospitalis/home
 slug: bihospitalis
-priority: 30
+priority: 10
 homepage: true
 title: Bihospitalis
 subtitle: Ospitare la biodiversità

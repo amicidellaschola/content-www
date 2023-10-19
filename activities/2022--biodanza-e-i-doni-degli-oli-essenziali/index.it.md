@@ -1,8 +1,9 @@
 ---
 template: activities-single
 slug: biodanza-e-i-doni-degli-oli-essenziali
+archive: true
 priority: 6
-homepage: true
+homepage: false
 title: Biodanza e i doni degli oli essenziali
 subtitle: Un viaggio alla scoperta dei nostri potenziali nascosti e delle preziose proprietà degli oli essenziali
 startYear: 2022
@@ -71,17 +72,17 @@ showUpcomingEvents: true
     <SectionSubtitle>contatta</SectionSubtitle>
   </Col>
   <Col md={2}></Col>
-  <Col xs={4} md={3}>
+  <Col xs={3} md={2}>
     <ImgRounded>
       ![alessandra-marra](./alessandra-marra-studio-home-biodanza.jpg)
     </ImgRounded>
   </Col>
-  <Col xs={10} md={6} id="alessandra-marra">
+  <Col xs={9} md={6} id="alessandra-marra">
     ### Alessandra Marra
 
     Laureata in filosofia e in psicologa clinica, insegnante tutor e didatta di Biodanza, Mindfulness Teacher, terapeuta CFT, operatrice in sciamanesimo, formatrice.
 
     <EntryInfo variant="email" label="Email" value="[alemarra@libero.it](mailto:alemarra@libero.it)" $bottom={1}/>
-    <EntryInfo variant="phone" label="Telefono" value="[3288721571](tel:3288721571)"/>
+    <EntryInfo variant="phone" label="Telefono" value="[328 8721571](tel:3288721571)"/>
   </Col>
 </Row>

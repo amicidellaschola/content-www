@@ -1,8 +1,9 @@
 ---
 template: activities-single
 slug: arteterapia
+archive: true
 priority: 7
-homepage: true
+homepage: false
 title: Arteterapia
 subtitle: Condotto da Sonia Ranza
 startYear: 2022

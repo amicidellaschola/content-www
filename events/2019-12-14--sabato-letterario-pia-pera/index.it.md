@@ -25,7 +25,7 @@ import { Upcoming } from "src/components/Calendar";
 <Row $bottom={3}>
 <Col $columned>
 
-Con il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.
+Con il bellissimo ultimo libro di Pia Pera, hanno inizio [i sabati letterari di Vivenda](/attività/2019--sabato-letterario/), alla Schola di Morosolo. Il libro prende il titolo, come l’autrice stessa racconta nella Premessa, da una poesia di Emily Dickinson *I haven’t told my garden yet*. Traduttrice e scrittrice, nata a Lucca nel 1956, Pia Pera scompare troppo presto, nel 2016, a causa di una malattia degenerativa.
 
 Quando riceve in eredità un podere in stato di abbandono nella Lucchesia, Pia Pera decide di lasciare Milano, città in cui ormai da tempo viveva, e di abitare in pianta stabile nel podere, anche per riportarlo alla vita. Così, da “cittadina cresciuta sui libri”, scopre la passione per la natura e comincia a seguire l’insegnamento del filosofo e botanico giapponese Masanobu Fukuoka, di cui è nota la regola “non contrastare ma assecondare la natura”. Vivere nel podere alle pendici del Monte Pisano, rappresenta una svolta anche per la scrittura di Pia Pera.
 
