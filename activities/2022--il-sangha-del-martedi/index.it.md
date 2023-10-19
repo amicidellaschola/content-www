@@ -13,7 +13,6 @@ googleCalendarEventRegex: Il Sangha del martedì
 cardLabel: al martedì sera
 partners:
   - studio-home
-  - amici-de-laschola
 categories:
   - activities
 tags:
@@ -76,6 +75,7 @@ showUpcomingEvents: true
 
     Laureata in filosofia e in psicologa clinica, insegnante tutor e didatta di Biodanza, Mindfulness Teacher, terapeuta CFT, operatrice in sciamanesimo, formatrice.
 
+    <EntryInfo variant="web" label="Studio hOMe" value="[scopri di più](/partners/studio-home)" />
     <EntryInfo variant="email" label="Email" value="[alemarra@libero.it](mailto:alemarra@libero.it)" $bottom={1}/>
     <EntryInfo variant="phone" label="Telefono" value="[328 8721571](tel:3288721571)" $bottom={6}/>
   </Col>

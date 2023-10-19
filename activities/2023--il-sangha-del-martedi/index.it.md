@@ -13,7 +13,6 @@ googleCalendarEventRegex: Il Sangha del martedì
 cardLabel: al martedì sera
 partners:
   - studio-home
-  - amici-de-laschola
 categories:
   - activities
 tags:

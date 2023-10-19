@@ -13,7 +13,6 @@ googleCalendarEventRegex: Biodanza
 cardLabel: al giovedì sera
 partners:
   - studio-home
-  - amici-de-laschola
 categories:
   - activities
 tags:
@@ -37,7 +36,8 @@ showUpcomingEvents: true
     <EntryInfo variant="duration" label="periodo" value="da settembre 2023 a giugno 2024" $top={3}/>
     <EntryInfo variant="upcoming" value="ogni giovedì dalle 20:45 alle 22:45"/>
     <EntryInfo variant="target" value="adulti, dai 18 anni, con eccezioni da concordare"/>
-    <EntryInfo variant="teacher" value="[Alessandra Marra](#alessandra-marra) e [Sonia Gallozzi](#sonia-gallozzi)" />
+    <EntryInfo variant="participants" label="Organizzato" value="da [Studio hOMe](/parteners/studio-home) e Clorofilla" />
+    <EntryInfo variant="teacher" value="[Alessandra Marra](#alessandra-marra), con la partecipazione di Sonia Gallozzi (naturopata, fitoterapeuta, riflessologa, esperta in fiori di Bach, Guida Ambientale Escursionistica, raccoglitrice professionale di erbe in natura spontanea)" />
     <EntryInfo variant="web" value="https://homesentieridiconsapevolezza.com" />
     <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)" $bottom={6}/>
   </Col>
@@ -64,14 +64,5 @@ showUpcomingEvents: true
     <EntryInfo variant="web" label="Studio hOMe" value="[scopri di più](/partners/studio-home)" />
     <EntryInfo variant="email" label="Email" value="[alemarra@libero.it](mailto:alemarra@libero.it)" $bottom={1}/>
     <EntryInfo variant="phone" label="Telefono" value="[328 8721571](tel:3288721571)"/>
-  </Col>
-</Row>
-<Row>
-  <Col md={2}></Col>
-  <Col xs={3} md={2}></Col>
-  <Col xs={9} md={6}>
-    ### Sonia Gallazzi
-
-    Naturopata, fitoterapeuta, riflessologa, esperta in fiori di Bach, Guida Ambientale Escursionistica, raccoglitrice professionale di erbe in natura spontanea.
   </Col>
 </Row>
