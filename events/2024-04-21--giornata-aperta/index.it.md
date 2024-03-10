@@ -21,6 +21,7 @@ partners:
   - scuola-di-psicomotricità-relazionale
   - studio-home
   - sonia-ranza
+  - barbara-malinverno
   - garuda-yoga
 tags:
   - festa
