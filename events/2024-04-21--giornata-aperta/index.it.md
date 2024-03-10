@@ -1,7 +1,8 @@
 ---
 template: events-single
 slug: giornata-aperta-2024
-priority: 99
+archive: false
+priority: 35
 homepage: true
 date: 2024-04-21T16:00:00.000Z
 title: Giornata aperta

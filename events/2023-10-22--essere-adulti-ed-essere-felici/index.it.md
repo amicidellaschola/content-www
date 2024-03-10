@@ -3,7 +3,7 @@ template: events-single
 slug: essere-adulti-ed-essere-felici
 archive: false
 priority: 34
-homepage: true
+homepage: false
 date: 2023-10-22T00:09:00.000Z
 seo:
   ogimage: ./cover.jpg
