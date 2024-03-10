@@ -3,7 +3,7 @@ template: events-single
 slug: giornata-aperta-2024
 priority: 99
 homepage: true
-date: 2022-10-08T15:30:00.000Z
+date: 2024-04-21T16:00:00.000Z
 title: Giornata aperta
 subtitle: Un pomeriggio insieme per vivere la LaSchola di Morosolo
 cover:
