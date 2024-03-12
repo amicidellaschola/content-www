@@ -13,6 +13,7 @@ logo: ./pictogram.png
 <EntryInfo variant="web" label="Visita" value="[scuolapsicomotricita.it](https://scuolapsicomotricita.it/)"/>
 <EntryInfo variant="location" label="Sede" value="[Via Vergani 1, 21100 Varese](https://goo.gl/maps/h2J3oPbQsXw7A2Cx9)"/>
 <EntryInfo variant="phone" label="Telefoni" value="[347 250 6558](tel:3472506558) o [339 617 85 72](tel:3396178572)"/>
+<EntryInfo variant="email" label="Email" value="[scuolapsi2018@gmail.com](mailto:scuolapsi2018@gmail.com)"/>
 <EntryInfo variant="teacher" label="Fondata da" value="[Roberto Soru](https://www.facebook.com/roberto.soru.94)" $bottom={6}/>
 
 <Row $valign="center">
