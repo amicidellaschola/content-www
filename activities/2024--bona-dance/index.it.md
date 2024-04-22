@@ -22,7 +22,7 @@ tags:
 showUpcomingEvents: true
 ---
 
-<EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
+<EntryInfo variant="duration" label="periodo" value="da settembre a giugno" />
 <EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
 <EntryInfo variant="target" value="tutti"/>
 <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>

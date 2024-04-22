@@ -23,7 +23,7 @@ tags:
   - campo estivo
 ---
 
-<EntryInfo variant="frequency" label="Quando" value="dal 14 al 20 luglio 2024"/>
+<EntryInfo variant="frequency" label="Quando" value="14-20 luglio 2024"/>
 <EntryInfo variant="target" label="fascia d'età" value="6 - 16 anni"/>
 <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
 <EntryInfo variant="teacher" label="Organizzato da" value="[Crescendo in musica](http://www.musicaperbambini.eu/mpb/home/crescendo-in-musica/)" />
