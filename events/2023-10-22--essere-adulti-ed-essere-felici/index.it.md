@@ -62,7 +62,7 @@ tags:
       ![laura-pasetti-theatre-of-the-seven-directions](./laura-pasetti.jpg)
     </ImgRounded>
   </Col>
-  <Col xs={9} md={6} id="micaela-ferrarese">
+  <Col xs={9} md={6} id="laura-pasetti">
     ### Laura Pasetti
     
     Formata con Giorgio Strehler al Piccolo Teatro di Milano, dove ha insegnato per 10 anni, si è specializzata in spettacoli e laboratori per adolescenti.
