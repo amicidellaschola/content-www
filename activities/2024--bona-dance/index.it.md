@@ -22,22 +22,11 @@ tags:
 showUpcomingEvents: true
 ---
 
-<Row $valign="center">
-  <Col md={7}>
-    <EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
-    <EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
-    <EntryInfo variant="target" value="tutti"/>
-    <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
-    <EntryInfo variant="web" label="Visita" value="[bonadance.com](https://bonadance.com)" $bottom={6}/>
-  </Col>
-  <Col md={5}>
-    <Alert $bottom={6} color="lilla">
-      Per maggiori informazioni e iscrizioni visita
-      
-      <ButtonLink href="https://bonadance.com/bona-varese">bonadance.com</ButtonLink>
-    </Alert>
-  </Col>
-</Row>
+<EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
+<EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
+<EntryInfo variant="target" value="tutti"/>
+<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
+<EntryInfo variant="web" label="Visita" value="[bonadance.com](https://bonadance.com)" $bottom={6}/>
 
 <Row $top={6}>
   <Col $narrow $initial>
@@ -50,6 +39,10 @@ showUpcomingEvents: true
     <QuoteAuthor>
       da [bonadance.com/bona-varese](https://bonadance.com/bona-varese/)
     </QuoteAuthor>
+
+    Per maggiori informazioni e iscrizioni visita
+      
+    <ButtonLink href="https://bonadance.com/bona-varese">bonadance.com</ButtonLink>
   </Col>
 </Row>
 
