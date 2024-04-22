@@ -22,15 +22,25 @@ tags:
 showUpcomingEvents: true
 ---
 
-<EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
-<EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
-<EntryInfo variant="target" value="tutti"/>
-<EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
-<EntryInfo variant="teacher" value="[Barbara Malinverno](#barbara-malinverno)" />
-<EntryInfo variant="web" label="Visita" value="[bonadance.com](https://bonadance.com)" $bottom={6}/>
+<Row>
+  <Col md={7}>
+    <EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
+    <EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
+    <EntryInfo variant="target" value="tutti"/>
+    <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
+    <EntryInfo variant="web" label="Visita" value="[bonadance.com](https://bonadance.com)" $bottom={6}/>
+  </Col>
+  <Col md={5}>
+    <Alert $bottom={6} color="lilla">
+      Per maggiori informazioni e iscrizioni visita
+      
+      <ButtonLink href="https://bonadance.com/bona-varese">bonadance.com</ButtonLink>
+    </Alert>
+  </Col>
+</Row>
 
 <Row $top={6}>
-  <Col $columned $initial>
+  <Col $narrow $initial>
     La nostra missione è semplice: rendere la danza contemporanea accessibile a tutti e in particolare agli adulti, indipendentemente dall’età o dall’esperienza.
     
     Bona è più di una semplice scuola di danza, è una comunità che celebra l’inclusività e la passione per la danza.
@@ -40,10 +50,6 @@ showUpcomingEvents: true
     <QuoteAuthor>
       da [bonadance.com/bona-varese](https://bonadance.com/bona-varese/)
     </QuoteAuthor>
-
-    Per maggiori informazioni e iscrizioni visita
-    
-    <ButtonLink href="https://bonadance.com/bona-varese">bonadance.com</ButtonLink>
   </Col>
 </Row>
 
