@@ -8,7 +8,7 @@ title: Bona Dance
 subtitle: Dove la gioia della danza è per tutti
 startYear: 2024
 cover:
-  image: ./cover.jpg
+  image: ./cover2.jpg
 googleCalendarEventRegex: Bona dance
 cardLabel: al mercoledì sera
 # partners:
@@ -22,7 +22,7 @@ tags:
 showUpcomingEvents: true
 ---
 
-<Row>
+<Row $valign="center">
   <Col md={7}>
     <EntryInfo variant="duration" label="periodo" value="da settembre a giugno" $top={6}/>
     <EntryInfo variant="frequency" label="ogni mercoledì" value="20:00 - 22:00" />
