@@ -31,7 +31,9 @@ tags:
   <Col md={7}>
 
     > Riconosci la tua Stanza nel Cuore e impara ad ascoltare come gli ambienti comunicano con il tuo mondo interno.
-
+  </Col>
+<Row>
+  <Col md={6}>
     Cosa significa Abitare una stanza? Una casa? Una città? Cosa significa Abitare il mondo?
 
     Questo laboratorio esperienziale è il primo passo per aprire uno spazio di ascolto: come comunicano i luoghi con il mio mondo interno? Quale linguaggio utilizzano e come posso aprire uno spazio di relazione?
@@ -47,15 +49,16 @@ tags:
     Per info e prenotazioni:
 
     <ButtonLink href="tel:+393282487320">WhatsApp 328 248 7320</ButtonLink>
+  </Col>
+  <Col md={6}>
+    Per tutti i genitori e le famiglie, abbiamo organizzato nelle stesse ore anche un laboratorio con merenda "ChiAma la Natura" per bambini 3-9 anni condotto da Cristina.
 
-Per tutti i genitori e le famiglie, abbiamo organizzato nelle stesse ore anche un laboratorio con merenda "ChiAma la Natura" per bambini 3-9 anni condotto da Cristina.
+    > Spargiamo semi per dare vita a nuovi mondi. Vieni a scoprire come si creano le palline di argilla e semi.
 
-> Spargiamo semi per dare vita a nuovi mondi. Vieni a scoprire come si creano le palline di argilla e semi.
-
-<EntryInfo variant="duration" label="Durata" value="120 minuti"/>
-<EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
-<EntryInfo variant="price" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
-<EntryInfo variant="price" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"/>
+    <EntryInfo variant="duration" label="Durata" value="120 minuti"/>
+    <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
+    <EntryInfo variant="price" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
+    <EntryInfo variant="price" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"/>
   </Col>
 </Row>
 
