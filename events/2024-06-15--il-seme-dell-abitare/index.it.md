@@ -29,9 +29,9 @@ tags:
     <EntryInfo variant="phone" label="Telefono" value="[328 248 7320](tel:+393282487320)" $bottom={3}/>
   </Col>
   <Col md={7}>
-
     > Riconosci la tua Stanza nel Cuore e impara ad ascoltare come gli ambienti comunicano con il tuo mondo interno.
   </Col>
+</Row>
 <Row>
   <Col md={6} $top={3}>
     Cosa significa Abitare una stanza? Una casa? Una città? Cosa significa Abitare il mondo?
@@ -45,8 +45,6 @@ tags:
     <QuoteAuthor>
       arch. [Claudia Risi](#claudia-risi)
     </QuoteAuthor>
-
-    Per :
 
     <ButtonLink href="#contattaci">Info e prenotazioni</ButtonLink>
   </Col>
@@ -86,6 +84,6 @@ tags:
 
     <EntryInfo variant="web" label="Instagram" value="[instagram.com/biu.lab](https://www.instagram.com/biu.lab/)" $top={2}/>
     <EntryInfo variant="web" label="Facebook" value="[facebook.com/infobiu](https://www.facebook.com/infobiu/)"/>
-    <EntryInfo variant="phone" label="WhatsApp" value="[328 248 7320](tel:+393282487320)" $bottom={2}/>
+    <EntryInfo variant="phone" label="WhatsApp" value="[328 248 7320](tel:+393282487320)" $bottom={1}/>
   </Col>
 </Row>
