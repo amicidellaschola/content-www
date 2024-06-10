@@ -26,7 +26,10 @@ tags:
     <EntryInfo variant="duration" label="Orario" value="dalle 15:00 alle 17:00"/>
     <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
     <EntryInfo variant="teacher" label="Condotto da" value="arch. [Claudia Risi](#claudia-risi)"/>
-    <EntryInfo variant="phone" label="Telefono" value="[328 248 7320](tel:+393282487320)" $bottom={3}/>
+    <EntryInfo variant="phone" label="Telefono" value="[328 248 7320](tel:+393282487320)"/>
+    <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
+    <EntryInfo variant="price" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
+    <EntryInfo variant="price" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"  $bottom={3}/>
   </Col>
   <Col md={7}>
     > Riconosci la tua Stanza nel Cuore e impara ad ascoltare come gli ambienti comunicano con il tuo mondo interno.
@@ -52,11 +55,6 @@ tags:
     Per tutti i genitori e le famiglie, abbiamo organizzato nelle stesse ore anche un laboratorio con merenda "ChiAma la Natura" per bambini 3-9 anni condotto da Cristina.
 
     > Spargiamo semi per dare vita a nuovi mondi. Vieni a scoprire come si creano le palline di argilla e semi.
-
-    <EntryInfo variant="duration" label="Durata" value="120 minuti"/>
-    <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
-    <EntryInfo variant="price" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
-    <EntryInfo variant="price" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"/>
   </Col>
 </Row>
 
