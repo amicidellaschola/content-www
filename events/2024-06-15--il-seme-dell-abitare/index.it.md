@@ -86,6 +86,6 @@ tags:
 
     <EntryInfo variant="web" label="Instagram" value="[instagram.com/biu.lab](https://www.instagram.com/biu.lab/)" $top={2}/>
     <EntryInfo variant="web" label="Facebook" value="[facebook.com/infobiu](https://www.facebook.com/infobiu/)"/>
-    <EntryInfo variant="phone" label="WhatsApp" value="[328 248 7320](tel:+393282487320)" $bottom={1}/>
+    <EntryInfo variant="phone" label="WhatsApp" value="[328 248 7320](tel:+393282487320)" $bottom={2}/>
   </Col>
 </Row>
