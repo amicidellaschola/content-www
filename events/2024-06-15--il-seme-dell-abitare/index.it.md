@@ -24,12 +24,11 @@ tags:
     <EntryInfo variant="location" label="A LaSchola" value="[Via Maroni 13, Casciago 21020, VA](https://g.page/laschola?share)"/>
     <EntryInfo variant="frequency" label="Quando" value="domenica 16 giugno 2024"/>
     <EntryInfo variant="duration" label="Orario" value="dalle 15:00 alle 17:00"/>
-    <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
     <EntryInfo variant="teacher" label="Condotto da" value="arch. [Claudia Risi](#claudia-risi)"/>
     <EntryInfo variant="phone" label="Telefono" value="[328 248 7320](tel:+393282487320)"/>
     <EntryInfo variant="price" label="Contributo" value="25 € a persona, materiali inclusi"/>
-    <EntryInfo variant="price" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
-    <EntryInfo variant="price" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"  $bottom={3}/>
+    <EntryInfo variant="participants" label="Pacchetto famiglia" value="30 €/1 adulto+1 bambino/a, materiali e merenda inclusi"/>
+    <EntryInfo variant="participants" label="Dal secondo figlio" value="10 €/bambino/a, materiali e merenda inclusi"  $bottom={3}/>
   </Col>
   <Col md={7}>
     > Riconosci la tua Stanza nel Cuore e impara ad ascoltare come gli ambienti comunicano con il tuo mondo interno.
