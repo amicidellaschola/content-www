@@ -3,7 +3,7 @@ template: pages-home
 slug: 
 seo:
   title: LaSchola
-  description: Centro polifunzionale per la formazione di sé
+  description: Centro per la formazione di sé
 title: LaSchola
 ---
 

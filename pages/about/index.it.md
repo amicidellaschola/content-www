@@ -2,7 +2,7 @@
 template: pages-about
 slug: chi-siamo
 title: Chi siamo
-subtitle: Centro polifunzionale per la formazione di sé
+subtitle: Centro per la formazione di sé
 ---
 
 <Row>
