@@ -32,7 +32,7 @@ Il bagno di Gong rappresenta un viaggio nel mare delle vibrazioni sprigionate da
 </Col>
 </Row>
 
-<Footnote $top={2}>
+&lt;Footnote $top={2}&gt;
 
 Per partecipare occorre la tessera associativa 2019/20 con l’[Associazione Vivenda](/partners/associazione-vivenda/), costo 10 €
 
