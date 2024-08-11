@@ -35,7 +35,8 @@ Porta con te: un cesto in tuo possesso, ne esamineremo insieme il tipo di intrec
 </Col>
 </Row>
 
-<Row $top={3} $bottom={3} $valign="center">
+&lt;Row $top={3} $bottom={3} $valign="center"&gt;
+
 <Col md={6}>
 <EntryInfo variant="frequency" label="Quando" value="14-15 dicembre 2019" top="6"/>
 <EntryInfo variant="participants" value="6 - 12"/>
@@ -65,7 +66,7 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 <Row>
 <Col $align="center">
 
-*La teoria si alternerà alla pratica nelle varie fasi della realizzazione del cesto, così avremo l'occasione di riposare un po' le mani.*
+_La teoria si alternerà alla pratica nelle varie fasi della realizzazione del cesto, così avremo l'occasione di riposare un po' le mani._
 
 ### Sabato 14 dicembre
 
@@ -81,5 +82,3 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 
 </Col>
 </Row>
-
-<FormContact id="contattaci" phoneable emailable subject="Laboratorio di ruralcesteria" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Laboratorio di ruralcesteria."></FormContact>
