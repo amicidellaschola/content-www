@@ -21,7 +21,8 @@ showUpcomingEvents: true
 # https://www.portalecorsi.com/cerca-corsi-di-informatica%20per%20anziani
 ---
 
-<Row $top={3} $bottom={3} $valign="center">
+&lt;Row $top={3} $bottom={3} $valign="center"&gt;
+
 <Col md={6}>
 <EntryInfo variant="upcoming" label="Martedì" value="11:00 - 12:15 oppure 18:45 - 20:00"/>
 <EntryInfo variant="duration" value="1h 15m"/>
@@ -45,5 +46,3 @@ Per partecipare è obbligatoria la tessera associativa con l'associazione [Amici
 </Row>
 
 <ButtonLink anchor="contattaci">Contattaci per info e iscrizioni</ButtonLink>
-
-<FormContact id="contattaci" phoneable emailable subject="Corso di informatica" subtitle="Contattaci" title="per iscrizioni o per richiedere maggiori informazioni" msg="Ciao, vi scrivo riguardo al Corso di informatica."></FormContact>
